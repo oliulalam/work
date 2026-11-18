@@ -1,0 +1,5 @@
+[2026-09-24 05:46:07] sync user=228 balance=508.7
+[2026-09-24 11:28:10] sync user=254 balance=106.15
+[2026-09-24 18:42:03] sync user=244 balance=3.46
+[2026-09-24 20:49:19] sync user=231 balance=13
+[2026-09-24 20:49:55] sync user=231 balance=13

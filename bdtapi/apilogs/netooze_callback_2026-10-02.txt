@@ -1,0 +1,459 @@
+[2026-10-02 00:00:01] ========================================
+[2026-10-02 00:00:01] === Netooze Callback Received ===
+[2026-10-02 00:00:01] Method: POST
+[2026-10-02 00:00:01] URI: /bdtapi/callback.php
+[2026-10-02 00:00:01] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"2bc2db71-8638-3869-b66a-d496b0018809","proxy_txn_id":"d5cbd165-9d8e-4d82-8d08-5ebb57b7b166","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:01] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"2bc2db71-8638-3869-b66a-d496b0018809","proxy_txn_id":"d5cbd165-9d8e-4d82-8d08-5ebb57b7b166","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:01] Resolving raw player_id='66274'
+[2026-10-02 00:00:01] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:01] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 2bc2db71-8638-3869-b66a-d496b0018809
+[2026-10-02 00:00:01] ✅ Main wallet balance for user 274: 4.58 BDT
+[2026-10-02 00:00:01] ✅ BET processed: deducted 0.5, new balance: 4.08
+[2026-10-02 00:00:01] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:01] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":4.08,"user_balance":4.08,"money":4.08,"amount":4.08,"data":{"balance":4.08,"user_balance":4.08,"amount":4.08}} (HTTP: 200)
+[2026-10-02 00:00:05] ========================================
+[2026-10-02 00:00:05] === Netooze Callback Received ===
+[2026-10-02 00:00:05] Method: POST
+[2026-10-02 00:00:05] URI: /bdtapi/callback.php
+[2026-10-02 00:00:05] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"9ce42945-d84d-30e0-915a-56e5e20eff35","proxy_txn_id":"2fdd08b5-a90d-49dd-806f-0764eada51eb","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:05] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"9ce42945-d84d-30e0-915a-56e5e20eff35","proxy_txn_id":"2fdd08b5-a90d-49dd-806f-0764eada51eb","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:05] Resolving raw player_id='66274'
+[2026-10-02 00:00:05] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:05] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 9ce42945-d84d-30e0-915a-56e5e20eff35
+[2026-10-02 00:00:05] ✅ Main wallet balance for user 274: 4.08 BDT
+[2026-10-02 00:00:05] ✅ BET processed: deducted 0.5, new balance: 3.58
+[2026-10-02 00:00:05] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:05] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":3.58,"user_balance":3.58,"money":3.58,"amount":3.58,"data":{"balance":3.58,"user_balance":3.58,"amount":3.58}} (HTTP: 200)
+[2026-10-02 00:00:08] ========================================
+[2026-10-02 00:00:08] === Netooze Callback Received ===
+[2026-10-02 00:00:08] Method: POST
+[2026-10-02 00:00:08] URI: /bdtapi/callback.php
+[2026-10-02 00:00:08] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"9aecd653-bf21-3033-9bc3-4b82015c6993","proxy_txn_id":"c5d83c45-4028-45f6-8454-4cf8d799847e","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:08] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"9aecd653-bf21-3033-9bc3-4b82015c6993","proxy_txn_id":"c5d83c45-4028-45f6-8454-4cf8d799847e","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:08] Resolving raw player_id='66274'
+[2026-10-02 00:00:08] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:08] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 9aecd653-bf21-3033-9bc3-4b82015c6993
+[2026-10-02 00:00:08] ✅ Main wallet balance for user 274: 3.58 BDT
+[2026-10-02 00:00:08] ✅ BET processed: deducted 0.5, new balance: 3.08
+[2026-10-02 00:00:08] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:08] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":3.08,"user_balance":3.08,"money":3.08,"amount":3.08,"data":{"balance":3.08,"user_balance":3.08,"amount":3.08}} (HTTP: 200)
+[2026-10-02 00:00:11] ========================================
+[2026-10-02 00:00:11] === Netooze Callback Received ===
+[2026-10-02 00:00:11] Method: POST
+[2026-10-02 00:00:11] URI: /bdtapi/callback.php
+[2026-10-02 00:00:11] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"62f5798a-b8bf-3f6d-ac69-1eadf96243f9","proxy_txn_id":"ecbd0803-cc9a-47a2-be82-3ae9a03bdc7b","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:11] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"62f5798a-b8bf-3f6d-ac69-1eadf96243f9","proxy_txn_id":"ecbd0803-cc9a-47a2-be82-3ae9a03bdc7b","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:11] Resolving raw player_id='66274'
+[2026-10-02 00:00:11] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:11] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 62f5798a-b8bf-3f6d-ac69-1eadf96243f9
+[2026-10-02 00:00:11] ✅ Main wallet balance for user 274: 3.08 BDT
+[2026-10-02 00:00:11] ✅ BET processed: deducted 0.5, new balance: 2.58
+[2026-10-02 00:00:11] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:11] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":2.58,"user_balance":2.58,"money":2.58,"amount":2.58,"data":{"balance":2.58,"user_balance":2.58,"amount":2.58}} (HTTP: 200)
+[2026-10-02 00:00:14] ========================================
+[2026-10-02 00:00:14] === Netooze Callback Received ===
+[2026-10-02 00:00:14] Method: POST
+[2026-10-02 00:00:14] URI: /bdtapi/callback.php
+[2026-10-02 00:00:14] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"9c349cd6-8a45-3acd-8cc8-bdc7dce7908d","proxy_txn_id":"a4e8c264-3453-4ef7-8750-6094f423b77a","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:14] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"9c349cd6-8a45-3acd-8cc8-bdc7dce7908d","proxy_txn_id":"a4e8c264-3453-4ef7-8750-6094f423b77a","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:14] Resolving raw player_id='66274'
+[2026-10-02 00:00:14] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:14] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 9c349cd6-8a45-3acd-8cc8-bdc7dce7908d
+[2026-10-02 00:00:14] ✅ Main wallet balance for user 274: 2.58 BDT
+[2026-10-02 00:00:14] ✅ BET processed: deducted 0.5, new balance: 2.08
+[2026-10-02 00:00:14] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:14] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":2.08,"user_balance":2.08,"money":2.08,"amount":2.08,"data":{"balance":2.08,"user_balance":2.08,"amount":2.08}} (HTTP: 200)
+[2026-10-02 00:00:17] ========================================
+[2026-10-02 00:00:17] === Netooze Callback Received ===
+[2026-10-02 00:00:17] Method: POST
+[2026-10-02 00:00:17] URI: /bdtapi/callback.php
+[2026-10-02 00:00:17] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"1216b0a8-da9c-31fc-b9c9-1ce2bace644b","proxy_txn_id":"e35c873c-9f94-46b6-947e-5afe77046fc1","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:17] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"1216b0a8-da9c-31fc-b9c9-1ce2bace644b","proxy_txn_id":"e35c873c-9f94-46b6-947e-5afe77046fc1","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:17] Resolving raw player_id='66274'
+[2026-10-02 00:00:17] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:17] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 1216b0a8-da9c-31fc-b9c9-1ce2bace644b
+[2026-10-02 00:00:17] ✅ Main wallet balance for user 274: 2.08 BDT
+[2026-10-02 00:00:17] ✅ BET processed: deducted 0.5, new balance: 1.58
+[2026-10-02 00:00:17] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:17] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1.58,"user_balance":1.58,"money":1.58,"amount":1.58,"data":{"balance":1.58,"user_balance":1.58,"amount":1.58}} (HTTP: 200)
+[2026-10-02 00:00:20] ========================================
+[2026-10-02 00:00:20] === Netooze Callback Received ===
+[2026-10-02 00:00:20] Method: POST
+[2026-10-02 00:00:20] URI: /bdtapi/callback.php
+[2026-10-02 00:00:20] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"549c64e8-e9de-355f-b842-2d59e76fa0a7","proxy_txn_id":"5cd014e5-b48c-4d45-91f9-5173b5159a5c","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:20] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"549c64e8-e9de-355f-b842-2d59e76fa0a7","proxy_txn_id":"5cd014e5-b48c-4d45-91f9-5173b5159a5c","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:20] Resolving raw player_id='66274'
+[2026-10-02 00:00:20] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:20] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 549c64e8-e9de-355f-b842-2d59e76fa0a7
+[2026-10-02 00:00:20] ✅ Main wallet balance for user 274: 1.58 BDT
+[2026-10-02 00:00:20] ✅ BET processed: deducted 0.5, new balance: 1.08
+[2026-10-02 00:00:20] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:20] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1.08,"user_balance":1.08,"money":1.08,"amount":1.08,"data":{"balance":1.08,"user_balance":1.08,"amount":1.08}} (HTTP: 200)
+[2026-10-02 00:00:22] ========================================
+[2026-10-02 00:00:22] === Netooze Callback Received ===
+[2026-10-02 00:00:22] Method: POST
+[2026-10-02 00:00:22] URI: /bdtapi/callback.php
+[2026-10-02 00:00:22] Raw input: {"action":"bet_and_win","player_id":"66274","amount":0.5,"bet_amount":0.5,"win_amount":0.05,"currency":"BDT","provider_txn_id":"3d9943a0-2b7a-3c91-a6f4-222a641b3ed2","proxy_txn_id":"5fea0872-31ed-4798-b487-e3ced06934d0","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:22] Parsed payload: {"action":"bet_and_win","player_id":"66274","amount":0.5,"bet_amount":0.5,"win_amount":0.05000000000000000277555756156289135105907917022705078125,"currency":"BDT","provider_txn_id":"3d9943a0-2b7a-3c91-a6f4-222a641b3ed2","proxy_txn_id":"5fea0872-31ed-4798-b487-e3ced06934d0","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:22] Resolving raw player_id='66274'
+[2026-10-02 00:00:22] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:22] Action: bet_and_win | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 3d9943a0-2b7a-3c91-a6f4-222a641b3ed2
+[2026-10-02 00:00:22] ✅ Main wallet balance for user 274: 1.08 BDT
+[2026-10-02 00:00:22] ✅ BET_AND_WIN processed: deducted 0.5, credited 0.05, new balance: 0.63
+[2026-10-02 00:00:22] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:22] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0.63,"user_balance":0.63,"money":0.63,"amount":0.63,"data":{"balance":0.63,"user_balance":0.63,"amount":0.63}} (HTTP: 200)
+[2026-10-02 00:00:28] ========================================
+[2026-10-02 00:00:28] === Netooze Callback Received ===
+[2026-10-02 00:00:28] Method: POST
+[2026-10-02 00:00:28] URI: /bdtapi/callback.php
+[2026-10-02 00:00:28] Raw input: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"79413023-ccb5-3ac1-9a4c-3c483cbdb050","proxy_txn_id":"0e287fc5-83ca-4c32-9c31-67afc3608872","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:28] Parsed payload: {"action":"bet","player_id":"66274","amount":0.5,"currency":"BDT","provider_txn_id":"79413023-ccb5-3ac1-9a4c-3c483cbdb050","proxy_txn_id":"0e287fc5-83ca-4c32-9c31-67afc3608872","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-10-02 00:00:28] Resolving raw player_id='66274'
+[2026-10-02 00:00:28] Resolved via alias map: 66274 → 274
+[2026-10-02 00:00:28] Action: bet | Player: 66274 | Real User ID: 274 | Amount: 0.5 | TXN: 79413023-ccb5-3ac1-9a4c-3c483cbdb050
+[2026-10-02 00:00:28] ✅ Main wallet balance for user 274: 0.63 BDT
+[2026-10-02 00:00:28] ✅ BET processed: deducted 0.5, new balance: 0.13
+[2026-10-02 00:00:28] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 274
+[2026-10-02 00:00:28] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0.13,"user_balance":0.13,"money":0.13,"amount":0.13,"data":{"balance":0.13,"user_balance":0.13,"amount":0.13}} (HTTP: 200)
+[2026-10-02 07:25:16] ========================================
+[2026-10-02 07:25:16] === Netooze Callback Received ===
+[2026-10-02 07:25:16] Method: POST
+[2026-10-02 07:25:16] URI: /bdtapi/callback.php
+[2026-10-02 07:25:16] Raw input: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 07:25:16] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 07:25:16] Resolving raw player_id='RS_KAKI66_276'
+[2026-10-02 07:25:16] Resolved via direct wallet match: 276 → 276
+[2026-10-02 07:25:16] Action: balance | Player: RS_KAKI66_276 | Real User ID: 276 | Amount: 0 | TXN: 
+[2026-10-02 07:25:16] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 07:25:16] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 07:25:17] ========================================
+[2026-10-02 07:25:17] === Netooze Callback Received ===
+[2026-10-02 07:25:17] Method: POST
+[2026-10-02 07:25:17] URI: /bdtapi/callback.php
+[2026-10-02 07:25:17] Raw input: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 07:25:17] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 07:25:17] Resolving raw player_id='RS_KAKI66_276'
+[2026-10-02 07:25:17] Resolved via direct wallet match: 276 → 276
+[2026-10-02 07:25:17] Action: balance | Player: RS_KAKI66_276 | Real User ID: 276 | Amount: 0 | TXN: 
+[2026-10-02 07:25:17] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 07:25:17] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 07:25:18] ========================================
+[2026-10-02 07:25:18] === Netooze Callback Received ===
+[2026-10-02 07:25:18] Method: POST
+[2026-10-02 07:25:18] URI: /bdtapi/callback.php
+[2026-10-02 07:25:18] Raw input: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 07:25:18] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 07:25:18] Resolving raw player_id='RS_KAKI66_276'
+[2026-10-02 07:25:18] Resolved via direct wallet match: 276 → 276
+[2026-10-02 07:25:18] Action: balance | Player: RS_KAKI66_276 | Real User ID: 276 | Amount: 0 | TXN: 
+[2026-10-02 07:25:18] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 07:25:18] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 07:25:49] ========================================
+[2026-10-02 07:25:49] === Netooze Callback Received ===
+[2026-10-02 07:25:49] Method: POST
+[2026-10-02 07:25:49] URI: /bdtapi/callback.php
+[2026-10-02 07:25:49] Raw input: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"514f84c6-1e35-323b-b439-ba3470c4629d","proxy_txn_id":"3cbaba2e-bcbf-4be6-973f-cb1f6f87f500","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:49] Parsed payload: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"514f84c6-1e35-323b-b439-ba3470c4629d","proxy_txn_id":"3cbaba2e-bcbf-4be6-973f-cb1f6f87f500","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:49] Resolving raw player_id='66276'
+[2026-10-02 07:25:49] Resolved via alias map: 66276 → 276
+[2026-10-02 07:25:49] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 1 | TXN: 514f84c6-1e35-323b-b439-ba3470c4629d
+[2026-10-02 07:25:49] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 07:25:49] ✅ BET processed: deducted 1, new balance: 4
+[2026-10-02 07:25:49] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+1) for user 276
+[2026-10-02 07:25:49] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":4,"user_balance":4,"money":4,"amount":4,"data":{"balance":4,"user_balance":4,"amount":4}} (HTTP: 200)
+[2026-10-02 07:25:53] ========================================
+[2026-10-02 07:25:53] === Netooze Callback Received ===
+[2026-10-02 07:25:53] Method: POST
+[2026-10-02 07:25:53] URI: /bdtapi/callback.php
+[2026-10-02 07:25:53] Raw input: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"7e830ef0-e286-381d-b5ed-cd75eed6e9cf","proxy_txn_id":"403e3910-d596-4896-b0a6-fb30fa6396f1","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:53] Parsed payload: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"7e830ef0-e286-381d-b5ed-cd75eed6e9cf","proxy_txn_id":"403e3910-d596-4896-b0a6-fb30fa6396f1","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:53] Resolving raw player_id='66276'
+[2026-10-02 07:25:53] Resolved via alias map: 66276 → 276
+[2026-10-02 07:25:53] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 1 | TXN: 7e830ef0-e286-381d-b5ed-cd75eed6e9cf
+[2026-10-02 07:25:53] ✅ Main wallet balance for user 276: 4 BDT
+[2026-10-02 07:25:53] ✅ BET processed: deducted 1, new balance: 3
+[2026-10-02 07:25:53] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+1) for user 276
+[2026-10-02 07:25:53] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":3,"user_balance":3,"money":3,"amount":3,"data":{"balance":3,"user_balance":3,"amount":3}} (HTTP: 200)
+[2026-10-02 07:25:56] ========================================
+[2026-10-02 07:25:56] === Netooze Callback Received ===
+[2026-10-02 07:25:56] Method: POST
+[2026-10-02 07:25:56] URI: /bdtapi/callback.php
+[2026-10-02 07:25:56] Raw input: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"45c56e26-cfae-305e-a889-a237238bf281","proxy_txn_id":"d5aa4ac3-62bd-4fc0-83ab-c41e5459824b","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:56] Parsed payload: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"45c56e26-cfae-305e-a889-a237238bf281","proxy_txn_id":"d5aa4ac3-62bd-4fc0-83ab-c41e5459824b","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:56] Resolving raw player_id='66276'
+[2026-10-02 07:25:56] Resolved via alias map: 66276 → 276
+[2026-10-02 07:25:56] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 1 | TXN: 45c56e26-cfae-305e-a889-a237238bf281
+[2026-10-02 07:25:56] ✅ Main wallet balance for user 276: 3 BDT
+[2026-10-02 07:25:56] ✅ BET processed: deducted 1, new balance: 2
+[2026-10-02 07:25:56] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+1) for user 276
+[2026-10-02 07:25:56] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":2,"user_balance":2,"money":2,"amount":2,"data":{"balance":2,"user_balance":2,"amount":2}} (HTTP: 200)
+[2026-10-02 07:25:59] ========================================
+[2026-10-02 07:25:59] === Netooze Callback Received ===
+[2026-10-02 07:25:59] Method: POST
+[2026-10-02 07:25:59] URI: /bdtapi/callback.php
+[2026-10-02 07:25:59] Raw input: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"aa1580df-8778-3856-aeb0-61047e00243c","proxy_txn_id":"0849ab34-eb51-49b3-ae1f-7bc3e6501938","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:59] Parsed payload: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"aa1580df-8778-3856-aeb0-61047e00243c","proxy_txn_id":"0849ab34-eb51-49b3-ae1f-7bc3e6501938","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:25:59] Resolving raw player_id='66276'
+[2026-10-02 07:25:59] Resolved via alias map: 66276 → 276
+[2026-10-02 07:25:59] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 1 | TXN: aa1580df-8778-3856-aeb0-61047e00243c
+[2026-10-02 07:25:59] ✅ Main wallet balance for user 276: 2 BDT
+[2026-10-02 07:25:59] ✅ BET processed: deducted 1, new balance: 1
+[2026-10-02 07:25:59] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+1) for user 276
+[2026-10-02 07:25:59] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1,"user_balance":1,"money":1,"amount":1,"data":{"balance":1,"user_balance":1,"amount":1}} (HTTP: 200)
+[2026-10-02 07:26:02] ========================================
+[2026-10-02 07:26:02] === Netooze Callback Received ===
+[2026-10-02 07:26:02] Method: POST
+[2026-10-02 07:26:02] URI: /bdtapi/callback.php
+[2026-10-02 07:26:02] Raw input: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"11543604-843c-3ad8-a6a2-d82285cfe900","proxy_txn_id":"3766b867-df3b-4f92-807b-48ce4a8eaca0","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:26:02] Parsed payload: {"action":"bet","player_id":"66276","amount":1,"currency":"BDT","provider_txn_id":"11543604-843c-3ad8-a6a2-d82285cfe900","proxy_txn_id":"3766b867-df3b-4f92-807b-48ce4a8eaca0","game_code":"1ab23c1fda76ec10778b458fac552e37"}
+[2026-10-02 07:26:02] Resolving raw player_id='66276'
+[2026-10-02 07:26:02] Resolved via alias map: 66276 → 276
+[2026-10-02 07:26:02] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 1 | TXN: 11543604-843c-3ad8-a6a2-d82285cfe900
+[2026-10-02 07:26:02] ✅ Main wallet balance for user 276: 1 BDT
+[2026-10-02 07:26:02] ✅ BET processed: deducted 1, new balance: 0
+[2026-10-02 07:26:02] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+1) for user 276
+[2026-10-02 07:26:02] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0,"user_balance":0,"money":0,"amount":0,"data":{"balance":0,"user_balance":0,"amount":0}} (HTTP: 200)
+[2026-10-02 13:17:45] ========================================
+[2026-10-02 13:17:45] === Netooze Callback Received ===
+[2026-10-02 13:17:45] Method: POST
+[2026-10-02 13:17:45] URI: /bdtapi/callback.php
+[2026-10-02 13:17:45] Raw input: {"action":"balance","player_id":"RS_KAKI66_231","currency":"BDT"}
+[2026-10-02 13:17:45] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_231","currency":"BDT"}
+[2026-10-02 13:17:45] Resolving raw player_id='RS_KAKI66_231'
+[2026-10-02 13:17:45] Resolved via direct wallet match: 231 → 231
+[2026-10-02 13:17:45] Action: balance | Player: RS_KAKI66_231 | Real User ID: 231 | Amount: 0 | TXN: 
+[2026-10-02 13:17:45] ✅ Main wallet balance for user 231: 3.4 BDT
+[2026-10-02 13:17:45] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":3.4,"user_balance":3.4,"money":3.4,"amount":3.4,"data":{"balance":3.4,"user_balance":3.4,"amount":3.4}} (HTTP: 200)
+[2026-10-02 16:01:05] ========================================
+[2026-10-02 16:01:05] === Netooze Callback Received ===
+[2026-10-02 16:01:05] Method: POST
+[2026-10-02 16:01:05] URI: /bdtapi/callback.php
+[2026-10-02 16:01:05] Raw input: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 16:01:05] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 16:01:05] Resolving raw player_id='RS_KAKI66_276'
+[2026-10-02 16:01:05] Resolved via direct wallet match: 276 → 276
+[2026-10-02 16:01:05] Action: balance | Player: RS_KAKI66_276 | Real User ID: 276 | Amount: 0 | TXN: 
+[2026-10-02 16:01:05] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 16:01:05] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 16:03:23] ========================================
+[2026-10-02 16:03:23] === Netooze Callback Received ===
+[2026-10-02 16:03:23] Method: POST
+[2026-10-02 16:03:23] URI: /bdtapi/callback.php
+[2026-10-02 16:03:23] Raw input: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 16:03:23] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_276","currency":"BDT"}
+[2026-10-02 16:03:23] Resolving raw player_id='RS_KAKI66_276'
+[2026-10-02 16:03:23] Resolved via direct wallet match: 276 → 276
+[2026-10-02 16:03:23] Action: balance | Player: RS_KAKI66_276 | Real User ID: 276 | Amount: 0 | TXN: 
+[2026-10-02 16:03:23] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 16:03:23] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 16:03:55] ========================================
+[2026-10-02 16:03:55] === Netooze Callback Received ===
+[2026-10-02 16:03:55] Method: POST
+[2026-10-02 16:03:55] URI: /bdtapi/callback.php
+[2026-10-02 16:03:55] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"9f020ebe-24ba-37af-b61d-ac9ae81d956a","proxy_txn_id":"aa5aec08-f432-437c-af0b-4f3bfa9e9bd9","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:03:55] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"9f020ebe-24ba-37af-b61d-ac9ae81d956a","proxy_txn_id":"aa5aec08-f432-437c-af0b-4f3bfa9e9bd9","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:03:55] Resolving raw player_id='66276'
+[2026-10-02 16:03:55] Resolved via alias map: 66276 → 276
+[2026-10-02 16:03:55] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 9f020ebe-24ba-37af-b61d-ac9ae81d956a
+[2026-10-02 16:03:55] ✅ Main wallet balance for user 276: 5 BDT
+[2026-10-02 16:03:55] ✅ BET processed: deducted 0.5, new balance: 4.5
+[2026-10-02 16:03:55] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:03:55] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":4.5,"user_balance":4.5,"money":4.5,"amount":4.5,"data":{"balance":4.5,"user_balance":4.5,"amount":4.5}} (HTTP: 200)
+[2026-10-02 16:03:58] ========================================
+[2026-10-02 16:03:58] === Netooze Callback Received ===
+[2026-10-02 16:03:58] Method: POST
+[2026-10-02 16:03:58] URI: /bdtapi/callback.php
+[2026-10-02 16:03:58] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"460e9de5-7b60-3424-88a4-f4e2c0242195","proxy_txn_id":"4ae1b8ec-e20d-4b6d-b9b7-bf9a27c4d83c","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:03:58] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"460e9de5-7b60-3424-88a4-f4e2c0242195","proxy_txn_id":"4ae1b8ec-e20d-4b6d-b9b7-bf9a27c4d83c","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:03:58] Resolving raw player_id='66276'
+[2026-10-02 16:03:58] Resolved via alias map: 66276 → 276
+[2026-10-02 16:03:58] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 460e9de5-7b60-3424-88a4-f4e2c0242195
+[2026-10-02 16:03:58] ✅ Main wallet balance for user 276: 4.5 BDT
+[2026-10-02 16:03:58] ✅ BET processed: deducted 0.5, new balance: 4
+[2026-10-02 16:03:58] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:03:58] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":4,"user_balance":4,"money":4,"amount":4,"data":{"balance":4,"user_balance":4,"amount":4}} (HTTP: 200)
+[2026-10-02 16:04:01] ========================================
+[2026-10-02 16:04:01] === Netooze Callback Received ===
+[2026-10-02 16:04:01] Method: POST
+[2026-10-02 16:04:01] URI: /bdtapi/callback.php
+[2026-10-02 16:04:01] Raw input: {"action":"bet_and_win","player_id":"66276","amount":0.5,"bet_amount":0.5,"win_amount":0.2,"currency":"BDT","provider_txn_id":"c3979767-2c63-39b2-9826-66ac1ab8efaf","proxy_txn_id":"704e31fc-3694-40e1-a5fc-05f5c810d4d2","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:01] Parsed payload: {"action":"bet_and_win","player_id":"66276","amount":0.5,"bet_amount":0.5,"win_amount":0.200000000000000011102230246251565404236316680908203125,"currency":"BDT","provider_txn_id":"c3979767-2c63-39b2-9826-66ac1ab8efaf","proxy_txn_id":"704e31fc-3694-40e1-a5fc-05f5c810d4d2","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:01] Resolving raw player_id='66276'
+[2026-10-02 16:04:01] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:01] Action: bet_and_win | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: c3979767-2c63-39b2-9826-66ac1ab8efaf
+[2026-10-02 16:04:01] ✅ Main wallet balance for user 276: 4 BDT
+[2026-10-02 16:04:01] ✅ BET_AND_WIN processed: deducted 0.5, credited 0.2, new balance: 3.7
+[2026-10-02 16:04:01] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:01] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":3.7,"user_balance":3.7,"money":3.7,"amount":3.7,"data":{"balance":3.7,"user_balance":3.7,"amount":3.7}} (HTTP: 200)
+[2026-10-02 16:04:06] ========================================
+[2026-10-02 16:04:06] === Netooze Callback Received ===
+[2026-10-02 16:04:06] Method: POST
+[2026-10-02 16:04:06] URI: /bdtapi/callback.php
+[2026-10-02 16:04:06] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"767db942-4ae6-3015-80f6-e7a11befd97a","proxy_txn_id":"dd61b509-a8ab-4ab5-9676-bf8786a97609","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:06] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"767db942-4ae6-3015-80f6-e7a11befd97a","proxy_txn_id":"dd61b509-a8ab-4ab5-9676-bf8786a97609","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:06] Resolving raw player_id='66276'
+[2026-10-02 16:04:06] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:06] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 767db942-4ae6-3015-80f6-e7a11befd97a
+[2026-10-02 16:04:06] ✅ Main wallet balance for user 276: 3.7 BDT
+[2026-10-02 16:04:06] ✅ BET processed: deducted 0.5, new balance: 3.2
+[2026-10-02 16:04:06] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:06] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":3.2,"user_balance":3.2,"money":3.2,"amount":3.2,"data":{"balance":3.2,"user_balance":3.2,"amount":3.2}} (HTTP: 200)
+[2026-10-02 16:04:10] ========================================
+[2026-10-02 16:04:10] === Netooze Callback Received ===
+[2026-10-02 16:04:10] Method: POST
+[2026-10-02 16:04:10] URI: /bdtapi/callback.php
+[2026-10-02 16:04:10] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"ab110d39-62c0-3e37-8619-66d80c6bf5ca","proxy_txn_id":"8ee28c24-b04c-49cb-affc-9389c24bc3a3","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:10] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"ab110d39-62c0-3e37-8619-66d80c6bf5ca","proxy_txn_id":"8ee28c24-b04c-49cb-affc-9389c24bc3a3","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:10] Resolving raw player_id='66276'
+[2026-10-02 16:04:10] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:10] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: ab110d39-62c0-3e37-8619-66d80c6bf5ca
+[2026-10-02 16:04:10] ✅ Main wallet balance for user 276: 3.2 BDT
+[2026-10-02 16:04:10] ✅ BET processed: deducted 0.5, new balance: 2.7
+[2026-10-02 16:04:10] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:10] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":2.7,"user_balance":2.7,"money":2.7,"amount":2.7,"data":{"balance":2.7,"user_balance":2.7,"amount":2.7}} (HTTP: 200)
+[2026-10-02 16:04:13] ========================================
+[2026-10-02 16:04:13] === Netooze Callback Received ===
+[2026-10-02 16:04:13] Method: POST
+[2026-10-02 16:04:13] URI: /bdtapi/callback.php
+[2026-10-02 16:04:13] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"02b90f1f-a699-32ce-8da6-318c178a018d","proxy_txn_id":"7151a530-f828-467c-b9a8-3bcf292ccf39","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:13] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"02b90f1f-a699-32ce-8da6-318c178a018d","proxy_txn_id":"7151a530-f828-467c-b9a8-3bcf292ccf39","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:13] Resolving raw player_id='66276'
+[2026-10-02 16:04:13] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:13] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 02b90f1f-a699-32ce-8da6-318c178a018d
+[2026-10-02 16:04:13] ✅ Main wallet balance for user 276: 2.7 BDT
+[2026-10-02 16:04:13] ✅ BET processed: deducted 0.5, new balance: 2.2
+[2026-10-02 16:04:13] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:13] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":2.2,"user_balance":2.2,"money":2.2,"amount":2.2,"data":{"balance":2.2,"user_balance":2.2,"amount":2.2}} (HTTP: 200)
+[2026-10-02 16:04:19] ========================================
+[2026-10-02 16:04:19] === Netooze Callback Received ===
+[2026-10-02 16:04:19] Method: POST
+[2026-10-02 16:04:19] URI: /bdtapi/callback.php
+[2026-10-02 16:04:19] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"f104a3d9-390d-3995-a5bb-b70dc1df11bc","proxy_txn_id":"4f393485-db79-4549-9b4b-3a95c2787250","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:19] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"f104a3d9-390d-3995-a5bb-b70dc1df11bc","proxy_txn_id":"4f393485-db79-4549-9b4b-3a95c2787250","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:19] Resolving raw player_id='66276'
+[2026-10-02 16:04:19] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:19] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: f104a3d9-390d-3995-a5bb-b70dc1df11bc
+[2026-10-02 16:04:19] ✅ Main wallet balance for user 276: 2.2 BDT
+[2026-10-02 16:04:19] ✅ BET processed: deducted 0.5, new balance: 1.7
+[2026-10-02 16:04:19] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:19] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1.7,"user_balance":1.7,"money":1.7,"amount":1.7,"data":{"balance":1.7,"user_balance":1.7,"amount":1.7}} (HTTP: 200)
+[2026-10-02 16:04:22] ========================================
+[2026-10-02 16:04:22] === Netooze Callback Received ===
+[2026-10-02 16:04:22] Method: POST
+[2026-10-02 16:04:22] URI: /bdtapi/callback.php
+[2026-10-02 16:04:22] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"1ac347b1-e47a-3795-b6db-d62433d02f8c","proxy_txn_id":"a6da0f01-51ce-4ede-a18d-a3cec4165df8","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:22] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"1ac347b1-e47a-3795-b6db-d62433d02f8c","proxy_txn_id":"a6da0f01-51ce-4ede-a18d-a3cec4165df8","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:22] Resolving raw player_id='66276'
+[2026-10-02 16:04:22] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:22] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 1ac347b1-e47a-3795-b6db-d62433d02f8c
+[2026-10-02 16:04:22] ✅ Main wallet balance for user 276: 1.7 BDT
+[2026-10-02 16:04:22] ✅ BET processed: deducted 0.5, new balance: 1.2
+[2026-10-02 16:04:22] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:22] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1.2,"user_balance":1.2,"money":1.2,"amount":1.2,"data":{"balance":1.2,"user_balance":1.2,"amount":1.2}} (HTTP: 200)
+[2026-10-02 16:04:26] ========================================
+[2026-10-02 16:04:26] === Netooze Callback Received ===
+[2026-10-02 16:04:26] Method: POST
+[2026-10-02 16:04:26] URI: /bdtapi/callback.php
+[2026-10-02 16:04:26] Raw input: {"action":"bet_and_win","player_id":"66276","amount":0.5,"bet_amount":0.5,"win_amount":0.8,"currency":"BDT","provider_txn_id":"c34bbf95-ea6c-3dbb-8012-8f638e201521","proxy_txn_id":"fb380cbc-8ebc-482d-8a62-2b328aec4f47","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:26] Parsed payload: {"action":"bet_and_win","player_id":"66276","amount":0.5,"bet_amount":0.5,"win_amount":0.8000000000000000444089209850062616169452667236328125,"currency":"BDT","provider_txn_id":"c34bbf95-ea6c-3dbb-8012-8f638e201521","proxy_txn_id":"fb380cbc-8ebc-482d-8a62-2b328aec4f47","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:26] Resolving raw player_id='66276'
+[2026-10-02 16:04:26] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:26] Action: bet_and_win | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: c34bbf95-ea6c-3dbb-8012-8f638e201521
+[2026-10-02 16:04:26] ✅ Main wallet balance for user 276: 1.2 BDT
+[2026-10-02 16:04:26] ✅ BET_AND_WIN processed: deducted 0.5, credited 0.8, new balance: 1.5
+[2026-10-02 16:04:26] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:26] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1.5,"user_balance":1.5,"money":1.5,"amount":1.5,"data":{"balance":1.5,"user_balance":1.5,"amount":1.5}} (HTTP: 200)
+[2026-10-02 16:04:31] ========================================
+[2026-10-02 16:04:31] === Netooze Callback Received ===
+[2026-10-02 16:04:31] Method: POST
+[2026-10-02 16:04:31] URI: /bdtapi/callback.php
+[2026-10-02 16:04:31] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"1a769004-4841-3fcc-b094-acbb83f3b330","proxy_txn_id":"a8bbfc68-6106-4526-97c3-b6cafe32f940","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:31] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"1a769004-4841-3fcc-b094-acbb83f3b330","proxy_txn_id":"a8bbfc68-6106-4526-97c3-b6cafe32f940","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:31] Resolving raw player_id='66276'
+[2026-10-02 16:04:31] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:31] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 1a769004-4841-3fcc-b094-acbb83f3b330
+[2026-10-02 16:04:31] ✅ Main wallet balance for user 276: 1.5 BDT
+[2026-10-02 16:04:31] ✅ BET processed: deducted 0.5, new balance: 1
+[2026-10-02 16:04:31] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:31] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":1,"user_balance":1,"money":1,"amount":1,"data":{"balance":1,"user_balance":1,"amount":1}} (HTTP: 200)
+[2026-10-02 16:04:35] ========================================
+[2026-10-02 16:04:35] === Netooze Callback Received ===
+[2026-10-02 16:04:35] Method: POST
+[2026-10-02 16:04:35] URI: /bdtapi/callback.php
+[2026-10-02 16:04:35] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"68154cbf-895f-3057-80e0-ba132b2fd9bf","proxy_txn_id":"fb4acd06-dfbb-4294-a69e-f5dcce595d05","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:35] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"68154cbf-895f-3057-80e0-ba132b2fd9bf","proxy_txn_id":"fb4acd06-dfbb-4294-a69e-f5dcce595d05","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:35] Resolving raw player_id='66276'
+[2026-10-02 16:04:35] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:35] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: 68154cbf-895f-3057-80e0-ba132b2fd9bf
+[2026-10-02 16:04:35] ✅ Main wallet balance for user 276: 1 BDT
+[2026-10-02 16:04:35] ✅ BET processed: deducted 0.5, new balance: 0.5
+[2026-10-02 16:04:35] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:35] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0.5,"user_balance":0.5,"money":0.5,"amount":0.5,"data":{"balance":0.5,"user_balance":0.5,"amount":0.5}} (HTTP: 200)
+[2026-10-02 16:04:38] ========================================
+[2026-10-02 16:04:38] === Netooze Callback Received ===
+[2026-10-02 16:04:38] Method: POST
+[2026-10-02 16:04:38] URI: /bdtapi/callback.php
+[2026-10-02 16:04:38] Raw input: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"c7093d7d-709a-327c-ae0e-9a27e18c13d9","proxy_txn_id":"b6cb12b1-0ecd-4de4-bee0-5f6adc9bbe74","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:38] Parsed payload: {"action":"bet","player_id":"66276","amount":0.5,"currency":"BDT","provider_txn_id":"c7093d7d-709a-327c-ae0e-9a27e18c13d9","proxy_txn_id":"b6cb12b1-0ecd-4de4-bee0-5f6adc9bbe74","game_code":"4db0ec24ff55a685573c888efed47d7f"}
+[2026-10-02 16:04:38] Resolving raw player_id='66276'
+[2026-10-02 16:04:38] Resolved via alias map: 66276 → 276
+[2026-10-02 16:04:38] Action: bet | Player: 66276 | Real User ID: 276 | Amount: 0.5 | TXN: c7093d7d-709a-327c-ae0e-9a27e18c13d9
+[2026-10-02 16:04:38] ✅ Main wallet balance for user 276: 0.5 BDT
+[2026-10-02 16:04:38] ✅ BET processed: deducted 0.5, new balance: 0
+[2026-10-02 16:04:38] ✅ Turnover updated: users.turnover_completed & user_withdraw_summary updated (+0.5) for user 276
+[2026-10-02 16:04:38] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0,"user_balance":0,"money":0,"amount":0,"data":{"balance":0,"user_balance":0,"amount":0}} (HTTP: 200)
+[2026-10-02 16:32:57] ========================================
+[2026-10-02 16:32:57] === Netooze Callback Received ===
+[2026-10-02 16:32:57] Method: POST
+[2026-10-02 16:32:57] URI: /bdtapi/callback.php
+[2026-10-02 16:32:57] Raw input: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:32:57] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:32:57] Resolving raw player_id='RS_KAKI66_277'
+[2026-10-02 16:32:57] Resolved via direct wallet match: 277 → 277
+[2026-10-02 16:32:57] Action: balance | Player: RS_KAKI66_277 | Real User ID: 277 | Amount: 0 | TXN: 
+[2026-10-02 16:32:57] ✅ Main wallet balance for user 277: 5 BDT
+[2026-10-02 16:32:57] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 16:37:11] ========================================
+[2026-10-02 16:37:11] === Netooze Callback Received ===
+[2026-10-02 16:37:11] Method: POST
+[2026-10-02 16:37:11] URI: /bdtapi/callback.php
+[2026-10-02 16:37:11] Raw input: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:37:11] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:37:11] Resolving raw player_id='RS_KAKI66_277'
+[2026-10-02 16:37:11] Resolved via direct wallet match: 277 → 277
+[2026-10-02 16:37:11] Action: balance | Player: RS_KAKI66_277 | Real User ID: 277 | Amount: 0 | TXN: 
+[2026-10-02 16:37:11] ✅ Main wallet balance for user 277: 5 BDT
+[2026-10-02 16:37:11] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 16:37:24] ========================================
+[2026-10-02 16:37:24] === Netooze Callback Received ===
+[2026-10-02 16:37:24] Method: POST
+[2026-10-02 16:37:24] URI: /bdtapi/callback.php
+[2026-10-02 16:37:24] Raw input: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:37:24] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:37:24] Resolving raw player_id='RS_KAKI66_277'
+[2026-10-02 16:37:24] Resolved via direct wallet match: 277 → 277
+[2026-10-02 16:37:24] Action: balance | Player: RS_KAKI66_277 | Real User ID: 277 | Amount: 0 | TXN: 
+[2026-10-02 16:37:24] ✅ Main wallet balance for user 277: 5 BDT
+[2026-10-02 16:37:24] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 16:37:26] ========================================
+[2026-10-02 16:37:26] === Netooze Callback Received ===
+[2026-10-02 16:37:26] Method: POST
+[2026-10-02 16:37:26] URI: /bdtapi/callback.php
+[2026-10-02 16:37:26] Raw input: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:37:26] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_277","currency":"BDT"}
+[2026-10-02 16:37:26] Resolving raw player_id='RS_KAKI66_277'
+[2026-10-02 16:37:26] Resolved via direct wallet match: 277 → 277
+[2026-10-02 16:37:26] Action: balance | Player: RS_KAKI66_277 | Real User ID: 277 | Amount: 0 | TXN: 
+[2026-10-02 16:37:26] ✅ Main wallet balance for user 277: 5 BDT
+[2026-10-02 16:37:26] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":5,"user_balance":5,"money":5,"amount":5,"data":{"balance":5,"user_balance":5,"amount":5}} (HTTP: 200)
+[2026-10-02 16:39:52] ========================================
+[2026-10-02 16:39:52] === Netooze Callback Received ===
+[2026-10-02 16:39:52] Method: POST
+[2026-10-02 16:39:52] URI: /bdtapi/callback.php
+[2026-10-02 16:39:52] Raw input: {"action":"balance","player_id":"RS_KAKI66_265","currency":"BDT"}
+[2026-10-02 16:39:52] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_265","currency":"BDT"}
+[2026-10-02 16:39:52] Resolving raw player_id='RS_KAKI66_265'
+[2026-10-02 16:39:52] Resolved via direct wallet match: 265 → 265
+[2026-10-02 16:39:52] Action: balance | Player: RS_KAKI66_265 | Real User ID: 265 | Amount: 0 | TXN: 
+[2026-10-02 16:39:52] ✅ Main wallet balance for user 265: 0.3 BDT
+[2026-10-02 16:39:52] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0.3,"user_balance":0.3,"money":0.3,"amount":0.3,"data":{"balance":0.3,"user_balance":0.3,"amount":0.3}} (HTTP: 200)

@@ -1,0 +1,6 @@
+[2026-09-25 09:42:37] sync user=258 balance=5
+[2026-09-25 09:43:57] sync user=258 balance=5
+[2026-09-25 09:44:44] sync user=258 balance=5
+[2026-09-25 18:40:32] sync user=259 balance=5
+[2026-09-25 18:42:43] sync user=259 balance=5
+[2026-09-25 20:57:36] sync user=260 balance=5

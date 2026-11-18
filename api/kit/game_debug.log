@@ -1,0 +1,8 @@
+2026-06-14 09:16:01 - BALANCE INQUIRY RAW: {"action":"balance","member_account":"User Test"}
+2026-06-14 09:18:16 - CALLBACK: action=bet | serial= | member= | bet=0 | win=0 | game=
+2026-06-14 09:23:37 - CALLBACK: action=bet | serial=TEST001 | member=30000000001 | bet=100 | win=50 | game=TEST
+2026-06-14 09:23:37 - CALLBACK: USER ID: 1
+2026-06-14 09:23:38 - CALLBACK: UPDATED: user=1 balance=1230.2 -> 1180.2 bet=100 win=50
+2026-06-14 09:52:49 - CALLBACK: action=settle | serial=TEST999 | member=30000000001 | bet=50 | win=150 | game=TEST
+2026-06-14 09:52:49 - CALLBACK: USER ID: 1
+2026-06-14 09:52:49 - CALLBACK: UPDATED: user=1 balance=1000 -> 1150 bet=50 win=150

@@ -1,0 +1,1439 @@
+[2026-08-14 04:36:18] ========================================
+[2026-08-14 04:36:18] === Netooze Callback Received ===
+[2026-08-14 04:36:18] Method: POST
+[2026-08-14 04:36:18] URI: /bdtapi/callback.php
+[2026-08-14 04:36:18] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 04:36:18] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 04:36:18] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 04:36:18] Resolved via alias map: 235 → 235
+[2026-08-14 04:36:18] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 04:36:18] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 04:36:18] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 16:13:11] ========================================
+[2026-08-14 16:13:11] === Netooze Callback Received ===
+[2026-08-14 16:13:11] Method: POST
+[2026-08-14 16:13:11] URI: /bdtapi/callback.php
+[2026-08-14 16:13:11] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 16:13:11] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 16:13:11] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 16:13:11] Resolved via alias map: 235 → 235
+[2026-08-14 16:13:11] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 16:13:11] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 16:13:11] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 16:36:35] ========================================
+[2026-08-14 16:36:35] === Netooze Callback Received ===
+[2026-08-14 16:36:35] Method: POST
+[2026-08-14 16:36:35] URI: /bdtapi/callback.php
+[2026-08-14 16:36:35] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 16:36:35] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 16:36:35] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 16:36:35] Resolved via alias map: 235 → 235
+[2026-08-14 16:36:35] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 16:36:35] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 16:36:35] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 16:36:39] ========================================
+[2026-08-14 16:36:39] === Netooze Callback Received ===
+[2026-08-14 16:36:39] Method: POST
+[2026-08-14 16:36:39] URI: /bdtapi/callback.php
+[2026-08-14 16:36:39] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 16:36:39] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 16:36:39] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 16:36:39] Resolved via alias map: 235 → 235
+[2026-08-14 16:36:39] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 16:36:39] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 16:36:39] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 16:37:44] ========================================
+[2026-08-14 16:37:44] === Netooze Callback Received ===
+[2026-08-14 16:37:44] Method: POST
+[2026-08-14 16:37:44] URI: /bdtapi/callback.php
+[2026-08-14 16:37:44] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 16:37:44] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 16:37:44] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 16:37:44] Resolved via alias map: 235 → 235
+[2026-08-14 16:37:44] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 16:37:44] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 16:37:44] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 16:56:52] ========================================
+[2026-08-14 16:56:52] === Netooze Callback Received ===
+[2026-08-14 16:56:52] Method: POST
+[2026-08-14 16:56:52] URI: /bdtapi/callback.php
+[2026-08-14 16:56:52] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-14 16:56:52] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-14 16:56:52] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-14 16:56:52] Resolved via alias map: 228 → 228
+[2026-08-14 16:56:52] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-14 16:56:52] ✅ Main wallet balance for user 228: 4.2 BDT
+[2026-08-14 16:56:52] Response: {"status":"SUCCESS","balance":4.2} (HTTP: 200)
+[2026-08-14 16:57:33] ========================================
+[2026-08-14 16:57:33] === Netooze Callback Received ===
+[2026-08-14 16:57:33] Method: POST
+[2026-08-14 16:57:33] URI: /bdtapi/callback.php
+[2026-08-14 16:57:33] Raw input: {"action":"bet","player_id":"77228","amount":2,"currency":"BDT","provider_txn_id":"28b2a411-32a3-3f00-8758-fb7a739820eb","proxy_txn_id":"31e0ca1c-10eb-488e-872b-47602ef5149a","game_code":"b1e11902cecf38023f2916569c32040a"}
+[2026-08-14 16:57:33] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 2,
+    "currency": "BDT",
+    "provider_txn_id": "28b2a411-32a3-3f00-8758-fb7a739820eb",
+    "proxy_txn_id": "31e0ca1c-10eb-488e-872b-47602ef5149a",
+    "game_code": "b1e11902cecf38023f2916569c32040a"
+}
+[2026-08-14 16:57:33] Resolving player_id='77228' → candidate='77228'
+[2026-08-14 16:57:33] Resolved via alias map: 77228 → 228
+[2026-08-14 16:57:33] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 2 | TXN: 28b2a411-32a3-3f00-8758-fb7a739820eb
+[2026-08-14 16:57:33] ✅ Main wallet balance for user 228: 4.2 BDT
+[2026-08-14 16:57:33] ✅ BET processed: deducted 2, new balance: 2.2
+[2026-08-14 16:57:33] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-14 16:57:33] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-14 16:57:33] Response: {"status":"SUCCESS","balance":2.2} (HTTP: 200)
+[2026-08-14 16:57:35] ========================================
+[2026-08-14 16:57:35] === Netooze Callback Received ===
+[2026-08-14 16:57:35] Method: POST
+[2026-08-14 16:57:35] URI: /bdtapi/callback.php
+[2026-08-14 16:57:35] Raw input: {"action":"bet","player_id":"77228","amount":2,"currency":"BDT","provider_txn_id":"c7c4cd52-8b82-34ee-82b1-ec6258e68cb1","proxy_txn_id":"decc43b7-d96e-4fb2-893e-e67a81ac3e76","game_code":"b1e11902cecf38023f2916569c32040a"}
+[2026-08-14 16:57:35] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 2,
+    "currency": "BDT",
+    "provider_txn_id": "c7c4cd52-8b82-34ee-82b1-ec6258e68cb1",
+    "proxy_txn_id": "decc43b7-d96e-4fb2-893e-e67a81ac3e76",
+    "game_code": "b1e11902cecf38023f2916569c32040a"
+}
+[2026-08-14 16:57:35] Resolving player_id='77228' → candidate='77228'
+[2026-08-14 16:57:35] Resolved via alias map: 77228 → 228
+[2026-08-14 16:57:35] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 2 | TXN: c7c4cd52-8b82-34ee-82b1-ec6258e68cb1
+[2026-08-14 16:57:35] ✅ Main wallet balance for user 228: 2.2 BDT
+[2026-08-14 16:57:35] ✅ BET processed: deducted 2, new balance: 0.2
+[2026-08-14 16:57:35] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-14 16:57:35] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-14 16:57:35] Response: {"status":"SUCCESS","balance":0.2} (HTTP: 200)
+[2026-08-14 17:00:41] ========================================
+[2026-08-14 17:00:41] === Netooze Callback Received ===
+[2026-08-14 17:00:41] Method: POST
+[2026-08-14 17:00:41] URI: /bdtapi/callback.php
+[2026-08-14 17:00:41] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:00:41] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:00:41] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:00:41] Resolved via alias map: 235 → 235
+[2026-08-14 17:00:41] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:00:41] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:00:41] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:00:56] ========================================
+[2026-08-14 17:00:56] === Netooze Callback Received ===
+[2026-08-14 17:00:56] Method: POST
+[2026-08-14 17:00:56] URI: /bdtapi/callback.php
+[2026-08-14 17:00:56] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:00:56] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:00:56] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:00:56] Resolved via alias map: 235 → 235
+[2026-08-14 17:00:56] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:00:56] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:00:56] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:01:07] ========================================
+[2026-08-14 17:01:07] === Netooze Callback Received ===
+[2026-08-14 17:01:07] Method: POST
+[2026-08-14 17:01:07] URI: /bdtapi/callback.php
+[2026-08-14 17:01:07] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:01:07] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:01:07] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:01:07] Resolved via alias map: 235 → 235
+[2026-08-14 17:01:07] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:01:07] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:01:07] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:05:18] ========================================
+[2026-08-14 17:05:18] === Netooze Callback Received ===
+[2026-08-14 17:05:18] Method: POST
+[2026-08-14 17:05:18] URI: /bdtapi/callback.php
+[2026-08-14 17:05:18] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:05:18] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:05:18] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:05:18] Resolved via alias map: 235 → 235
+[2026-08-14 17:05:18] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:05:18] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:05:18] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:05:19] ========================================
+[2026-08-14 17:05:19] === Netooze Callback Received ===
+[2026-08-14 17:05:19] Method: POST
+[2026-08-14 17:05:19] URI: /bdtapi/callback.php
+[2026-08-14 17:05:19] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:05:19] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:05:19] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:05:19] Resolved via alias map: 235 → 235
+[2026-08-14 17:05:19] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:05:19] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:05:19] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:11:39] ========================================
+[2026-08-14 17:11:39] === Netooze Callback Received ===
+[2026-08-14 17:11:39] Method: POST
+[2026-08-14 17:11:39] URI: /bdtapi/callback.php
+[2026-08-14 17:11:39] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:11:39] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:11:39] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:11:39] Resolved via alias map: 235 → 235
+[2026-08-14 17:11:39] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:11:39] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:11:39] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:11:49] ========================================
+[2026-08-14 17:11:49] === Netooze Callback Received ===
+[2026-08-14 17:11:49] Method: POST
+[2026-08-14 17:11:49] URI: /bdtapi/callback.php
+[2026-08-14 17:11:49] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:11:49] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:11:49] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:11:49] Resolved via alias map: 235 → 235
+[2026-08-14 17:11:49] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:11:49] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:11:49] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:14:11] ========================================
+[2026-08-14 17:14:11] === Netooze Callback Received ===
+[2026-08-14 17:14:11] Method: POST
+[2026-08-14 17:14:11] URI: /bdtapi/callback.php
+[2026-08-14 17:14:11] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:14:11] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:14:11] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:14:11] Resolved via alias map: 235 → 235
+[2026-08-14 17:14:11] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:14:11] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:14:11] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:14:27] ========================================
+[2026-08-14 17:14:27] === Netooze Callback Received ===
+[2026-08-14 17:14:27] Method: POST
+[2026-08-14 17:14:27] URI: /bdtapi/callback.php
+[2026-08-14 17:14:27] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:14:27] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:14:27] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:14:27] Resolved via alias map: 235 → 235
+[2026-08-14 17:14:27] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:14:27] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:14:27] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:14:36] ========================================
+[2026-08-14 17:14:36] === Netooze Callback Received ===
+[2026-08-14 17:14:36] Method: POST
+[2026-08-14 17:14:36] URI: /bdtapi/callback.php
+[2026-08-14 17:14:36] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:14:36] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:14:36] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:14:36] Resolved via alias map: 235 → 235
+[2026-08-14 17:14:36] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:14:36] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:14:36] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:14:44] ========================================
+[2026-08-14 17:14:44] === Netooze Callback Received ===
+[2026-08-14 17:14:44] Method: POST
+[2026-08-14 17:14:44] URI: /bdtapi/callback.php
+[2026-08-14 17:14:44] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:14:44] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:14:44] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:14:44] Resolved via alias map: 235 → 235
+[2026-08-14 17:14:44] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:14:44] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:14:44] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:14:56] ========================================
+[2026-08-14 17:14:56] === Netooze Callback Received ===
+[2026-08-14 17:14:56] Method: POST
+[2026-08-14 17:14:56] URI: /bdtapi/callback.php
+[2026-08-14 17:14:56] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:14:56] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:14:56] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:14:56] Resolved via alias map: 235 → 235
+[2026-08-14 17:14:56] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:14:56] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:14:56] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:15:06] ========================================
+[2026-08-14 17:15:06] === Netooze Callback Received ===
+[2026-08-14 17:15:06] Method: POST
+[2026-08-14 17:15:06] URI: /bdtapi/callback.php
+[2026-08-14 17:15:06] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:15:06] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:15:06] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:15:06] Resolved via alias map: 235 → 235
+[2026-08-14 17:15:06] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:15:06] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:15:06] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:20:06] ========================================
+[2026-08-14 17:20:06] === Netooze Callback Received ===
+[2026-08-14 17:20:06] Method: POST
+[2026-08-14 17:20:06] URI: /bdtapi/callback.php
+[2026-08-14 17:20:06] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:20:06] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:20:06] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:20:06] Resolved via alias map: 235 → 235
+[2026-08-14 17:20:06] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:20:06] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:20:06] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:30:00] ========================================
+[2026-08-14 17:30:00] === Netooze Callback Received ===
+[2026-08-14 17:30:00] Method: POST
+[2026-08-14 17:30:00] URI: /bdtapi/callback.php
+[2026-08-14 17:30:00] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:30:00] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:30:00] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:30:00] Resolved via alias map: 235 → 235
+[2026-08-14 17:30:00] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:30:00] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:30:00] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:31:52] ========================================
+[2026-08-14 17:31:52] === Netooze Callback Received ===
+[2026-08-14 17:31:52] Method: POST
+[2026-08-14 17:31:52] URI: /bdtapi/callback.php
+[2026-08-14 17:31:52] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:31:52] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:31:52] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:31:52] Resolved via alias map: 235 → 235
+[2026-08-14 17:31:52] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:31:52] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:31:52] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:33:26] ========================================
+[2026-08-14 17:33:26] === Netooze Callback Received ===
+[2026-08-14 17:33:26] Method: POST
+[2026-08-14 17:33:26] URI: /bdtapi/callback.php
+[2026-08-14 17:33:26] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:33:26] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:33:26] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:33:26] Resolved via alias map: 235 → 235
+[2026-08-14 17:33:26] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:33:26] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:33:26] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:46:26] ========================================
+[2026-08-14 17:46:26] === Netooze Callback Received ===
+[2026-08-14 17:46:26] Method: POST
+[2026-08-14 17:46:26] URI: /bdtapi/callback.php
+[2026-08-14 17:46:26] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:46:26] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:46:26] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:46:26] Resolved via alias map: 235 → 235
+[2026-08-14 17:46:26] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:46:26] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:46:26] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:07] ========================================
+[2026-08-14 17:48:07] === Netooze Callback Received ===
+[2026-08-14 17:48:07] Method: POST
+[2026-08-14 17:48:07] URI: /bdtapi/callback.php
+[2026-08-14 17:48:07] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:07] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:07] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:07] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:07] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:07] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:07] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:08] ========================================
+[2026-08-14 17:48:08] === Netooze Callback Received ===
+[2026-08-14 17:48:08] Method: POST
+[2026-08-14 17:48:08] URI: /bdtapi/callback.php
+[2026-08-14 17:48:08] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:08] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:08] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:08] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:08] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:08] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:08] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:12] ========================================
+[2026-08-14 17:48:12] === Netooze Callback Received ===
+[2026-08-14 17:48:12] Method: POST
+[2026-08-14 17:48:12] URI: /bdtapi/callback.php
+[2026-08-14 17:48:12] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:12] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:12] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:12] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:12] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:12] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:12] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:27] ========================================
+[2026-08-14 17:48:27] === Netooze Callback Received ===
+[2026-08-14 17:48:27] Method: POST
+[2026-08-14 17:48:27] URI: /bdtapi/callback.php
+[2026-08-14 17:48:27] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:27] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:27] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:27] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:27] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:27] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:27] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:27] ========================================
+[2026-08-14 17:48:27] === Netooze Callback Received ===
+[2026-08-14 17:48:27] Method: POST
+[2026-08-14 17:48:27] URI: /bdtapi/callback.php
+[2026-08-14 17:48:27] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:27] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:27] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:27] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:27] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:27] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:27] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:28] ========================================
+[2026-08-14 17:48:28] === Netooze Callback Received ===
+[2026-08-14 17:48:28] Method: POST
+[2026-08-14 17:48:28] URI: /bdtapi/callback.php
+[2026-08-14 17:48:28] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:28] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:28] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:28] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:28] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:28] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:28] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:28] ========================================
+[2026-08-14 17:48:28] === Netooze Callback Received ===
+[2026-08-14 17:48:28] Method: POST
+[2026-08-14 17:48:28] URI: /bdtapi/callback.php
+[2026-08-14 17:48:28] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:28] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:28] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:28] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:28] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:28] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:28] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:29] ========================================
+[2026-08-14 17:48:29] === Netooze Callback Received ===
+[2026-08-14 17:48:29] Method: POST
+[2026-08-14 17:48:29] URI: /bdtapi/callback.php
+[2026-08-14 17:48:29] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:29] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:29] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:29] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:29] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:29] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:29] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:30] ========================================
+[2026-08-14 17:48:30] === Netooze Callback Received ===
+[2026-08-14 17:48:30] Method: POST
+[2026-08-14 17:48:30] URI: /bdtapi/callback.php
+[2026-08-14 17:48:30] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:30] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:30] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:30] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:30] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:30] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:30] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:30] ========================================
+[2026-08-14 17:48:30] === Netooze Callback Received ===
+[2026-08-14 17:48:30] Method: POST
+[2026-08-14 17:48:30] URI: /bdtapi/callback.php
+[2026-08-14 17:48:30] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:30] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:30] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:30] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:30] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:30] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:30] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:31] ========================================
+[2026-08-14 17:48:31] === Netooze Callback Received ===
+[2026-08-14 17:48:31] Method: POST
+[2026-08-14 17:48:31] URI: /bdtapi/callback.php
+[2026-08-14 17:48:31] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:31] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:31] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:31] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:31] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:31] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:31] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:31] ========================================
+[2026-08-14 17:48:31] === Netooze Callback Received ===
+[2026-08-14 17:48:31] Method: POST
+[2026-08-14 17:48:31] URI: /bdtapi/callback.php
+[2026-08-14 17:48:31] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:31] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:31] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:31] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:31] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:31] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:31] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:40] ========================================
+[2026-08-14 17:48:40] === Netooze Callback Received ===
+[2026-08-14 17:48:40] Method: POST
+[2026-08-14 17:48:40] URI: /bdtapi/callback.php
+[2026-08-14 17:48:40] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:40] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:40] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:40] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:40] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:40] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:40] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:48:41] ========================================
+[2026-08-14 17:48:41] === Netooze Callback Received ===
+[2026-08-14 17:48:41] Method: POST
+[2026-08-14 17:48:41] URI: /bdtapi/callback.php
+[2026-08-14 17:48:41] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:48:41] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:48:41] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:48:41] Resolved via alias map: 235 → 235
+[2026-08-14 17:48:41] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:48:41] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:48:41] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:50:44] ========================================
+[2026-08-14 17:50:44] === Netooze Callback Received ===
+[2026-08-14 17:50:44] Method: POST
+[2026-08-14 17:50:44] URI: /bdtapi/callback.php
+[2026-08-14 17:50:44] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:50:44] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:50:44] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:50:44] Resolved via alias map: 235 → 235
+[2026-08-14 17:50:44] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:50:44] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:50:44] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:51:22] ========================================
+[2026-08-14 17:51:22] === Netooze Callback Received ===
+[2026-08-14 17:51:22] Method: POST
+[2026-08-14 17:51:22] URI: /bdtapi/callback.php
+[2026-08-14 17:51:22] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:51:22] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:51:22] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:51:22] Resolved via alias map: 235 → 235
+[2026-08-14 17:51:22] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:51:22] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:51:22] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:51:26] ========================================
+[2026-08-14 17:51:26] === Netooze Callback Received ===
+[2026-08-14 17:51:26] Method: POST
+[2026-08-14 17:51:26] URI: /bdtapi/callback.php
+[2026-08-14 17:51:26] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:51:26] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:51:26] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:51:26] Resolved via alias map: 235 → 235
+[2026-08-14 17:51:26] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:51:26] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:51:26] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:51:33] ========================================
+[2026-08-14 17:51:33] === Netooze Callback Received ===
+[2026-08-14 17:51:33] Method: POST
+[2026-08-14 17:51:33] URI: /bdtapi/callback.php
+[2026-08-14 17:51:33] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:51:33] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:51:33] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:51:33] Resolved via alias map: 235 → 235
+[2026-08-14 17:51:33] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:51:33] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:51:33] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:51:37] ========================================
+[2026-08-14 17:51:37] === Netooze Callback Received ===
+[2026-08-14 17:51:37] Method: POST
+[2026-08-14 17:51:37] URI: /bdtapi/callback.php
+[2026-08-14 17:51:37] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:51:37] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:51:37] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:51:37] Resolved via alias map: 235 → 235
+[2026-08-14 17:51:37] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:51:37] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:51:37] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:51:40] ========================================
+[2026-08-14 17:51:40] === Netooze Callback Received ===
+[2026-08-14 17:51:40] Method: POST
+[2026-08-14 17:51:40] URI: /bdtapi/callback.php
+[2026-08-14 17:51:40] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:51:40] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:51:40] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:51:40] Resolved via alias map: 235 → 235
+[2026-08-14 17:51:40] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:51:40] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:51:40] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 17:52:22] ========================================
+[2026-08-14 17:52:22] === Netooze Callback Received ===
+[2026-08-14 17:52:22] Method: POST
+[2026-08-14 17:52:22] URI: /bdtapi/callback.php
+[2026-08-14 17:52:22] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 17:52:22] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 17:52:22] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 17:52:22] Resolved via alias map: 235 → 235
+[2026-08-14 17:52:22] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 17:52:22] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 17:52:22] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:06:15] ========================================
+[2026-08-14 18:06:15] === Netooze Callback Received ===
+[2026-08-14 18:06:15] Method: POST
+[2026-08-14 18:06:15] URI: /bdtapi/callback.php
+[2026-08-14 18:06:15] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:06:15] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:06:15] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:06:15] Resolved via alias map: 235 → 235
+[2026-08-14 18:06:15] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:06:15] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:06:15] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:07:43] ========================================
+[2026-08-14 18:07:43] === Netooze Callback Received ===
+[2026-08-14 18:07:43] Method: POST
+[2026-08-14 18:07:43] URI: /bdtapi/callback.php
+[2026-08-14 18:07:43] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:07:43] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:07:43] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:07:43] Resolved via alias map: 235 → 235
+[2026-08-14 18:07:43] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:07:43] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:07:43] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:12:37] ========================================
+[2026-08-14 18:12:37] === Netooze Callback Received ===
+[2026-08-14 18:12:37] Method: POST
+[2026-08-14 18:12:37] URI: /bdtapi/callback.php
+[2026-08-14 18:12:37] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:12:37] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:12:37] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:12:37] Resolved via alias map: 235 → 235
+[2026-08-14 18:12:37] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:12:37] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:12:37] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:14:55] ========================================
+[2026-08-14 18:14:55] === Netooze Callback Received ===
+[2026-08-14 18:14:55] Method: POST
+[2026-08-14 18:14:55] URI: /bdtapi/callback.php
+[2026-08-14 18:14:55] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:14:55] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:14:55] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:14:55] Resolved via alias map: 235 → 235
+[2026-08-14 18:14:55] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:14:55] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:14:55] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:15:25] ========================================
+[2026-08-14 18:15:25] === Netooze Callback Received ===
+[2026-08-14 18:15:25] Method: POST
+[2026-08-14 18:15:25] URI: /bdtapi/callback.php
+[2026-08-14 18:15:25] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:15:25] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:15:25] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:15:25] Resolved via alias map: 235 → 235
+[2026-08-14 18:15:25] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:15:25] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:15:25] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:17:18] ========================================
+[2026-08-14 18:17:18] === Netooze Callback Received ===
+[2026-08-14 18:17:18] Method: POST
+[2026-08-14 18:17:18] URI: /bdtapi/callback.php
+[2026-08-14 18:17:18] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:17:18] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:17:18] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:17:18] Resolved via alias map: 235 → 235
+[2026-08-14 18:17:18] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:17:18] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:17:18] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:23:21] ========================================
+[2026-08-14 18:23:21] === Netooze Callback Received ===
+[2026-08-14 18:23:21] Method: POST
+[2026-08-14 18:23:21] URI: /bdtapi/callback.php
+[2026-08-14 18:23:21] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:23:21] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:23:21] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:23:21] Resolved via alias map: 235 → 235
+[2026-08-14 18:23:21] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:23:21] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:23:21] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:36:45] ========================================
+[2026-08-14 18:36:45] === Netooze Callback Received ===
+[2026-08-14 18:36:45] Method: POST
+[2026-08-14 18:36:45] URI: /bdtapi/callback.php
+[2026-08-14 18:36:45] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:36:45] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:36:45] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:36:45] Resolved via alias map: 235 → 235
+[2026-08-14 18:36:45] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:36:45] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:36:45] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:37:46] ========================================
+[2026-08-14 18:37:46] === Netooze Callback Received ===
+[2026-08-14 18:37:46] Method: POST
+[2026-08-14 18:37:46] URI: /bdtapi/callback.php
+[2026-08-14 18:37:46] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:37:46] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:37:46] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:37:46] Resolved via alias map: 235 → 235
+[2026-08-14 18:37:46] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:37:46] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:37:46] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:38:51] ========================================
+[2026-08-14 18:38:51] === Netooze Callback Received ===
+[2026-08-14 18:38:51] Method: POST
+[2026-08-14 18:38:51] URI: /bdtapi/callback.php
+[2026-08-14 18:38:51] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:38:51] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:38:51] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:38:51] Resolved via alias map: 235 → 235
+[2026-08-14 18:38:51] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:38:51] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:38:51] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:39:27] ========================================
+[2026-08-14 18:39:27] === Netooze Callback Received ===
+[2026-08-14 18:39:27] Method: POST
+[2026-08-14 18:39:27] URI: /bdtapi/callback.php
+[2026-08-14 18:39:27] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:39:27] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:39:27] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:39:27] Resolved via alias map: 235 → 235
+[2026-08-14 18:39:27] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:39:27] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:39:27] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:42:52] ========================================
+[2026-08-14 18:42:52] === Netooze Callback Received ===
+[2026-08-14 18:42:52] Method: POST
+[2026-08-14 18:42:52] URI: /bdtapi/callback.php
+[2026-08-14 18:42:52] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:42:52] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:42:52] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:42:52] Resolved via alias map: 235 → 235
+[2026-08-14 18:42:52] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:42:52] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:42:52] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:43:08] ========================================
+[2026-08-14 18:43:08] === Netooze Callback Received ===
+[2026-08-14 18:43:08] Method: POST
+[2026-08-14 18:43:08] URI: /bdtapi/callback.php
+[2026-08-14 18:43:08] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:43:08] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:43:08] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:43:08] Resolved via alias map: 235 → 235
+[2026-08-14 18:43:08] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:43:08] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:43:08] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:43:27] ========================================
+[2026-08-14 18:43:27] === Netooze Callback Received ===
+[2026-08-14 18:43:27] Method: POST
+[2026-08-14 18:43:27] URI: /bdtapi/callback.php
+[2026-08-14 18:43:27] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:43:27] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:43:27] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:43:27] Resolved via alias map: 235 → 235
+[2026-08-14 18:43:27] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:43:27] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:43:27] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:44:14] ========================================
+[2026-08-14 18:44:14] === Netooze Callback Received ===
+[2026-08-14 18:44:14] Method: POST
+[2026-08-14 18:44:14] URI: /bdtapi/callback.php
+[2026-08-14 18:44:14] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:44:14] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:44:14] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:44:14] Resolved via alias map: 235 → 235
+[2026-08-14 18:44:14] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:44:14] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:44:14] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:53:12] ========================================
+[2026-08-14 18:53:12] === Netooze Callback Received ===
+[2026-08-14 18:53:12] Method: POST
+[2026-08-14 18:53:12] URI: /bdtapi/callback.php
+[2026-08-14 18:53:12] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:53:12] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:53:12] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:53:12] Resolved via alias map: 235 → 235
+[2026-08-14 18:53:12] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:53:12] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:53:12] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:53:15] ========================================
+[2026-08-14 18:53:15] === Netooze Callback Received ===
+[2026-08-14 18:53:15] Method: POST
+[2026-08-14 18:53:15] URI: /bdtapi/callback.php
+[2026-08-14 18:53:15] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:53:15] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:53:15] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:53:15] Resolved via alias map: 235 → 235
+[2026-08-14 18:53:15] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:53:15] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:53:15] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:54:06] ========================================
+[2026-08-14 18:54:06] === Netooze Callback Received ===
+[2026-08-14 18:54:06] Method: POST
+[2026-08-14 18:54:06] URI: /bdtapi/callback.php
+[2026-08-14 18:54:06] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:54:06] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:54:06] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:54:06] Resolved via alias map: 235 → 235
+[2026-08-14 18:54:06] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:54:06] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:54:06] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:58:51] ========================================
+[2026-08-14 18:58:51] === Netooze Callback Received ===
+[2026-08-14 18:58:51] Method: POST
+[2026-08-14 18:58:51] URI: /bdtapi/callback.php
+[2026-08-14 18:58:51] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:58:51] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:58:51] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:58:51] Resolved via alias map: 235 → 235
+[2026-08-14 18:58:51] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:58:51] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:58:51] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 18:59:34] ========================================
+[2026-08-14 18:59:34] === Netooze Callback Received ===
+[2026-08-14 18:59:34] Method: POST
+[2026-08-14 18:59:34] URI: /bdtapi/callback.php
+[2026-08-14 18:59:34] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 18:59:34] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 18:59:34] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 18:59:34] Resolved via alias map: 235 → 235
+[2026-08-14 18:59:34] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 18:59:34] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 18:59:34] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:01:31] ========================================
+[2026-08-14 19:01:31] === Netooze Callback Received ===
+[2026-08-14 19:01:31] Method: POST
+[2026-08-14 19:01:31] URI: /bdtapi/callback.php
+[2026-08-14 19:01:31] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:01:31] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:01:31] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:01:31] Resolved via alias map: 235 → 235
+[2026-08-14 19:01:31] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:01:31] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:01:31] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:01:34] ========================================
+[2026-08-14 19:01:34] === Netooze Callback Received ===
+[2026-08-14 19:01:34] Method: POST
+[2026-08-14 19:01:34] URI: /bdtapi/callback.php
+[2026-08-14 19:01:34] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:01:34] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:01:34] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:01:34] Resolved via alias map: 235 → 235
+[2026-08-14 19:01:34] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:01:34] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:01:34] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:03:12] ========================================
+[2026-08-14 19:03:12] === Netooze Callback Received ===
+[2026-08-14 19:03:12] Method: POST
+[2026-08-14 19:03:12] URI: /bdtapi/callback.php
+[2026-08-14 19:03:12] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:03:12] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:03:12] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:03:12] Resolved via alias map: 235 → 235
+[2026-08-14 19:03:12] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:03:12] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:03:12] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:04:49] ========================================
+[2026-08-14 19:04:49] === Netooze Callback Received ===
+[2026-08-14 19:04:49] Method: POST
+[2026-08-14 19:04:49] URI: /bdtapi/callback.php
+[2026-08-14 19:04:49] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:04:49] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:04:49] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:04:49] Resolved via alias map: 235 → 235
+[2026-08-14 19:04:49] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:04:49] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:04:49] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:04:54] ========================================
+[2026-08-14 19:04:54] === Netooze Callback Received ===
+[2026-08-14 19:04:54] Method: POST
+[2026-08-14 19:04:54] URI: /bdtapi/callback.php
+[2026-08-14 19:04:54] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:04:54] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:04:54] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:04:54] Resolved via alias map: 235 → 235
+[2026-08-14 19:04:54] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:04:54] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:04:54] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:09:11] ========================================
+[2026-08-14 19:09:11] === Netooze Callback Received ===
+[2026-08-14 19:09:11] Method: POST
+[2026-08-14 19:09:11] URI: /bdtapi/callback.php
+[2026-08-14 19:09:11] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:09:11] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:09:11] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:09:11] Resolved via alias map: 235 → 235
+[2026-08-14 19:09:11] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:09:11] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:09:11] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:09:19] ========================================
+[2026-08-14 19:09:19] === Netooze Callback Received ===
+[2026-08-14 19:09:19] Method: POST
+[2026-08-14 19:09:19] URI: /bdtapi/callback.php
+[2026-08-14 19:09:19] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:09:19] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:09:19] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:09:19] Resolved via alias map: 235 → 235
+[2026-08-14 19:09:19] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:09:19] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:09:19] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:09:22] ========================================
+[2026-08-14 19:09:22] === Netooze Callback Received ===
+[2026-08-14 19:09:22] Method: POST
+[2026-08-14 19:09:22] URI: /bdtapi/callback.php
+[2026-08-14 19:09:22] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:09:22] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:09:22] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:09:22] Resolved via alias map: 235 → 235
+[2026-08-14 19:09:22] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:09:22] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:09:22] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:15:58] ========================================
+[2026-08-14 19:15:58] === Netooze Callback Received ===
+[2026-08-14 19:15:58] Method: POST
+[2026-08-14 19:15:58] URI: /bdtapi/callback.php
+[2026-08-14 19:15:58] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:15:58] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:15:58] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:15:58] Resolved via alias map: 235 → 235
+[2026-08-14 19:15:58] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:15:58] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:15:58] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:17:32] ========================================
+[2026-08-14 19:17:32] === Netooze Callback Received ===
+[2026-08-14 19:17:32] Method: POST
+[2026-08-14 19:17:32] URI: /bdtapi/callback.php
+[2026-08-14 19:17:32] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:17:32] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:17:32] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:17:32] Resolved via alias map: 235 → 235
+[2026-08-14 19:17:32] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:17:32] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:17:32] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:17:40] ========================================
+[2026-08-14 19:17:40] === Netooze Callback Received ===
+[2026-08-14 19:17:40] Method: POST
+[2026-08-14 19:17:40] URI: /bdtapi/callback.php
+[2026-08-14 19:17:40] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:17:40] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:17:40] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:17:40] Resolved via alias map: 235 → 235
+[2026-08-14 19:17:40] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:17:40] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:17:40] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:22:31] ========================================
+[2026-08-14 19:22:31] === Netooze Callback Received ===
+[2026-08-14 19:22:31] Method: POST
+[2026-08-14 19:22:31] URI: /bdtapi/callback.php
+[2026-08-14 19:22:31] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:22:31] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:22:31] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:22:31] Resolved via alias map: 235 → 235
+[2026-08-14 19:22:31] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:22:31] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:22:31] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 19:54:56] ========================================
+[2026-08-14 19:54:56] === Netooze Callback Received ===
+[2026-08-14 19:54:56] Method: POST
+[2026-08-14 19:54:56] URI: /bdtapi/callback.php
+[2026-08-14 19:54:56] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 19:54:56] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 19:54:56] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 19:54:56] Resolved via alias map: 235 → 235
+[2026-08-14 19:54:56] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 19:54:56] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 19:54:56] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 20:58:41] ========================================
+[2026-08-14 20:58:41] === Netooze Callback Received ===
+[2026-08-14 20:58:41] Method: POST
+[2026-08-14 20:58:41] URI: /bdtapi/callback.php
+[2026-08-14 20:58:41] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 20:58:41] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 20:58:41] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 20:58:41] Resolved via alias map: 235 → 235
+[2026-08-14 20:58:41] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 20:58:41] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 20:58:41] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 20:58:45] ========================================
+[2026-08-14 20:58:45] === Netooze Callback Received ===
+[2026-08-14 20:58:45] Method: POST
+[2026-08-14 20:58:45] URI: /bdtapi/callback.php
+[2026-08-14 20:58:45] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 20:58:45] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 20:58:45] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 20:58:45] Resolved via alias map: 235 → 235
+[2026-08-14 20:58:45] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 20:58:45] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 20:58:45] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:03:26] ========================================
+[2026-08-14 21:03:26] === Netooze Callback Received ===
+[2026-08-14 21:03:26] Method: POST
+[2026-08-14 21:03:26] URI: /bdtapi/callback.php
+[2026-08-14 21:03:26] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:03:26] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:03:26] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:03:26] Resolved via alias map: 235 → 235
+[2026-08-14 21:03:26] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:03:26] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:03:26] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:03:33] ========================================
+[2026-08-14 21:03:33] === Netooze Callback Received ===
+[2026-08-14 21:03:33] Method: POST
+[2026-08-14 21:03:33] URI: /bdtapi/callback.php
+[2026-08-14 21:03:33] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:03:33] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:03:33] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:03:33] Resolved via alias map: 235 → 235
+[2026-08-14 21:03:33] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:03:33] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:03:33] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:03:46] ========================================
+[2026-08-14 21:03:46] === Netooze Callback Received ===
+[2026-08-14 21:03:46] Method: POST
+[2026-08-14 21:03:46] URI: /bdtapi/callback.php
+[2026-08-14 21:03:46] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:03:46] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:03:46] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:03:46] Resolved via alias map: 235 → 235
+[2026-08-14 21:03:46] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:03:46] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:03:46] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:03:51] ========================================
+[2026-08-14 21:03:51] === Netooze Callback Received ===
+[2026-08-14 21:03:51] Method: POST
+[2026-08-14 21:03:51] URI: /bdtapi/callback.php
+[2026-08-14 21:03:51] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:03:51] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:03:51] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:03:51] Resolved via alias map: 235 → 235
+[2026-08-14 21:03:51] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:03:51] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:03:51] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:03:55] ========================================
+[2026-08-14 21:03:55] === Netooze Callback Received ===
+[2026-08-14 21:03:55] Method: POST
+[2026-08-14 21:03:55] URI: /bdtapi/callback.php
+[2026-08-14 21:03:55] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:03:55] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:03:55] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:03:55] Resolved via alias map: 235 → 235
+[2026-08-14 21:03:55] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:03:55] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:03:55] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:03:58] ========================================
+[2026-08-14 21:03:58] === Netooze Callback Received ===
+[2026-08-14 21:03:58] Method: POST
+[2026-08-14 21:03:58] URI: /bdtapi/callback.php
+[2026-08-14 21:03:58] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:03:58] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:03:58] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:03:58] Resolved via alias map: 235 → 235
+[2026-08-14 21:03:58] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:03:58] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:03:58] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:04:03] ========================================
+[2026-08-14 21:04:03] === Netooze Callback Received ===
+[2026-08-14 21:04:03] Method: POST
+[2026-08-14 21:04:03] URI: /bdtapi/callback.php
+[2026-08-14 21:04:03] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:04:03] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:04:03] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:04:03] Resolved via alias map: 235 → 235
+[2026-08-14 21:04:03] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:04:03] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:04:03] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 21:04:08] ========================================
+[2026-08-14 21:04:08] === Netooze Callback Received ===
+[2026-08-14 21:04:08] Method: POST
+[2026-08-14 21:04:08] URI: /bdtapi/callback.php
+[2026-08-14 21:04:08] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 21:04:08] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 21:04:08] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 21:04:08] Resolved via alias map: 235 → 235
+[2026-08-14 21:04:08] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 21:04:08] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 21:04:08] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 23:15:32] ========================================
+[2026-08-14 23:15:32] === Netooze Callback Received ===
+[2026-08-14 23:15:32] Method: POST
+[2026-08-14 23:15:32] URI: /bdtapi/callback.php
+[2026-08-14 23:15:32] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-14 23:15:32] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-14 23:15:32] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-14 23:15:32] Resolved via alias map: 224 → 224
+[2026-08-14 23:15:32] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-14 23:15:32] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-14 23:15:32] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-14 23:23:34] ========================================
+[2026-08-14 23:23:34] === Netooze Callback Received ===
+[2026-08-14 23:23:34] Method: POST
+[2026-08-14 23:23:34] URI: /bdtapi/callback.php
+[2026-08-14 23:23:34] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-14 23:23:34] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-14 23:23:34] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-14 23:23:34] Resolved via alias map: 224 → 224
+[2026-08-14 23:23:34] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-14 23:23:34] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-14 23:23:34] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-14 23:23:35] ========================================
+[2026-08-14 23:23:35] === Netooze Callback Received ===
+[2026-08-14 23:23:35] Method: POST
+[2026-08-14 23:23:35] URI: /bdtapi/callback.php
+[2026-08-14 23:23:35] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-14 23:23:35] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-14 23:23:35] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-14 23:23:35] Resolved via alias map: 224 → 224
+[2026-08-14 23:23:35] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-14 23:23:35] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-14 23:23:35] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-14 23:52:24] ========================================
+[2026-08-14 23:52:24] === Netooze Callback Received ===
+[2026-08-14 23:52:24] Method: POST
+[2026-08-14 23:52:24] URI: /bdtapi/callback.php
+[2026-08-14 23:52:24] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 23:52:24] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 23:52:24] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 23:52:24] Resolved via alias map: 235 → 235
+[2026-08-14 23:52:24] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 23:52:24] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 23:52:24] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-14 23:56:04] ========================================
+[2026-08-14 23:56:04] === Netooze Callback Received ===
+[2026-08-14 23:56:04] Method: POST
+[2026-08-14 23:56:04] URI: /bdtapi/callback.php
+[2026-08-14 23:56:04] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-14 23:56:04] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-14 23:56:04] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-14 23:56:04] Resolved via alias map: 235 → 235
+[2026-08-14 23:56:04] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-14 23:56:04] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-14 23:56:04] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)

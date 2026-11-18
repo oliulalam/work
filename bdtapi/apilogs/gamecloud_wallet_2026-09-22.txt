@@ -1,0 +1,19 @@
+[2026-09-22 04:33:41] heal_restore user=254 users=0 legacy=6.15
+[2026-09-22 09:02:27] sync user=249 balance=5
+[2026-09-22 09:02:31] sync user=249 balance=5
+[2026-09-22 11:01:35] sync user=228 balance=8.7
+[2026-09-22 11:07:44] sync user=228 balance=8.7
+[2026-09-22 11:08:59] sync user=228 balance=8.7
+[2026-09-22 11:10:20] sync user=228 balance=8.7
+[2026-09-22 11:12:46] sync user=228 balance=8.7
+[2026-09-22 11:12:59] sync user=228 balance=8.7
+[2026-09-22 11:13:05] sync user=228 balance=8.7
+[2026-09-22 14:29:37] sync user=257 balance=5
+[2026-09-22 14:29:41] sync user=257 balance=5
+[2026-09-22 14:29:42] sync user=257 balance=5
+[2026-09-22 14:29:43] sync user=257 balance=5
+[2026-09-22 14:29:44] sync user=257 balance=5
+[2026-09-22 14:29:45] sync user=257 balance=5
+[2026-09-22 14:29:46] sync user=257 balance=5
+[2026-09-22 14:29:47] sync user=257 balance=5
+[2026-09-22 14:29:48] sync user=257 balance=5

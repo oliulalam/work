@@ -1,0 +1,3055 @@
+[2026-08-13 00:02:52] ========================================
+[2026-08-13 00:02:52] === Netooze Callback Received ===
+[2026-08-13 00:02:52] Method: POST
+[2026-08-13 00:02:52] URI: /bdtapi/callback.php
+[2026-08-13 00:02:52] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 00:02:52] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 00:02:52] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 00:02:52] Resolved via alias map: 228 → 228
+[2026-08-13 00:02:52] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 00:02:52] ✅ Main wallet balance for user 228: 168.7 BDT
+[2026-08-13 00:02:52] Response: {"status":"SUCCESS","balance":168.7} (HTTP: 200)
+[2026-08-13 00:03:13] ========================================
+[2026-08-13 00:03:13] === Netooze Callback Received ===
+[2026-08-13 00:03:13] Method: POST
+[2026-08-13 00:03:13] URI: /bdtapi/callback.php
+[2026-08-13 00:03:13] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 00:03:13] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 00:03:13] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 00:03:13] Resolved via alias map: 228 → 228
+[2026-08-13 00:03:13] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 00:03:14] ✅ Main wallet balance for user 228: 168.7 BDT
+[2026-08-13 00:03:14] Response: {"status":"SUCCESS","balance":168.7} (HTTP: 200)
+[2026-08-13 00:03:40] ========================================
+[2026-08-13 00:03:40] === Netooze Callback Received ===
+[2026-08-13 00:03:40] Method: POST
+[2026-08-13 00:03:40] URI: /bdtapi/callback.php
+[2026-08-13 00:03:40] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"811203ad-d76e-365b-a96f-7ac948910300","proxy_txn_id":"6b205e9c-b1e8-4b9e-8697-aa0534f2428d","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:40] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "811203ad-d76e-365b-a96f-7ac948910300",
+    "proxy_txn_id": "6b205e9c-b1e8-4b9e-8697-aa0534f2428d",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:40] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:40] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:40] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 811203ad-d76e-365b-a96f-7ac948910300
+[2026-08-13 00:03:40] ✅ Main wallet balance for user 228: 168.7 BDT
+[2026-08-13 00:03:40] ✅ BET processed: deducted 4.5, new balance: 164.2
+[2026-08-13 00:03:40] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:40] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:40] Response: {"status":"SUCCESS","balance":164.2} (HTTP: 200)
+[2026-08-13 00:03:42] ========================================
+[2026-08-13 00:03:42] === Netooze Callback Received ===
+[2026-08-13 00:03:42] Method: POST
+[2026-08-13 00:03:42] URI: /bdtapi/callback.php
+[2026-08-13 00:03:42] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"0909ae9b-a3e6-38fc-9f02-305ae34eebca","proxy_txn_id":"e8dca6a7-a24b-4b96-ad7d-0a77a65f4068","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:42] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "0909ae9b-a3e6-38fc-9f02-305ae34eebca",
+    "proxy_txn_id": "e8dca6a7-a24b-4b96-ad7d-0a77a65f4068",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:42] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:42] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:42] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 0909ae9b-a3e6-38fc-9f02-305ae34eebca
+[2026-08-13 00:03:42] ✅ Main wallet balance for user 228: 164.2 BDT
+[2026-08-13 00:03:42] ✅ BET processed: deducted 4.5, new balance: 159.7
+[2026-08-13 00:03:42] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:42] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:42] Response: {"status":"SUCCESS","balance":159.7} (HTTP: 200)
+[2026-08-13 00:03:44] ========================================
+[2026-08-13 00:03:44] === Netooze Callback Received ===
+[2026-08-13 00:03:44] Method: POST
+[2026-08-13 00:03:44] URI: /bdtapi/callback.php
+[2026-08-13 00:03:44] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"820d9132-1a07-3463-9ecc-9abba391d746","proxy_txn_id":"76dd2e97-cdfe-4173-9e25-b8cd8c491e1d","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:44] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "820d9132-1a07-3463-9ecc-9abba391d746",
+    "proxy_txn_id": "76dd2e97-cdfe-4173-9e25-b8cd8c491e1d",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:44] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:44] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:44] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 820d9132-1a07-3463-9ecc-9abba391d746
+[2026-08-13 00:03:44] ✅ Main wallet balance for user 228: 159.7 BDT
+[2026-08-13 00:03:44] ✅ BET processed: deducted 4.5, new balance: 155.2
+[2026-08-13 00:03:44] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:44] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:44] Response: {"status":"SUCCESS","balance":155.2} (HTTP: 200)
+[2026-08-13 00:03:47] ========================================
+[2026-08-13 00:03:47] === Netooze Callback Received ===
+[2026-08-13 00:03:47] Method: POST
+[2026-08-13 00:03:47] URI: /bdtapi/callback.php
+[2026-08-13 00:03:47] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"2ccc851a-cae4-3375-b294-1a6330e73cc7","proxy_txn_id":"db19d36d-9bc6-4ba8-a5b1-fd93fe0e3c36","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:47] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "2ccc851a-cae4-3375-b294-1a6330e73cc7",
+    "proxy_txn_id": "db19d36d-9bc6-4ba8-a5b1-fd93fe0e3c36",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:47] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:47] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:47] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 2ccc851a-cae4-3375-b294-1a6330e73cc7
+[2026-08-13 00:03:47] ✅ Main wallet balance for user 228: 155.2 BDT
+[2026-08-13 00:03:47] ✅ BET processed: deducted 4.5, new balance: 150.7
+[2026-08-13 00:03:47] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:47] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:47] Response: {"status":"SUCCESS","balance":150.7} (HTTP: 200)
+[2026-08-13 00:03:49] ========================================
+[2026-08-13 00:03:49] === Netooze Callback Received ===
+[2026-08-13 00:03:49] Method: POST
+[2026-08-13 00:03:49] URI: /bdtapi/callback.php
+[2026-08-13 00:03:49] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"3104bb55-c1e7-3361-8655-74a16eb97012","proxy_txn_id":"8d985c58-ff48-452a-ad4e-947d30306e1f","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:49] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "3104bb55-c1e7-3361-8655-74a16eb97012",
+    "proxy_txn_id": "8d985c58-ff48-452a-ad4e-947d30306e1f",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:49] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:49] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:49] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 3104bb55-c1e7-3361-8655-74a16eb97012
+[2026-08-13 00:03:49] ✅ Main wallet balance for user 228: 150.7 BDT
+[2026-08-13 00:03:49] ✅ BET processed: deducted 4.5, new balance: 146.2
+[2026-08-13 00:03:49] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:49] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:49] Response: {"status":"SUCCESS","balance":146.2} (HTTP: 200)
+[2026-08-13 00:03:52] ========================================
+[2026-08-13 00:03:52] === Netooze Callback Received ===
+[2026-08-13 00:03:52] Method: POST
+[2026-08-13 00:03:52] URI: /bdtapi/callback.php
+[2026-08-13 00:03:52] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"b329b01a-9283-38cb-9b3e-24af853723a5","proxy_txn_id":"b9aa2e85-3f4f-4c18-8989-9c31cba99060","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:52] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "b329b01a-9283-38cb-9b3e-24af853723a5",
+    "proxy_txn_id": "b9aa2e85-3f4f-4c18-8989-9c31cba99060",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:52] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:52] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:52] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: b329b01a-9283-38cb-9b3e-24af853723a5
+[2026-08-13 00:03:52] ✅ Main wallet balance for user 228: 146.2 BDT
+[2026-08-13 00:03:52] ✅ BET processed: deducted 4.5, new balance: 141.7
+[2026-08-13 00:03:52] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:52] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:52] Response: {"status":"SUCCESS","balance":141.7} (HTTP: 200)
+[2026-08-13 00:03:54] ========================================
+[2026-08-13 00:03:54] === Netooze Callback Received ===
+[2026-08-13 00:03:54] Method: POST
+[2026-08-13 00:03:54] URI: /bdtapi/callback.php
+[2026-08-13 00:03:54] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"d965dfed-af22-3bb2-98c5-814e21625dd5","proxy_txn_id":"71dd6621-24f2-40c8-a2d7-86f95c428254","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:54] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "d965dfed-af22-3bb2-98c5-814e21625dd5",
+    "proxy_txn_id": "71dd6621-24f2-40c8-a2d7-86f95c428254",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:54] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:54] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:54] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: d965dfed-af22-3bb2-98c5-814e21625dd5
+[2026-08-13 00:03:54] ✅ Main wallet balance for user 228: 141.7 BDT
+[2026-08-13 00:03:54] ✅ BET processed: deducted 4.5, new balance: 137.2
+[2026-08-13 00:03:54] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:54] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:54] Response: {"status":"SUCCESS","balance":137.2} (HTTP: 200)
+[2026-08-13 00:03:57] ========================================
+[2026-08-13 00:03:57] === Netooze Callback Received ===
+[2026-08-13 00:03:57] Method: POST
+[2026-08-13 00:03:57] URI: /bdtapi/callback.php
+[2026-08-13 00:03:57] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"14b5a614-4cd7-3e3d-ab7d-89e122737988","proxy_txn_id":"86919e4e-a0a4-4d97-8b9c-25bbffa57972","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:03:57] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "14b5a614-4cd7-3e3d-ab7d-89e122737988",
+    "proxy_txn_id": "86919e4e-a0a4-4d97-8b9c-25bbffa57972",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:03:57] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:03:57] Resolved via alias map: 77228 → 228
+[2026-08-13 00:03:57] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 14b5a614-4cd7-3e3d-ab7d-89e122737988
+[2026-08-13 00:03:57] ✅ Main wallet balance for user 228: 137.2 BDT
+[2026-08-13 00:03:57] ✅ BET processed: deducted 4.5, new balance: 132.7
+[2026-08-13 00:03:57] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:03:57] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:03:57] Response: {"status":"SUCCESS","balance":132.7} (HTTP: 200)
+[2026-08-13 00:04:02] ========================================
+[2026-08-13 00:04:02] === Netooze Callback Received ===
+[2026-08-13 00:04:02] Method: POST
+[2026-08-13 00:04:02] URI: /bdtapi/callback.php
+[2026-08-13 00:04:02] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"b02fa09e-c184-34a2-b602-4d5825f08a25","proxy_txn_id":"a832ca5f-cd5b-44d0-b07e-7f0fde5af923","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:02] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "b02fa09e-c184-34a2-b602-4d5825f08a25",
+    "proxy_txn_id": "a832ca5f-cd5b-44d0-b07e-7f0fde5af923",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:02] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:02] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:02] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: b02fa09e-c184-34a2-b602-4d5825f08a25
+[2026-08-13 00:04:02] ✅ Main wallet balance for user 228: 132.7 BDT
+[2026-08-13 00:04:02] ✅ BET processed: deducted 4.5, new balance: 128.2
+[2026-08-13 00:04:02] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:02] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:02] Response: {"status":"SUCCESS","balance":128.2} (HTTP: 200)
+[2026-08-13 00:04:05] ========================================
+[2026-08-13 00:04:05] === Netooze Callback Received ===
+[2026-08-13 00:04:05] Method: POST
+[2026-08-13 00:04:05] URI: /bdtapi/callback.php
+[2026-08-13 00:04:05] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"cbb63c0e-8c05-34ba-ad78-0f28e2cfd435","proxy_txn_id":"2468e07b-cf00-4680-80b2-74952e708509","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:05] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "cbb63c0e-8c05-34ba-ad78-0f28e2cfd435",
+    "proxy_txn_id": "2468e07b-cf00-4680-80b2-74952e708509",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:05] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:05] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:05] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: cbb63c0e-8c05-34ba-ad78-0f28e2cfd435
+[2026-08-13 00:04:05] ✅ Main wallet balance for user 228: 128.2 BDT
+[2026-08-13 00:04:05] ✅ BET processed: deducted 4.5, new balance: 123.7
+[2026-08-13 00:04:05] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:05] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:05] Response: {"status":"SUCCESS","balance":123.7} (HTTP: 200)
+[2026-08-13 00:04:07] ========================================
+[2026-08-13 00:04:07] === Netooze Callback Received ===
+[2026-08-13 00:04:07] Method: POST
+[2026-08-13 00:04:07] URI: /bdtapi/callback.php
+[2026-08-13 00:04:07] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"cb3470da-ec66-3b49-b405-3dac28ff6f23","proxy_txn_id":"8db2cc45-d51b-45ca-a774-1f148c6308b5","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:07] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "cb3470da-ec66-3b49-b405-3dac28ff6f23",
+    "proxy_txn_id": "8db2cc45-d51b-45ca-a774-1f148c6308b5",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:07] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:07] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:07] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: cb3470da-ec66-3b49-b405-3dac28ff6f23
+[2026-08-13 00:04:07] ✅ Main wallet balance for user 228: 123.7 BDT
+[2026-08-13 00:04:07] ✅ BET processed: deducted 4.5, new balance: 119.2
+[2026-08-13 00:04:07] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:07] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:07] Response: {"status":"SUCCESS","balance":119.2} (HTTP: 200)
+[2026-08-13 00:04:09] ========================================
+[2026-08-13 00:04:09] === Netooze Callback Received ===
+[2026-08-13 00:04:09] Method: POST
+[2026-08-13 00:04:09] URI: /bdtapi/callback.php
+[2026-08-13 00:04:09] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"5bbb3d84-b697-37c8-a9fd-86f0d6009489","proxy_txn_id":"bf71f72a-b396-4072-8d70-c919681325cd","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:09] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "5bbb3d84-b697-37c8-a9fd-86f0d6009489",
+    "proxy_txn_id": "bf71f72a-b396-4072-8d70-c919681325cd",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:09] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:09] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:09] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 5bbb3d84-b697-37c8-a9fd-86f0d6009489
+[2026-08-13 00:04:09] ✅ Main wallet balance for user 228: 119.2 BDT
+[2026-08-13 00:04:09] ✅ BET processed: deducted 4.5, new balance: 114.7
+[2026-08-13 00:04:09] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:09] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:09] Response: {"status":"SUCCESS","balance":114.7} (HTTP: 200)
+[2026-08-13 00:04:11] ========================================
+[2026-08-13 00:04:11] === Netooze Callback Received ===
+[2026-08-13 00:04:11] Method: POST
+[2026-08-13 00:04:11] URI: /bdtapi/callback.php
+[2026-08-13 00:04:11] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"48f20cdf-8b9d-30f1-abbf-e3527c190cc9","proxy_txn_id":"17c82904-b69b-459e-aa0a-0c6e0fdc09eb","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:11] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "48f20cdf-8b9d-30f1-abbf-e3527c190cc9",
+    "proxy_txn_id": "17c82904-b69b-459e-aa0a-0c6e0fdc09eb",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:11] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:11] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:11] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 48f20cdf-8b9d-30f1-abbf-e3527c190cc9
+[2026-08-13 00:04:11] ✅ Main wallet balance for user 228: 114.7 BDT
+[2026-08-13 00:04:11] ✅ BET processed: deducted 4.5, new balance: 110.2
+[2026-08-13 00:04:11] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:11] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:11] Response: {"status":"SUCCESS","balance":110.2} (HTTP: 200)
+[2026-08-13 00:04:13] ========================================
+[2026-08-13 00:04:13] === Netooze Callback Received ===
+[2026-08-13 00:04:13] Method: POST
+[2026-08-13 00:04:13] URI: /bdtapi/callback.php
+[2026-08-13 00:04:13] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"42cba056-cea0-396c-a0d8-89c804611a03","proxy_txn_id":"779523bf-30a5-41f3-b7a1-7bd95c9edce2","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:13] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "42cba056-cea0-396c-a0d8-89c804611a03",
+    "proxy_txn_id": "779523bf-30a5-41f3-b7a1-7bd95c9edce2",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:13] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:13] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:13] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 42cba056-cea0-396c-a0d8-89c804611a03
+[2026-08-13 00:04:13] ✅ Main wallet balance for user 228: 110.2 BDT
+[2026-08-13 00:04:13] ✅ BET processed: deducted 4.5, new balance: 105.7
+[2026-08-13 00:04:13] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:13] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:13] Response: {"status":"SUCCESS","balance":105.7} (HTTP: 200)
+[2026-08-13 00:04:15] ========================================
+[2026-08-13 00:04:15] === Netooze Callback Received ===
+[2026-08-13 00:04:15] Method: POST
+[2026-08-13 00:04:15] URI: /bdtapi/callback.php
+[2026-08-13 00:04:15] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"e9b2592f-9c4f-346f-a3ce-835515649d75","proxy_txn_id":"faf86649-4659-4289-b8d2-3bee5c597a83","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:15] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "e9b2592f-9c4f-346f-a3ce-835515649d75",
+    "proxy_txn_id": "faf86649-4659-4289-b8d2-3bee5c597a83",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:15] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:15] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:15] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: e9b2592f-9c4f-346f-a3ce-835515649d75
+[2026-08-13 00:04:15] ✅ Main wallet balance for user 228: 105.7 BDT
+[2026-08-13 00:04:15] ✅ BET processed: deducted 4.5, new balance: 101.2
+[2026-08-13 00:04:15] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:15] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:15] Response: {"status":"SUCCESS","balance":101.2} (HTTP: 200)
+[2026-08-13 00:04:17] ========================================
+[2026-08-13 00:04:17] === Netooze Callback Received ===
+[2026-08-13 00:04:17] Method: POST
+[2026-08-13 00:04:17] URI: /bdtapi/callback.php
+[2026-08-13 00:04:17] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"6d92c8ce-e472-327f-90b6-cd499ccbd8b0","proxy_txn_id":"a3f7d36f-c9a0-4b64-9e90-988d07e70108","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:17] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "6d92c8ce-e472-327f-90b6-cd499ccbd8b0",
+    "proxy_txn_id": "a3f7d36f-c9a0-4b64-9e90-988d07e70108",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:17] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:17] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:17] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 6d92c8ce-e472-327f-90b6-cd499ccbd8b0
+[2026-08-13 00:04:17] ✅ Main wallet balance for user 228: 101.2 BDT
+[2026-08-13 00:04:17] ✅ BET processed: deducted 4.5, new balance: 96.7
+[2026-08-13 00:04:17] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:17] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:17] Response: {"status":"SUCCESS","balance":96.7} (HTTP: 200)
+[2026-08-13 00:04:20] ========================================
+[2026-08-13 00:04:20] === Netooze Callback Received ===
+[2026-08-13 00:04:20] Method: POST
+[2026-08-13 00:04:20] URI: /bdtapi/callback.php
+[2026-08-13 00:04:20] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"d8c6c8a7-42d3-3454-8b5a-a849f61c8555","proxy_txn_id":"88daaa5b-a575-40c6-90e8-5c13c88e3187","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:20] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "d8c6c8a7-42d3-3454-8b5a-a849f61c8555",
+    "proxy_txn_id": "88daaa5b-a575-40c6-90e8-5c13c88e3187",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:20] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:20] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:20] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: d8c6c8a7-42d3-3454-8b5a-a849f61c8555
+[2026-08-13 00:04:20] ✅ Main wallet balance for user 228: 96.7 BDT
+[2026-08-13 00:04:20] ✅ BET processed: deducted 4.5, new balance: 92.2
+[2026-08-13 00:04:20] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:20] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:20] Response: {"status":"SUCCESS","balance":92.2} (HTTP: 200)
+[2026-08-13 00:04:22] ========================================
+[2026-08-13 00:04:22] === Netooze Callback Received ===
+[2026-08-13 00:04:22] Method: POST
+[2026-08-13 00:04:22] URI: /bdtapi/callback.php
+[2026-08-13 00:04:22] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"fc7fa4ae-910e-36c5-b228-29e76368c558","proxy_txn_id":"42e7d50c-cbaf-482a-9ea6-eea0fd56a288","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:22] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "fc7fa4ae-910e-36c5-b228-29e76368c558",
+    "proxy_txn_id": "42e7d50c-cbaf-482a-9ea6-eea0fd56a288",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:22] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:22] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:22] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: fc7fa4ae-910e-36c5-b228-29e76368c558
+[2026-08-13 00:04:22] ✅ Main wallet balance for user 228: 92.2 BDT
+[2026-08-13 00:04:22] ✅ BET processed: deducted 4.5, new balance: 87.7
+[2026-08-13 00:04:22] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:22] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:22] Response: {"status":"SUCCESS","balance":87.7} (HTTP: 200)
+[2026-08-13 00:04:24] ========================================
+[2026-08-13 00:04:24] === Netooze Callback Received ===
+[2026-08-13 00:04:24] Method: POST
+[2026-08-13 00:04:24] URI: /bdtapi/callback.php
+[2026-08-13 00:04:24] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"02f67105-a9ae-32aa-89bd-5efa2deb72bb","proxy_txn_id":"6f2c485a-ab9b-4d5b-9528-8a4111be5ad1","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:24] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "02f67105-a9ae-32aa-89bd-5efa2deb72bb",
+    "proxy_txn_id": "6f2c485a-ab9b-4d5b-9528-8a4111be5ad1",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:24] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:24] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:24] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 02f67105-a9ae-32aa-89bd-5efa2deb72bb
+[2026-08-13 00:04:24] ✅ Main wallet balance for user 228: 87.7 BDT
+[2026-08-13 00:04:24] ✅ BET processed: deducted 4.5, new balance: 83.2
+[2026-08-13 00:04:24] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:24] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:24] Response: {"status":"SUCCESS","balance":83.2} (HTTP: 200)
+[2026-08-13 00:04:26] ========================================
+[2026-08-13 00:04:26] === Netooze Callback Received ===
+[2026-08-13 00:04:26] Method: POST
+[2026-08-13 00:04:26] URI: /bdtapi/callback.php
+[2026-08-13 00:04:26] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"c714e116-8ff0-38b2-b0f7-c8e8d88505fb","proxy_txn_id":"ae80f845-ea76-44fd-a0e4-049d3e6b9b8e","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:26] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "c714e116-8ff0-38b2-b0f7-c8e8d88505fb",
+    "proxy_txn_id": "ae80f845-ea76-44fd-a0e4-049d3e6b9b8e",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:26] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:26] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:26] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: c714e116-8ff0-38b2-b0f7-c8e8d88505fb
+[2026-08-13 00:04:26] ✅ Main wallet balance for user 228: 83.2 BDT
+[2026-08-13 00:04:26] ✅ BET processed: deducted 4.5, new balance: 78.7
+[2026-08-13 00:04:26] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:26] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:26] Response: {"status":"SUCCESS","balance":78.7} (HTTP: 200)
+[2026-08-13 00:04:28] ========================================
+[2026-08-13 00:04:28] === Netooze Callback Received ===
+[2026-08-13 00:04:28] Method: POST
+[2026-08-13 00:04:28] URI: /bdtapi/callback.php
+[2026-08-13 00:04:28] Raw input: {"action":"bet_and_win","player_id":"77228","amount":4.5,"bet_amount":4.5,"win_amount":12,"currency":"BDT","provider_txn_id":"491759f4-2cc0-3028-bcea-2aa9f2c063cb","proxy_txn_id":"d7487a7e-63c6-4029-b9f5-70ee967842d8","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:28] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77228",
+    "amount": 4.5,
+    "bet_amount": 4.5,
+    "win_amount": 12,
+    "currency": "BDT",
+    "provider_txn_id": "491759f4-2cc0-3028-bcea-2aa9f2c063cb",
+    "proxy_txn_id": "d7487a7e-63c6-4029-b9f5-70ee967842d8",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:28] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:28] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:28] Action: bet_and_win | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 491759f4-2cc0-3028-bcea-2aa9f2c063cb
+[2026-08-13 00:04:28] ✅ Main wallet balance for user 228: 78.7 BDT
+[2026-08-13 00:04:28] ✅ BET_AND_WIN processed: deducted 4.5, credited 12, new balance: 86.2
+[2026-08-13 00:04:28] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:28] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:28] Response: {"status":"SUCCESS","balance":86.2} (HTTP: 200)
+[2026-08-13 00:04:35] ========================================
+[2026-08-13 00:04:35] === Netooze Callback Received ===
+[2026-08-13 00:04:35] Method: POST
+[2026-08-13 00:04:35] URI: /bdtapi/callback.php
+[2026-08-13 00:04:35] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"44714a61-bd2f-3540-ae92-23aff399bf0e","proxy_txn_id":"272b97f7-2561-4745-901d-b4e5bd975c25","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:35] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "44714a61-bd2f-3540-ae92-23aff399bf0e",
+    "proxy_txn_id": "272b97f7-2561-4745-901d-b4e5bd975c25",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:35] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:35] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:35] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 44714a61-bd2f-3540-ae92-23aff399bf0e
+[2026-08-13 00:04:35] ✅ Main wallet balance for user 228: 86.2 BDT
+[2026-08-13 00:04:35] ✅ BET processed: deducted 4.5, new balance: 81.7
+[2026-08-13 00:04:35] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:35] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:35] Response: {"status":"SUCCESS","balance":81.7} (HTTP: 200)
+[2026-08-13 00:04:37] ========================================
+[2026-08-13 00:04:37] === Netooze Callback Received ===
+[2026-08-13 00:04:37] Method: POST
+[2026-08-13 00:04:37] URI: /bdtapi/callback.php
+[2026-08-13 00:04:37] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"4a6dc451-58d3-3853-b2aa-14d67694861d","proxy_txn_id":"ff6410f9-38ff-49f3-9eb1-292b47de9c7e","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:37] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "4a6dc451-58d3-3853-b2aa-14d67694861d",
+    "proxy_txn_id": "ff6410f9-38ff-49f3-9eb1-292b47de9c7e",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:37] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:37] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:37] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 4a6dc451-58d3-3853-b2aa-14d67694861d
+[2026-08-13 00:04:37] ✅ Main wallet balance for user 228: 81.7 BDT
+[2026-08-13 00:04:37] ✅ BET processed: deducted 4.5, new balance: 77.2
+[2026-08-13 00:04:37] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:37] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:37] Response: {"status":"SUCCESS","balance":77.2} (HTTP: 200)
+[2026-08-13 00:04:40] ========================================
+[2026-08-13 00:04:40] === Netooze Callback Received ===
+[2026-08-13 00:04:40] Method: POST
+[2026-08-13 00:04:40] URI: /bdtapi/callback.php
+[2026-08-13 00:04:40] Raw input: {"action":"bet_and_win","player_id":"77228","amount":4.5,"bet_amount":4.5,"win_amount":48,"currency":"BDT","provider_txn_id":"2dfa4f00-6c74-3083-85c3-eb483072c007","proxy_txn_id":"aa3b50c4-49d9-47e3-8fc6-6d7dee4bde39","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:40] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77228",
+    "amount": 4.5,
+    "bet_amount": 4.5,
+    "win_amount": 48,
+    "currency": "BDT",
+    "provider_txn_id": "2dfa4f00-6c74-3083-85c3-eb483072c007",
+    "proxy_txn_id": "aa3b50c4-49d9-47e3-8fc6-6d7dee4bde39",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:40] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:40] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:40] Action: bet_and_win | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 2dfa4f00-6c74-3083-85c3-eb483072c007
+[2026-08-13 00:04:40] ✅ Main wallet balance for user 228: 77.2 BDT
+[2026-08-13 00:04:40] ✅ BET_AND_WIN processed: deducted 4.5, credited 48, new balance: 120.7
+[2026-08-13 00:04:40] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:40] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:40] Response: {"status":"SUCCESS","balance":120.7} (HTTP: 200)
+[2026-08-13 00:04:51] ========================================
+[2026-08-13 00:04:51] === Netooze Callback Received ===
+[2026-08-13 00:04:51] Method: POST
+[2026-08-13 00:04:51] URI: /bdtapi/callback.php
+[2026-08-13 00:04:51] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"39baa4ac-e038-3e0b-8adf-d0316db96e75","proxy_txn_id":"23cc370c-1dac-40ab-9356-a6642a83fdf9","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:51] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "39baa4ac-e038-3e0b-8adf-d0316db96e75",
+    "proxy_txn_id": "23cc370c-1dac-40ab-9356-a6642a83fdf9",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:51] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:51] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:51] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 39baa4ac-e038-3e0b-8adf-d0316db96e75
+[2026-08-13 00:04:51] ✅ Main wallet balance for user 228: 120.7 BDT
+[2026-08-13 00:04:51] ✅ BET processed: deducted 4.5, new balance: 116.2
+[2026-08-13 00:04:51] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:51] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:51] Response: {"status":"SUCCESS","balance":116.2} (HTTP: 200)
+[2026-08-13 00:04:53] ========================================
+[2026-08-13 00:04:53] === Netooze Callback Received ===
+[2026-08-13 00:04:53] Method: POST
+[2026-08-13 00:04:53] URI: /bdtapi/callback.php
+[2026-08-13 00:04:53] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"f0104f22-324a-3c48-a378-5b2bee1d4ce9","proxy_txn_id":"c1330860-7566-497e-b745-9afacda3cf68","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:53] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "f0104f22-324a-3c48-a378-5b2bee1d4ce9",
+    "proxy_txn_id": "c1330860-7566-497e-b745-9afacda3cf68",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:53] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:53] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:53] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: f0104f22-324a-3c48-a378-5b2bee1d4ce9
+[2026-08-13 00:04:53] ✅ Main wallet balance for user 228: 116.2 BDT
+[2026-08-13 00:04:53] ✅ BET processed: deducted 4.5, new balance: 111.7
+[2026-08-13 00:04:53] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:53] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:53] Response: {"status":"SUCCESS","balance":111.7} (HTTP: 200)
+[2026-08-13 00:04:56] ========================================
+[2026-08-13 00:04:56] === Netooze Callback Received ===
+[2026-08-13 00:04:56] Method: POST
+[2026-08-13 00:04:56] URI: /bdtapi/callback.php
+[2026-08-13 00:04:56] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"ecde0820-b76b-38da-bf8b-df2ec6b8ab77","proxy_txn_id":"5685eba7-abcc-486a-ace3-9e982a0740cf","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:56] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "ecde0820-b76b-38da-bf8b-df2ec6b8ab77",
+    "proxy_txn_id": "5685eba7-abcc-486a-ace3-9e982a0740cf",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:56] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:56] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:56] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: ecde0820-b76b-38da-bf8b-df2ec6b8ab77
+[2026-08-13 00:04:56] ✅ Main wallet balance for user 228: 111.7 BDT
+[2026-08-13 00:04:56] ✅ BET processed: deducted 4.5, new balance: 107.2
+[2026-08-13 00:04:56] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:56] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:56] Response: {"status":"SUCCESS","balance":107.2} (HTTP: 200)
+[2026-08-13 00:04:58] ========================================
+[2026-08-13 00:04:58] === Netooze Callback Received ===
+[2026-08-13 00:04:58] Method: POST
+[2026-08-13 00:04:58] URI: /bdtapi/callback.php
+[2026-08-13 00:04:58] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"be376622-d124-39fb-b6fa-f7b6c86b6b54","proxy_txn_id":"415a5036-63a2-4b94-b33c-a9004b0966e9","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:04:58] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "be376622-d124-39fb-b6fa-f7b6c86b6b54",
+    "proxy_txn_id": "415a5036-63a2-4b94-b33c-a9004b0966e9",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:04:58] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:04:58] Resolved via alias map: 77228 → 228
+[2026-08-13 00:04:58] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: be376622-d124-39fb-b6fa-f7b6c86b6b54
+[2026-08-13 00:04:58] ✅ Main wallet balance for user 228: 107.2 BDT
+[2026-08-13 00:04:58] ✅ BET processed: deducted 4.5, new balance: 102.7
+[2026-08-13 00:04:58] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:04:58] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:04:58] Response: {"status":"SUCCESS","balance":102.7} (HTTP: 200)
+[2026-08-13 00:05:01] ========================================
+[2026-08-13 00:05:01] === Netooze Callback Received ===
+[2026-08-13 00:05:01] Method: POST
+[2026-08-13 00:05:01] URI: /bdtapi/callback.php
+[2026-08-13 00:05:01] Raw input: {"action":"bet_and_win","player_id":"77228","amount":4.5,"bet_amount":4.5,"win_amount":12,"currency":"BDT","provider_txn_id":"ee2f43d5-343b-3124-948e-b7417d94589e","proxy_txn_id":"6db51fef-cca4-4e14-8f2a-b36fa801b753","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:01] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77228",
+    "amount": 4.5,
+    "bet_amount": 4.5,
+    "win_amount": 12,
+    "currency": "BDT",
+    "provider_txn_id": "ee2f43d5-343b-3124-948e-b7417d94589e",
+    "proxy_txn_id": "6db51fef-cca4-4e14-8f2a-b36fa801b753",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:01] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:01] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:01] Action: bet_and_win | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: ee2f43d5-343b-3124-948e-b7417d94589e
+[2026-08-13 00:05:01] ✅ Main wallet balance for user 228: 102.7 BDT
+[2026-08-13 00:05:01] ✅ BET_AND_WIN processed: deducted 4.5, credited 12, new balance: 110.2
+[2026-08-13 00:05:01] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:01] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:01] Response: {"status":"SUCCESS","balance":110.2} (HTTP: 200)
+[2026-08-13 00:05:06] ========================================
+[2026-08-13 00:05:06] === Netooze Callback Received ===
+[2026-08-13 00:05:06] Method: POST
+[2026-08-13 00:05:06] URI: /bdtapi/callback.php
+[2026-08-13 00:05:06] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"f8a6cac5-d867-3049-9da0-5ba99c0777d1","proxy_txn_id":"18577240-09bd-4d97-b213-5cf3a6c0d359","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:06] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "f8a6cac5-d867-3049-9da0-5ba99c0777d1",
+    "proxy_txn_id": "18577240-09bd-4d97-b213-5cf3a6c0d359",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:06] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:06] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:06] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: f8a6cac5-d867-3049-9da0-5ba99c0777d1
+[2026-08-13 00:05:06] ✅ Main wallet balance for user 228: 110.2 BDT
+[2026-08-13 00:05:06] ✅ BET processed: deducted 4.5, new balance: 105.7
+[2026-08-13 00:05:06] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:06] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:06] Response: {"status":"SUCCESS","balance":105.7} (HTTP: 200)
+[2026-08-13 00:05:09] ========================================
+[2026-08-13 00:05:09] === Netooze Callback Received ===
+[2026-08-13 00:05:09] Method: POST
+[2026-08-13 00:05:09] URI: /bdtapi/callback.php
+[2026-08-13 00:05:09] Raw input: {"action":"bet_and_win","player_id":"77228","amount":4.5,"bet_amount":4.5,"win_amount":64.8,"currency":"BDT","provider_txn_id":"b6eeb31f-cb0a-31a8-9db9-46b519613df7","proxy_txn_id":"e6be54bb-e2f2-4317-a18c-cf11e1bd840c","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:09] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77228",
+    "amount": 4.5,
+    "bet_amount": 4.5,
+    "win_amount": 64.8,
+    "currency": "BDT",
+    "provider_txn_id": "b6eeb31f-cb0a-31a8-9db9-46b519613df7",
+    "proxy_txn_id": "e6be54bb-e2f2-4317-a18c-cf11e1bd840c",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:09] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:09] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:09] Action: bet_and_win | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: b6eeb31f-cb0a-31a8-9db9-46b519613df7
+[2026-08-13 00:05:09] ✅ Main wallet balance for user 228: 105.7 BDT
+[2026-08-13 00:05:09] ✅ BET_AND_WIN processed: deducted 4.5, credited 64.8, new balance: 166
+[2026-08-13 00:05:09] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:09] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:09] Response: {"status":"SUCCESS","balance":166} (HTTP: 200)
+[2026-08-13 00:05:20] ========================================
+[2026-08-13 00:05:20] === Netooze Callback Received ===
+[2026-08-13 00:05:20] Method: POST
+[2026-08-13 00:05:20] URI: /bdtapi/callback.php
+[2026-08-13 00:05:20] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"7ec1e627-8943-36b1-99eb-8a4d3980dbb7","proxy_txn_id":"cf8790da-df61-49e6-adf0-60fcdc9ef079","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:20] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "7ec1e627-8943-36b1-99eb-8a4d3980dbb7",
+    "proxy_txn_id": "cf8790da-df61-49e6-adf0-60fcdc9ef079",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:20] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:20] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:20] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 7ec1e627-8943-36b1-99eb-8a4d3980dbb7
+[2026-08-13 00:05:20] ✅ Main wallet balance for user 228: 166 BDT
+[2026-08-13 00:05:20] ✅ BET processed: deducted 4.5, new balance: 161.5
+[2026-08-13 00:05:20] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:20] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:20] Response: {"status":"SUCCESS","balance":161.5} (HTTP: 200)
+[2026-08-13 00:05:22] ========================================
+[2026-08-13 00:05:22] === Netooze Callback Received ===
+[2026-08-13 00:05:22] Method: POST
+[2026-08-13 00:05:22] URI: /bdtapi/callback.php
+[2026-08-13 00:05:22] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"d9f68e5b-9c92-3e35-a863-1e0dd998e9f6","proxy_txn_id":"081fbf11-535f-4a2c-bb7c-e7a26600d105","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:22] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "d9f68e5b-9c92-3e35-a863-1e0dd998e9f6",
+    "proxy_txn_id": "081fbf11-535f-4a2c-bb7c-e7a26600d105",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:22] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:22] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:22] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: d9f68e5b-9c92-3e35-a863-1e0dd998e9f6
+[2026-08-13 00:05:22] ✅ Main wallet balance for user 228: 161.5 BDT
+[2026-08-13 00:05:22] ✅ BET processed: deducted 4.5, new balance: 157
+[2026-08-13 00:05:22] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:22] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:22] Response: {"status":"SUCCESS","balance":157} (HTTP: 200)
+[2026-08-13 00:05:25] ========================================
+[2026-08-13 00:05:25] === Netooze Callback Received ===
+[2026-08-13 00:05:25] Method: POST
+[2026-08-13 00:05:25] URI: /bdtapi/callback.php
+[2026-08-13 00:05:25] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"3128f331-a72b-3485-b706-4ea6895d40fd","proxy_txn_id":"f19ff6d1-42f6-4e97-8088-86c384a6888e","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:25] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "3128f331-a72b-3485-b706-4ea6895d40fd",
+    "proxy_txn_id": "f19ff6d1-42f6-4e97-8088-86c384a6888e",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:25] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:25] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:25] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 3128f331-a72b-3485-b706-4ea6895d40fd
+[2026-08-13 00:05:25] ✅ Main wallet balance for user 228: 157 BDT
+[2026-08-13 00:05:25] ✅ BET processed: deducted 4.5, new balance: 152.5
+[2026-08-13 00:05:25] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:25] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:25] Response: {"status":"SUCCESS","balance":152.5} (HTTP: 200)
+[2026-08-13 00:05:27] ========================================
+[2026-08-13 00:05:27] === Netooze Callback Received ===
+[2026-08-13 00:05:27] Method: POST
+[2026-08-13 00:05:27] URI: /bdtapi/callback.php
+[2026-08-13 00:05:27] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"a7b2d035-7908-30ee-a8e7-fc9a4a20c246","proxy_txn_id":"dd8230ba-e5f5-4719-be3c-7822d8edbe4b","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:27] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "a7b2d035-7908-30ee-a8e7-fc9a4a20c246",
+    "proxy_txn_id": "dd8230ba-e5f5-4719-be3c-7822d8edbe4b",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:27] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:27] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:27] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: a7b2d035-7908-30ee-a8e7-fc9a4a20c246
+[2026-08-13 00:05:27] ✅ Main wallet balance for user 228: 152.5 BDT
+[2026-08-13 00:05:27] ✅ BET processed: deducted 4.5, new balance: 148
+[2026-08-13 00:05:27] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:27] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:27] Response: {"status":"SUCCESS","balance":148} (HTTP: 200)
+[2026-08-13 00:05:30] ========================================
+[2026-08-13 00:05:30] === Netooze Callback Received ===
+[2026-08-13 00:05:30] Method: POST
+[2026-08-13 00:05:30] URI: /bdtapi/callback.php
+[2026-08-13 00:05:30] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"37179c4e-851f-318c-8cc9-bddadee8990f","proxy_txn_id":"31e481d9-7a4b-4b7d-ab1f-29a938462ed7","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:30] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "37179c4e-851f-318c-8cc9-bddadee8990f",
+    "proxy_txn_id": "31e481d9-7a4b-4b7d-ab1f-29a938462ed7",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:30] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:30] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:30] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: 37179c4e-851f-318c-8cc9-bddadee8990f
+[2026-08-13 00:05:30] ✅ Main wallet balance for user 228: 148 BDT
+[2026-08-13 00:05:30] ✅ BET processed: deducted 4.5, new balance: 143.5
+[2026-08-13 00:05:30] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:30] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:30] Response: {"status":"SUCCESS","balance":143.5} (HTTP: 200)
+[2026-08-13 00:05:32] ========================================
+[2026-08-13 00:05:32] === Netooze Callback Received ===
+[2026-08-13 00:05:32] Method: POST
+[2026-08-13 00:05:32] URI: /bdtapi/callback.php
+[2026-08-13 00:05:32] Raw input: {"action":"bet","player_id":"77228","amount":4.5,"currency":"BDT","provider_txn_id":"f4b4d858-4421-367b-935f-9466dbc974f7","proxy_txn_id":"ea4c2d37-354e-49a4-833d-a31a8aad483d","game_code":"a990de177577a2e6a889aaac5f57b429"}
+[2026-08-13 00:05:32] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 4.5,
+    "currency": "BDT",
+    "provider_txn_id": "f4b4d858-4421-367b-935f-9466dbc974f7",
+    "proxy_txn_id": "ea4c2d37-354e-49a4-833d-a31a8aad483d",
+    "game_code": "a990de177577a2e6a889aaac5f57b429"
+}
+[2026-08-13 00:05:32] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 00:05:32] Resolved via alias map: 77228 → 228
+[2026-08-13 00:05:32] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 4.5 | TXN: f4b4d858-4421-367b-935f-9466dbc974f7
+[2026-08-13 00:05:32] ✅ Main wallet balance for user 228: 143.5 BDT
+[2026-08-13 00:05:32] ✅ BET processed: deducted 4.5, new balance: 139
+[2026-08-13 00:05:32] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 00:05:32] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 00:05:32] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:12:52] ========================================
+[2026-08-13 01:12:52] === Netooze Callback Received ===
+[2026-08-13 01:12:52] Method: POST
+[2026-08-13 01:12:52] URI: /bdtapi/callback.php
+[2026-08-13 01:12:52] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:12:52] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:12:52] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:12:52] Resolved via alias map: 228 → 228
+[2026-08-13 01:12:52] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:12:52] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:12:52] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:00] ========================================
+[2026-08-13 01:13:00] === Netooze Callback Received ===
+[2026-08-13 01:13:00] Method: POST
+[2026-08-13 01:13:00] URI: /bdtapi/callback.php
+[2026-08-13 01:13:00] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:00] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:00] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:00] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:00] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:00] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:00] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:02] ========================================
+[2026-08-13 01:13:02] === Netooze Callback Received ===
+[2026-08-13 01:13:02] Method: POST
+[2026-08-13 01:13:02] URI: /bdtapi/callback.php
+[2026-08-13 01:13:02] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:02] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:02] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:02] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:02] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:02] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:02] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:05] ========================================
+[2026-08-13 01:13:05] === Netooze Callback Received ===
+[2026-08-13 01:13:05] Method: POST
+[2026-08-13 01:13:05] URI: /bdtapi/callback.php
+[2026-08-13 01:13:05] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:05] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:05] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:05] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:05] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:05] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:05] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:08] ========================================
+[2026-08-13 01:13:08] === Netooze Callback Received ===
+[2026-08-13 01:13:08] Method: POST
+[2026-08-13 01:13:08] URI: /bdtapi/callback.php
+[2026-08-13 01:13:08] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:08] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:08] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:08] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:08] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:08] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:08] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:11] ========================================
+[2026-08-13 01:13:11] === Netooze Callback Received ===
+[2026-08-13 01:13:11] Method: POST
+[2026-08-13 01:13:11] URI: /bdtapi/callback.php
+[2026-08-13 01:13:11] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:11] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:11] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:11] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:11] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:11] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:11] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:13] ========================================
+[2026-08-13 01:13:13] === Netooze Callback Received ===
+[2026-08-13 01:13:13] Method: POST
+[2026-08-13 01:13:13] URI: /bdtapi/callback.php
+[2026-08-13 01:13:13] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:13] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:13] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:13] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:13] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:13] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:13] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:20] ========================================
+[2026-08-13 01:13:20] === Netooze Callback Received ===
+[2026-08-13 01:13:20] Method: POST
+[2026-08-13 01:13:20] URI: /bdtapi/callback.php
+[2026-08-13 01:13:20] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:20] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:20] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:20] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:20] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:20] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:20] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:22] ========================================
+[2026-08-13 01:13:22] === Netooze Callback Received ===
+[2026-08-13 01:13:22] Method: POST
+[2026-08-13 01:13:22] URI: /bdtapi/callback.php
+[2026-08-13 01:13:22] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:22] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:22] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:22] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:22] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:22] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:22] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:32] ========================================
+[2026-08-13 01:13:32] === Netooze Callback Received ===
+[2026-08-13 01:13:32] Method: POST
+[2026-08-13 01:13:32] URI: /bdtapi/callback.php
+[2026-08-13 01:13:32] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:32] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:32] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:32] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:32] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:32] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:32] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:34] ========================================
+[2026-08-13 01:13:34] === Netooze Callback Received ===
+[2026-08-13 01:13:34] Method: POST
+[2026-08-13 01:13:34] URI: /bdtapi/callback.php
+[2026-08-13 01:13:34] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:34] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:34] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:34] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:34] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:34] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:34] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:37] ========================================
+[2026-08-13 01:13:37] === Netooze Callback Received ===
+[2026-08-13 01:13:37] Method: POST
+[2026-08-13 01:13:37] URI: /bdtapi/callback.php
+[2026-08-13 01:13:37] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:37] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:37] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:37] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:37] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:37] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:37] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:40] ========================================
+[2026-08-13 01:13:40] === Netooze Callback Received ===
+[2026-08-13 01:13:40] Method: POST
+[2026-08-13 01:13:40] URI: /bdtapi/callback.php
+[2026-08-13 01:13:40] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:40] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:40] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:40] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:40] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:40] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:40] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:13:43] ========================================
+[2026-08-13 01:13:43] === Netooze Callback Received ===
+[2026-08-13 01:13:43] Method: POST
+[2026-08-13 01:13:43] URI: /bdtapi/callback.php
+[2026-08-13 01:13:43] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:13:43] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:13:43] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:13:43] Resolved via alias map: 228 → 228
+[2026-08-13 01:13:43] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:13:43] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:13:43] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:33:24] ========================================
+[2026-08-13 01:33:24] === Netooze Callback Received ===
+[2026-08-13 01:33:24] Method: POST
+[2026-08-13 01:33:24] URI: /bdtapi/callback.php
+[2026-08-13 01:33:24] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:33:24] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:33:24] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:33:24] Resolved via alias map: 228 → 228
+[2026-08-13 01:33:24] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:33:24] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:33:24] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:33:51] ========================================
+[2026-08-13 01:33:51] === Netooze Callback Received ===
+[2026-08-13 01:33:51] Method: POST
+[2026-08-13 01:33:51] URI: /bdtapi/callback.php
+[2026-08-13 01:33:51] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 01:33:51] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 01:33:51] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 01:33:51] Resolved via alias map: 228 → 228
+[2026-08-13 01:33:51] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 01:33:51] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:33:51] Response: {"status":"SUCCESS","balance":139} (HTTP: 200)
+[2026-08-13 01:34:24] ========================================
+[2026-08-13 01:34:24] === Netooze Callback Received ===
+[2026-08-13 01:34:24] Method: POST
+[2026-08-13 01:34:24] URI: /bdtapi/callback.php
+[2026-08-13 01:34:24] Raw input: {"action":"bet","player_id":"77228","amount":2,"currency":"BDT","provider_txn_id":"e93e23f5-67f2-379c-a06a-2eb06b5c1394","proxy_txn_id":"af78f234-b6bd-479a-8093-5d4b49eb57e2","game_code":"b1e11902cecf38023f2916569c32040a"}
+[2026-08-13 01:34:24] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 2,
+    "currency": "BDT",
+    "provider_txn_id": "e93e23f5-67f2-379c-a06a-2eb06b5c1394",
+    "proxy_txn_id": "af78f234-b6bd-479a-8093-5d4b49eb57e2",
+    "game_code": "b1e11902cecf38023f2916569c32040a"
+}
+[2026-08-13 01:34:24] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 01:34:24] Resolved via alias map: 77228 → 228
+[2026-08-13 01:34:24] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 2 | TXN: e93e23f5-67f2-379c-a06a-2eb06b5c1394
+[2026-08-13 01:34:24] ✅ Main wallet balance for user 228: 139 BDT
+[2026-08-13 01:34:24] ✅ BET processed: deducted 2, new balance: 137
+[2026-08-13 01:34:24] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 01:34:24] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 01:34:24] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:15:59] ========================================
+[2026-08-13 02:15:59] === Netooze Callback Received ===
+[2026-08-13 02:15:59] Method: POST
+[2026-08-13 02:15:59] URI: /bdtapi/callback.php
+[2026-08-13 02:15:59] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:15:59] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:15:59] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:15:59] Resolved via alias map: 228 → 228
+[2026-08-13 02:15:59] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:15:59] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:15:59] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:00] ========================================
+[2026-08-13 02:16:00] === Netooze Callback Received ===
+[2026-08-13 02:16:00] Method: POST
+[2026-08-13 02:16:00] URI: /bdtapi/callback.php
+[2026-08-13 02:16:00] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:00] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:00] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:00] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:00] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:00] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:00] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:00] ========================================
+[2026-08-13 02:16:00] === Netooze Callback Received ===
+[2026-08-13 02:16:00] Method: POST
+[2026-08-13 02:16:00] URI: /bdtapi/callback.php
+[2026-08-13 02:16:00] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:00] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:00] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:00] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:00] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:00] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:00] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:01] ========================================
+[2026-08-13 02:16:01] === Netooze Callback Received ===
+[2026-08-13 02:16:01] Method: POST
+[2026-08-13 02:16:01] URI: /bdtapi/callback.php
+[2026-08-13 02:16:01] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:01] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:01] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:01] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:01] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:01] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:01] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:02] ========================================
+[2026-08-13 02:16:02] === Netooze Callback Received ===
+[2026-08-13 02:16:02] Method: POST
+[2026-08-13 02:16:02] URI: /bdtapi/callback.php
+[2026-08-13 02:16:02] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:02] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:02] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:02] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:02] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:02] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:02] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:03] ========================================
+[2026-08-13 02:16:03] === Netooze Callback Received ===
+[2026-08-13 02:16:03] Method: POST
+[2026-08-13 02:16:03] URI: /bdtapi/callback.php
+[2026-08-13 02:16:03] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:03] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:03] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:03] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:03] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:03] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:03] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:04] ========================================
+[2026-08-13 02:16:04] === Netooze Callback Received ===
+[2026-08-13 02:16:04] Method: POST
+[2026-08-13 02:16:04] URI: /bdtapi/callback.php
+[2026-08-13 02:16:04] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:04] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:04] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:04] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:04] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:04] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:04] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:05] ========================================
+[2026-08-13 02:16:05] === Netooze Callback Received ===
+[2026-08-13 02:16:05] Method: POST
+[2026-08-13 02:16:05] URI: /bdtapi/callback.php
+[2026-08-13 02:16:05] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:05] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:05] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:05] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:05] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:05] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:05] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:06] ========================================
+[2026-08-13 02:16:06] === Netooze Callback Received ===
+[2026-08-13 02:16:06] Method: POST
+[2026-08-13 02:16:06] URI: /bdtapi/callback.php
+[2026-08-13 02:16:06] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:06] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:06] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:06] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:06] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:06] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:06] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:07] ========================================
+[2026-08-13 02:16:07] === Netooze Callback Received ===
+[2026-08-13 02:16:07] Method: POST
+[2026-08-13 02:16:07] URI: /bdtapi/callback.php
+[2026-08-13 02:16:07] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:07] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:07] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:07] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:07] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:07] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:07] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:33] ========================================
+[2026-08-13 02:16:33] === Netooze Callback Received ===
+[2026-08-13 02:16:33] Method: POST
+[2026-08-13 02:16:33] URI: /bdtapi/callback.php
+[2026-08-13 02:16:33] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:33] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:33] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:33] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:33] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:33] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:33] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:16:42] ========================================
+[2026-08-13 02:16:42] === Netooze Callback Received ===
+[2026-08-13 02:16:42] Method: POST
+[2026-08-13 02:16:42] URI: /bdtapi/callback.php
+[2026-08-13 02:16:42] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:16:42] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:16:42] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:16:42] Resolved via alias map: 228 → 228
+[2026-08-13 02:16:42] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:16:42] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:16:42] Response: {"status":"SUCCESS","balance":137} (HTTP: 200)
+[2026-08-13 02:17:07] ========================================
+[2026-08-13 02:17:07] === Netooze Callback Received ===
+[2026-08-13 02:17:07] Method: POST
+[2026-08-13 02:17:07] URI: /bdtapi/callback.php
+[2026-08-13 02:17:07] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"077542bb-6b1e-31d5-aa92-e13acb60ce5c","proxy_txn_id":"438a82bc-c3fe-4374-a288-49dec51a3321","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:07] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "077542bb-6b1e-31d5-aa92-e13acb60ce5c",
+    "proxy_txn_id": "438a82bc-c3fe-4374-a288-49dec51a3321",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:07] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:07] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:07] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 077542bb-6b1e-31d5-aa92-e13acb60ce5c
+[2026-08-13 02:17:07] ✅ Main wallet balance for user 228: 137 BDT
+[2026-08-13 02:17:07] ✅ BET processed: deducted 5, new balance: 132
+[2026-08-13 02:17:07] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:07] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:07] Response: {"status":"SUCCESS","balance":132} (HTTP: 200)
+[2026-08-13 02:17:14] ========================================
+[2026-08-13 02:17:14] === Netooze Callback Received ===
+[2026-08-13 02:17:14] Method: POST
+[2026-08-13 02:17:14] URI: /bdtapi/callback.php
+[2026-08-13 02:17:14] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"3b761151-c1de-3d5e-bf9a-488d4523b060","proxy_txn_id":"7370ef09-3cdc-405d-9f66-0dabf7aada17","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:14] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "3b761151-c1de-3d5e-bf9a-488d4523b060",
+    "proxy_txn_id": "7370ef09-3cdc-405d-9f66-0dabf7aada17",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:14] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:14] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:14] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: 3b761151-c1de-3d5e-bf9a-488d4523b060
+[2026-08-13 02:17:14] ✅ Main wallet balance for user 228: 132 BDT
+[2026-08-13 02:17:14] ✅ BET processed: deducted 1, new balance: 131
+[2026-08-13 02:17:14] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:14] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:14] Response: {"status":"SUCCESS","balance":131} (HTTP: 200)
+[2026-08-13 02:17:16] ========================================
+[2026-08-13 02:17:16] === Netooze Callback Received ===
+[2026-08-13 02:17:16] Method: POST
+[2026-08-13 02:17:16] URI: /bdtapi/callback.php
+[2026-08-13 02:17:16] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"88312968-6e6a-3ac7-b00c-23fce8d0e76a","proxy_txn_id":"48507ad2-9aa9-4a97-beda-72b2b03f16a2","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:16] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "88312968-6e6a-3ac7-b00c-23fce8d0e76a",
+    "proxy_txn_id": "48507ad2-9aa9-4a97-beda-72b2b03f16a2",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:16] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:16] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:16] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: 88312968-6e6a-3ac7-b00c-23fce8d0e76a
+[2026-08-13 02:17:16] ✅ Main wallet balance for user 228: 131 BDT
+[2026-08-13 02:17:16] ✅ BET processed: deducted 1, new balance: 130
+[2026-08-13 02:17:16] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:16] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:16] Response: {"status":"SUCCESS","balance":130} (HTTP: 200)
+[2026-08-13 02:17:18] ========================================
+[2026-08-13 02:17:18] === Netooze Callback Received ===
+[2026-08-13 02:17:18] Method: POST
+[2026-08-13 02:17:18] URI: /bdtapi/callback.php
+[2026-08-13 02:17:18] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"b6c7bd1f-a9d0-3260-aa7a-f5f36a26acbb","proxy_txn_id":"5e2c1c50-4121-4346-817a-711d78402162","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:18] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "b6c7bd1f-a9d0-3260-aa7a-f5f36a26acbb",
+    "proxy_txn_id": "5e2c1c50-4121-4346-817a-711d78402162",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:18] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:18] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:18] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: b6c7bd1f-a9d0-3260-aa7a-f5f36a26acbb
+[2026-08-13 02:17:18] ✅ Main wallet balance for user 228: 130 BDT
+[2026-08-13 02:17:18] ✅ BET processed: deducted 1, new balance: 129
+[2026-08-13 02:17:18] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:18] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:18] Response: {"status":"SUCCESS","balance":129} (HTTP: 200)
+[2026-08-13 02:17:21] ========================================
+[2026-08-13 02:17:21] === Netooze Callback Received ===
+[2026-08-13 02:17:21] Method: POST
+[2026-08-13 02:17:21] URI: /bdtapi/callback.php
+[2026-08-13 02:17:21] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"fc0729ce-c332-3fb1-9280-35cf964343db","proxy_txn_id":"75448fdf-a95f-4277-acba-b20b29200fd6","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:21] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "fc0729ce-c332-3fb1-9280-35cf964343db",
+    "proxy_txn_id": "75448fdf-a95f-4277-acba-b20b29200fd6",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:21] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:21] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:21] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: fc0729ce-c332-3fb1-9280-35cf964343db
+[2026-08-13 02:17:21] ✅ Main wallet balance for user 228: 129 BDT
+[2026-08-13 02:17:21] ✅ BET processed: deducted 1, new balance: 128
+[2026-08-13 02:17:21] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:21] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:21] Response: {"status":"SUCCESS","balance":128} (HTTP: 200)
+[2026-08-13 02:17:27] ========================================
+[2026-08-13 02:17:27] === Netooze Callback Received ===
+[2026-08-13 02:17:27] Method: POST
+[2026-08-13 02:17:27] URI: /bdtapi/callback.php
+[2026-08-13 02:17:27] Raw input: {"action":"bet_and_win","player_id":"77228","amount":1,"bet_amount":1,"win_amount":0.2,"currency":"BDT","provider_txn_id":"dc57bbf6-ba7f-3ece-8855-18e974e3672e","proxy_txn_id":"16b8ac29-6260-48f0-92f3-0b52257023a5","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:27] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77228",
+    "amount": 1,
+    "bet_amount": 1,
+    "win_amount": 0.2,
+    "currency": "BDT",
+    "provider_txn_id": "dc57bbf6-ba7f-3ece-8855-18e974e3672e",
+    "proxy_txn_id": "16b8ac29-6260-48f0-92f3-0b52257023a5",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:27] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:27] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:27] Action: bet_and_win | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: dc57bbf6-ba7f-3ece-8855-18e974e3672e
+[2026-08-13 02:17:27] ✅ Main wallet balance for user 228: 128 BDT
+[2026-08-13 02:17:27] ✅ BET_AND_WIN processed: deducted 1, credited 0.2, new balance: 127.2
+[2026-08-13 02:17:27] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:27] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:27] Response: {"status":"SUCCESS","balance":127.2} (HTTP: 200)
+[2026-08-13 02:17:32] ========================================
+[2026-08-13 02:17:32] === Netooze Callback Received ===
+[2026-08-13 02:17:32] Method: POST
+[2026-08-13 02:17:32] URI: /bdtapi/callback.php
+[2026-08-13 02:17:32] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"abb49c4e-4d4b-351e-bf95-290adfed2b4a","proxy_txn_id":"d02be812-5b96-4b90-9f9d-1fea017980fc","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:32] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "abb49c4e-4d4b-351e-bf95-290adfed2b4a",
+    "proxy_txn_id": "d02be812-5b96-4b90-9f9d-1fea017980fc",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:32] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:32] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:32] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: abb49c4e-4d4b-351e-bf95-290adfed2b4a
+[2026-08-13 02:17:32] ✅ Main wallet balance for user 228: 127.2 BDT
+[2026-08-13 02:17:32] ✅ BET processed: deducted 1, new balance: 126.2
+[2026-08-13 02:17:32] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:32] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:32] Response: {"status":"SUCCESS","balance":126.2} (HTTP: 200)
+[2026-08-13 02:17:35] ========================================
+[2026-08-13 02:17:35] === Netooze Callback Received ===
+[2026-08-13 02:17:35] Method: POST
+[2026-08-13 02:17:35] URI: /bdtapi/callback.php
+[2026-08-13 02:17:35] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"8b664383-b0fd-33ec-921d-16e8ebe27fea","proxy_txn_id":"4f1c0fcc-b4d5-4521-a8b6-97e5c07e31bb","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:35] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "8b664383-b0fd-33ec-921d-16e8ebe27fea",
+    "proxy_txn_id": "4f1c0fcc-b4d5-4521-a8b6-97e5c07e31bb",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:35] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:35] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:35] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: 8b664383-b0fd-33ec-921d-16e8ebe27fea
+[2026-08-13 02:17:35] ✅ Main wallet balance for user 228: 126.2 BDT
+[2026-08-13 02:17:35] ✅ BET processed: deducted 1, new balance: 125.2
+[2026-08-13 02:17:35] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:35] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:35] Response: {"status":"SUCCESS","balance":125.2} (HTTP: 200)
+[2026-08-13 02:17:37] ========================================
+[2026-08-13 02:17:37] === Netooze Callback Received ===
+[2026-08-13 02:17:37] Method: POST
+[2026-08-13 02:17:37] URI: /bdtapi/callback.php
+[2026-08-13 02:17:37] Raw input: {"action":"bet","player_id":"77228","amount":1,"currency":"BDT","provider_txn_id":"17b43683-e759-3de2-be37-44949f102799","proxy_txn_id":"a43ba778-bd89-4940-9d9a-792f882f7134","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:37] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "17b43683-e759-3de2-be37-44949f102799",
+    "proxy_txn_id": "a43ba778-bd89-4940-9d9a-792f882f7134",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:37] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:37] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:37] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 1 | TXN: 17b43683-e759-3de2-be37-44949f102799
+[2026-08-13 02:17:37] ✅ Main wallet balance for user 228: 125.2 BDT
+[2026-08-13 02:17:37] ✅ BET processed: deducted 1, new balance: 124.2
+[2026-08-13 02:17:37] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:37] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:37] Response: {"status":"SUCCESS","balance":124.2} (HTTP: 200)
+[2026-08-13 02:17:46] ========================================
+[2026-08-13 02:17:46] === Netooze Callback Received ===
+[2026-08-13 02:17:46] Method: POST
+[2026-08-13 02:17:46] URI: /bdtapi/callback.php
+[2026-08-13 02:17:46] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"9993e146-03c1-38eb-bcc9-dd5af0903bc2","proxy_txn_id":"0b440c41-e934-4236-acea-18b4c8eca690","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:46] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "9993e146-03c1-38eb-bcc9-dd5af0903bc2",
+    "proxy_txn_id": "0b440c41-e934-4236-acea-18b4c8eca690",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:46] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:46] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:46] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 9993e146-03c1-38eb-bcc9-dd5af0903bc2
+[2026-08-13 02:17:46] ✅ Main wallet balance for user 228: 124.2 BDT
+[2026-08-13 02:17:46] ✅ BET processed: deducted 5, new balance: 119.2
+[2026-08-13 02:17:46] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:46] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:46] Response: {"status":"SUCCESS","balance":119.2} (HTTP: 200)
+[2026-08-13 02:17:49] ========================================
+[2026-08-13 02:17:49] === Netooze Callback Received ===
+[2026-08-13 02:17:49] Method: POST
+[2026-08-13 02:17:49] URI: /bdtapi/callback.php
+[2026-08-13 02:17:49] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"bece57ff-27e4-34e3-910c-615e96486e5d","proxy_txn_id":"b5bb9933-2bd3-4982-95de-7ef24dca9c67","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:49] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "bece57ff-27e4-34e3-910c-615e96486e5d",
+    "proxy_txn_id": "b5bb9933-2bd3-4982-95de-7ef24dca9c67",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:49] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:49] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:49] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: bece57ff-27e4-34e3-910c-615e96486e5d
+[2026-08-13 02:17:49] ✅ Main wallet balance for user 228: 119.2 BDT
+[2026-08-13 02:17:49] ✅ BET processed: deducted 5, new balance: 114.2
+[2026-08-13 02:17:49] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:49] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:49] Response: {"status":"SUCCESS","balance":114.2} (HTTP: 200)
+[2026-08-13 02:17:52] ========================================
+[2026-08-13 02:17:52] === Netooze Callback Received ===
+[2026-08-13 02:17:52] Method: POST
+[2026-08-13 02:17:52] URI: /bdtapi/callback.php
+[2026-08-13 02:17:52] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"69b0be26-d469-3d40-9dbc-6ab8dabfe757","proxy_txn_id":"923f259d-b50b-42ee-96bf-bd8d80c09d5f","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:52] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "69b0be26-d469-3d40-9dbc-6ab8dabfe757",
+    "proxy_txn_id": "923f259d-b50b-42ee-96bf-bd8d80c09d5f",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:52] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:52] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:52] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 69b0be26-d469-3d40-9dbc-6ab8dabfe757
+[2026-08-13 02:17:52] ✅ Main wallet balance for user 228: 114.2 BDT
+[2026-08-13 02:17:52] ✅ BET processed: deducted 5, new balance: 109.2
+[2026-08-13 02:17:52] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:52] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:52] Response: {"status":"SUCCESS","balance":109.2} (HTTP: 200)
+[2026-08-13 02:17:54] ========================================
+[2026-08-13 02:17:54] === Netooze Callback Received ===
+[2026-08-13 02:17:54] Method: POST
+[2026-08-13 02:17:54] URI: /bdtapi/callback.php
+[2026-08-13 02:17:54] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"1614cef4-9af1-3350-8b64-5838bb93e223","proxy_txn_id":"6de61cc6-2ba0-44a1-af8d-6bf4860df1aa","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:54] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "1614cef4-9af1-3350-8b64-5838bb93e223",
+    "proxy_txn_id": "6de61cc6-2ba0-44a1-af8d-6bf4860df1aa",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:54] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:54] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:54] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 1614cef4-9af1-3350-8b64-5838bb93e223
+[2026-08-13 02:17:54] ✅ Main wallet balance for user 228: 109.2 BDT
+[2026-08-13 02:17:54] ✅ BET processed: deducted 5, new balance: 104.2
+[2026-08-13 02:17:54] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:54] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:54] Response: {"status":"SUCCESS","balance":104.2} (HTTP: 200)
+[2026-08-13 02:17:57] ========================================
+[2026-08-13 02:17:57] === Netooze Callback Received ===
+[2026-08-13 02:17:57] Method: POST
+[2026-08-13 02:17:57] URI: /bdtapi/callback.php
+[2026-08-13 02:17:57] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"70759ac0-61a3-33d6-a24c-3c79819f4a0a","proxy_txn_id":"35b786d9-b642-4ecd-bc21-b646ab3fc86e","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:57] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "70759ac0-61a3-33d6-a24c-3c79819f4a0a",
+    "proxy_txn_id": "35b786d9-b642-4ecd-bc21-b646ab3fc86e",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:57] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:57] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:57] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 70759ac0-61a3-33d6-a24c-3c79819f4a0a
+[2026-08-13 02:17:57] ✅ Main wallet balance for user 228: 104.2 BDT
+[2026-08-13 02:17:57] ✅ BET processed: deducted 5, new balance: 99.2
+[2026-08-13 02:17:57] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:57] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:57] Response: {"status":"SUCCESS","balance":99.2} (HTTP: 200)
+[2026-08-13 02:17:59] ========================================
+[2026-08-13 02:17:59] === Netooze Callback Received ===
+[2026-08-13 02:17:59] Method: POST
+[2026-08-13 02:17:59] URI: /bdtapi/callback.php
+[2026-08-13 02:17:59] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"945dba04-af9a-36e3-8b1d-4126c5bf70d9","proxy_txn_id":"32d869c6-9d8c-492e-bb19-994e2af03ada","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:17:59] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "945dba04-af9a-36e3-8b1d-4126c5bf70d9",
+    "proxy_txn_id": "32d869c6-9d8c-492e-bb19-994e2af03ada",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:17:59] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:17:59] Resolved via alias map: 77228 → 228
+[2026-08-13 02:17:59] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 945dba04-af9a-36e3-8b1d-4126c5bf70d9
+[2026-08-13 02:17:59] ✅ Main wallet balance for user 228: 99.2 BDT
+[2026-08-13 02:17:59] ✅ BET processed: deducted 5, new balance: 94.2
+[2026-08-13 02:17:59] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:17:59] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:17:59] Response: {"status":"SUCCESS","balance":94.2} (HTTP: 200)
+[2026-08-13 02:18:02] ========================================
+[2026-08-13 02:18:02] === Netooze Callback Received ===
+[2026-08-13 02:18:02] Method: POST
+[2026-08-13 02:18:02] URI: /bdtapi/callback.php
+[2026-08-13 02:18:02] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"0ef2dba7-971f-3024-8df7-fdf866c002cd","proxy_txn_id":"bab4d60e-47de-4ffd-80a5-86acc338ffa1","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:02] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "0ef2dba7-971f-3024-8df7-fdf866c002cd",
+    "proxy_txn_id": "bab4d60e-47de-4ffd-80a5-86acc338ffa1",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:02] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:02] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:02] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 0ef2dba7-971f-3024-8df7-fdf866c002cd
+[2026-08-13 02:18:02] ✅ Main wallet balance for user 228: 94.2 BDT
+[2026-08-13 02:18:02] ✅ BET processed: deducted 5, new balance: 89.2
+[2026-08-13 02:18:02] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:02] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:02] Response: {"status":"SUCCESS","balance":89.2} (HTTP: 200)
+[2026-08-13 02:18:04] ========================================
+[2026-08-13 02:18:04] === Netooze Callback Received ===
+[2026-08-13 02:18:04] Method: POST
+[2026-08-13 02:18:04] URI: /bdtapi/callback.php
+[2026-08-13 02:18:04] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"b3e3f1d1-10ff-3850-bef6-6bc3167f5f2c","proxy_txn_id":"ad7be51e-1a49-4be0-b7ba-3b2af1503983","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:04] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "b3e3f1d1-10ff-3850-bef6-6bc3167f5f2c",
+    "proxy_txn_id": "ad7be51e-1a49-4be0-b7ba-3b2af1503983",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:04] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:04] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:04] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: b3e3f1d1-10ff-3850-bef6-6bc3167f5f2c
+[2026-08-13 02:18:04] ✅ Main wallet balance for user 228: 89.2 BDT
+[2026-08-13 02:18:04] ✅ BET processed: deducted 5, new balance: 84.2
+[2026-08-13 02:18:04] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:04] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:04] Response: {"status":"SUCCESS","balance":84.2} (HTTP: 200)
+[2026-08-13 02:18:07] ========================================
+[2026-08-13 02:18:07] === Netooze Callback Received ===
+[2026-08-13 02:18:07] Method: POST
+[2026-08-13 02:18:07] URI: /bdtapi/callback.php
+[2026-08-13 02:18:07] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"72ae20a7-e8c2-32db-9763-4b7f1bfefd99","proxy_txn_id":"6d2c6347-229d-42fe-9f91-ce0e56a0be24","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:07] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "72ae20a7-e8c2-32db-9763-4b7f1bfefd99",
+    "proxy_txn_id": "6d2c6347-229d-42fe-9f91-ce0e56a0be24",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:07] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:07] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:07] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 72ae20a7-e8c2-32db-9763-4b7f1bfefd99
+[2026-08-13 02:18:07] ✅ Main wallet balance for user 228: 84.2 BDT
+[2026-08-13 02:18:07] ✅ BET processed: deducted 5, new balance: 79.2
+[2026-08-13 02:18:07] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:07] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:07] Response: {"status":"SUCCESS","balance":79.2} (HTTP: 200)
+[2026-08-13 02:18:09] ========================================
+[2026-08-13 02:18:09] === Netooze Callback Received ===
+[2026-08-13 02:18:09] Method: POST
+[2026-08-13 02:18:09] URI: /bdtapi/callback.php
+[2026-08-13 02:18:09] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"c4cf8f60-1b67-3ee2-a926-0f8b541f986e","proxy_txn_id":"6a5950be-923e-4f7e-a084-0f46895e98c6","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:09] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "c4cf8f60-1b67-3ee2-a926-0f8b541f986e",
+    "proxy_txn_id": "6a5950be-923e-4f7e-a084-0f46895e98c6",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:09] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:09] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:09] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: c4cf8f60-1b67-3ee2-a926-0f8b541f986e
+[2026-08-13 02:18:09] ✅ Main wallet balance for user 228: 79.2 BDT
+[2026-08-13 02:18:09] ✅ BET processed: deducted 5, new balance: 74.2
+[2026-08-13 02:18:09] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:09] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:09] Response: {"status":"SUCCESS","balance":74.2} (HTTP: 200)
+[2026-08-13 02:18:12] ========================================
+[2026-08-13 02:18:12] === Netooze Callback Received ===
+[2026-08-13 02:18:12] Method: POST
+[2026-08-13 02:18:12] URI: /bdtapi/callback.php
+[2026-08-13 02:18:12] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"6533ac0f-3c5f-3c07-8829-57e4e29e5975","proxy_txn_id":"e731178d-a32e-424b-89a9-6313c0971a19","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:12] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "6533ac0f-3c5f-3c07-8829-57e4e29e5975",
+    "proxy_txn_id": "e731178d-a32e-424b-89a9-6313c0971a19",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:12] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:12] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:12] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 6533ac0f-3c5f-3c07-8829-57e4e29e5975
+[2026-08-13 02:18:12] ✅ Main wallet balance for user 228: 74.2 BDT
+[2026-08-13 02:18:12] ✅ BET processed: deducted 5, new balance: 69.2
+[2026-08-13 02:18:12] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:12] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:12] Response: {"status":"SUCCESS","balance":69.2} (HTTP: 200)
+[2026-08-13 02:18:15] ========================================
+[2026-08-13 02:18:15] === Netooze Callback Received ===
+[2026-08-13 02:18:15] Method: POST
+[2026-08-13 02:18:15] URI: /bdtapi/callback.php
+[2026-08-13 02:18:15] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"ad1eae1e-5742-3719-991d-a9da0c2c7d14","proxy_txn_id":"dc91b7ef-b93e-4df6-9295-76c451b949fc","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:15] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "ad1eae1e-5742-3719-991d-a9da0c2c7d14",
+    "proxy_txn_id": "dc91b7ef-b93e-4df6-9295-76c451b949fc",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:15] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:15] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:15] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: ad1eae1e-5742-3719-991d-a9da0c2c7d14
+[2026-08-13 02:18:15] ✅ Main wallet balance for user 228: 69.2 BDT
+[2026-08-13 02:18:15] ✅ BET processed: deducted 5, new balance: 64.2
+[2026-08-13 02:18:15] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:15] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:15] Response: {"status":"SUCCESS","balance":64.2} (HTTP: 200)
+[2026-08-13 02:18:18] ========================================
+[2026-08-13 02:18:18] === Netooze Callback Received ===
+[2026-08-13 02:18:18] Method: POST
+[2026-08-13 02:18:18] URI: /bdtapi/callback.php
+[2026-08-13 02:18:18] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"9aac6a7e-3269-38bf-a7c0-c65ddb681356","proxy_txn_id":"245b6622-3caa-47c1-9bd7-962ffabe605f","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:18] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "9aac6a7e-3269-38bf-a7c0-c65ddb681356",
+    "proxy_txn_id": "245b6622-3caa-47c1-9bd7-962ffabe605f",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:18] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:18] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:18] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 9aac6a7e-3269-38bf-a7c0-c65ddb681356
+[2026-08-13 02:18:18] ✅ Main wallet balance for user 228: 64.2 BDT
+[2026-08-13 02:18:18] ✅ BET processed: deducted 5, new balance: 59.2
+[2026-08-13 02:18:18] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:18] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:18] Response: {"status":"SUCCESS","balance":59.2} (HTTP: 200)
+[2026-08-13 02:18:20] ========================================
+[2026-08-13 02:18:20] === Netooze Callback Received ===
+[2026-08-13 02:18:20] Method: POST
+[2026-08-13 02:18:20] URI: /bdtapi/callback.php
+[2026-08-13 02:18:20] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"950ece17-e840-3ced-9665-543e8d5c7b2e","proxy_txn_id":"3de6a78c-79ee-4821-bc2f-19ead1d19a75","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:20] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "950ece17-e840-3ced-9665-543e8d5c7b2e",
+    "proxy_txn_id": "3de6a78c-79ee-4821-bc2f-19ead1d19a75",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:20] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:20] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:20] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 950ece17-e840-3ced-9665-543e8d5c7b2e
+[2026-08-13 02:18:20] ✅ Main wallet balance for user 228: 59.2 BDT
+[2026-08-13 02:18:20] ✅ BET processed: deducted 5, new balance: 54.2
+[2026-08-13 02:18:20] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:20] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:20] Response: {"status":"SUCCESS","balance":54.2} (HTTP: 200)
+[2026-08-13 02:18:22] ========================================
+[2026-08-13 02:18:22] === Netooze Callback Received ===
+[2026-08-13 02:18:22] Method: POST
+[2026-08-13 02:18:22] URI: /bdtapi/callback.php
+[2026-08-13 02:18:22] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"7846002b-1749-3a12-928e-4121c1bbe2e9","proxy_txn_id":"eae7a741-1eec-4cc4-9d0d-d688223d0fc3","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:22] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "7846002b-1749-3a12-928e-4121c1bbe2e9",
+    "proxy_txn_id": "eae7a741-1eec-4cc4-9d0d-d688223d0fc3",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:22] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:22] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:22] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 7846002b-1749-3a12-928e-4121c1bbe2e9
+[2026-08-13 02:18:22] ✅ Main wallet balance for user 228: 54.2 BDT
+[2026-08-13 02:18:22] ✅ BET processed: deducted 5, new balance: 49.2
+[2026-08-13 02:18:22] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:22] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:22] Response: {"status":"SUCCESS","balance":49.2} (HTTP: 200)
+[2026-08-13 02:18:25] ========================================
+[2026-08-13 02:18:25] === Netooze Callback Received ===
+[2026-08-13 02:18:25] Method: POST
+[2026-08-13 02:18:25] URI: /bdtapi/callback.php
+[2026-08-13 02:18:25] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"502be678-e172-39fb-bc6e-091a89d849d3","proxy_txn_id":"9b57f5f6-e0f1-444f-9248-c16cfc839333","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:25] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "502be678-e172-39fb-bc6e-091a89d849d3",
+    "proxy_txn_id": "9b57f5f6-e0f1-444f-9248-c16cfc839333",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:25] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:25] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:25] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 502be678-e172-39fb-bc6e-091a89d849d3
+[2026-08-13 02:18:25] ✅ Main wallet balance for user 228: 49.2 BDT
+[2026-08-13 02:18:25] ✅ BET processed: deducted 5, new balance: 44.2
+[2026-08-13 02:18:25] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:25] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:25] Response: {"status":"SUCCESS","balance":44.2} (HTTP: 200)
+[2026-08-13 02:18:28] ========================================
+[2026-08-13 02:18:28] === Netooze Callback Received ===
+[2026-08-13 02:18:28] Method: POST
+[2026-08-13 02:18:28] URI: /bdtapi/callback.php
+[2026-08-13 02:18:28] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"4df07063-0ce2-3b6c-ac72-e0e7e410bcf0","proxy_txn_id":"02fc351c-b3f4-4869-9af8-ec29c3581ff4","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:28] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "4df07063-0ce2-3b6c-ac72-e0e7e410bcf0",
+    "proxy_txn_id": "02fc351c-b3f4-4869-9af8-ec29c3581ff4",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:28] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:28] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:28] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 4df07063-0ce2-3b6c-ac72-e0e7e410bcf0
+[2026-08-13 02:18:28] ✅ Main wallet balance for user 228: 44.2 BDT
+[2026-08-13 02:18:28] ✅ BET processed: deducted 5, new balance: 39.2
+[2026-08-13 02:18:28] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:28] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:28] Response: {"status":"SUCCESS","balance":39.2} (HTTP: 200)
+[2026-08-13 02:18:30] ========================================
+[2026-08-13 02:18:30] === Netooze Callback Received ===
+[2026-08-13 02:18:30] Method: POST
+[2026-08-13 02:18:30] URI: /bdtapi/callback.php
+[2026-08-13 02:18:30] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"6f3d2d5f-be41-339b-8511-32bb418c31b5","proxy_txn_id":"508f2479-ea3d-4116-b391-bcf568a9598a","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:30] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "6f3d2d5f-be41-339b-8511-32bb418c31b5",
+    "proxy_txn_id": "508f2479-ea3d-4116-b391-bcf568a9598a",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:30] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:30] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:30] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 6f3d2d5f-be41-339b-8511-32bb418c31b5
+[2026-08-13 02:18:30] ✅ Main wallet balance for user 228: 39.2 BDT
+[2026-08-13 02:18:30] ✅ BET processed: deducted 5, new balance: 34.2
+[2026-08-13 02:18:30] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:30] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:30] Response: {"status":"SUCCESS","balance":34.2} (HTTP: 200)
+[2026-08-13 02:18:33] ========================================
+[2026-08-13 02:18:33] === Netooze Callback Received ===
+[2026-08-13 02:18:33] Method: POST
+[2026-08-13 02:18:33] URI: /bdtapi/callback.php
+[2026-08-13 02:18:33] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"89b5b06b-6746-3b62-9ce3-14dbd78a5f76","proxy_txn_id":"a5a9180e-5684-43ec-b16d-4f8c228853c9","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:33] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "89b5b06b-6746-3b62-9ce3-14dbd78a5f76",
+    "proxy_txn_id": "a5a9180e-5684-43ec-b16d-4f8c228853c9",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:33] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:33] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:33] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 89b5b06b-6746-3b62-9ce3-14dbd78a5f76
+[2026-08-13 02:18:33] ✅ Main wallet balance for user 228: 34.2 BDT
+[2026-08-13 02:18:33] ✅ BET processed: deducted 5, new balance: 29.2
+[2026-08-13 02:18:33] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:33] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:33] Response: {"status":"SUCCESS","balance":29.2} (HTTP: 200)
+[2026-08-13 02:18:36] ========================================
+[2026-08-13 02:18:36] === Netooze Callback Received ===
+[2026-08-13 02:18:36] Method: POST
+[2026-08-13 02:18:36] URI: /bdtapi/callback.php
+[2026-08-13 02:18:36] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"cd9714b2-4bbb-3fb7-9ad2-07d100745d05","proxy_txn_id":"12a48e44-74ab-4f6d-ae97-457037616a08","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:36] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "cd9714b2-4bbb-3fb7-9ad2-07d100745d05",
+    "proxy_txn_id": "12a48e44-74ab-4f6d-ae97-457037616a08",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:36] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:36] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:36] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: cd9714b2-4bbb-3fb7-9ad2-07d100745d05
+[2026-08-13 02:18:36] ✅ Main wallet balance for user 228: 29.2 BDT
+[2026-08-13 02:18:36] ✅ BET processed: deducted 5, new balance: 24.2
+[2026-08-13 02:18:36] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:36] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:36] Response: {"status":"SUCCESS","balance":24.2} (HTTP: 200)
+[2026-08-13 02:18:38] ========================================
+[2026-08-13 02:18:38] === Netooze Callback Received ===
+[2026-08-13 02:18:38] Method: POST
+[2026-08-13 02:18:38] URI: /bdtapi/callback.php
+[2026-08-13 02:18:38] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"15c756b5-77f3-30ef-bf4f-90363002fb60","proxy_txn_id":"b18e4222-0cbd-4de2-94dc-291c23aff5db","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:38] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "15c756b5-77f3-30ef-bf4f-90363002fb60",
+    "proxy_txn_id": "b18e4222-0cbd-4de2-94dc-291c23aff5db",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:38] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:38] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:38] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 15c756b5-77f3-30ef-bf4f-90363002fb60
+[2026-08-13 02:18:38] ✅ Main wallet balance for user 228: 24.2 BDT
+[2026-08-13 02:18:38] ✅ BET processed: deducted 5, new balance: 19.2
+[2026-08-13 02:18:38] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:38] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:38] Response: {"status":"SUCCESS","balance":19.2} (HTTP: 200)
+[2026-08-13 02:18:41] ========================================
+[2026-08-13 02:18:41] === Netooze Callback Received ===
+[2026-08-13 02:18:41] Method: POST
+[2026-08-13 02:18:41] URI: /bdtapi/callback.php
+[2026-08-13 02:18:41] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"ab12b7f7-7cca-3587-8dbd-d5008a0d2041","proxy_txn_id":"397c44e0-268f-44c5-b958-84b1aa313c15","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:41] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "ab12b7f7-7cca-3587-8dbd-d5008a0d2041",
+    "proxy_txn_id": "397c44e0-268f-44c5-b958-84b1aa313c15",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:41] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:41] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:41] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: ab12b7f7-7cca-3587-8dbd-d5008a0d2041
+[2026-08-13 02:18:41] ✅ Main wallet balance for user 228: 19.2 BDT
+[2026-08-13 02:18:41] ✅ BET processed: deducted 5, new balance: 14.2
+[2026-08-13 02:18:41] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:41] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:41] Response: {"status":"SUCCESS","balance":14.2} (HTTP: 200)
+[2026-08-13 02:18:43] ========================================
+[2026-08-13 02:18:43] === Netooze Callback Received ===
+[2026-08-13 02:18:43] Method: POST
+[2026-08-13 02:18:43] URI: /bdtapi/callback.php
+[2026-08-13 02:18:43] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"b080e442-4129-326a-baf0-768b59954dec","proxy_txn_id":"dd18a0ac-2a18-4862-a248-f929b52f7ba9","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:43] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "b080e442-4129-326a-baf0-768b59954dec",
+    "proxy_txn_id": "dd18a0ac-2a18-4862-a248-f929b52f7ba9",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:43] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:43] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:43] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: b080e442-4129-326a-baf0-768b59954dec
+[2026-08-13 02:18:43] ✅ Main wallet balance for user 228: 14.2 BDT
+[2026-08-13 02:18:43] ✅ BET processed: deducted 5, new balance: 9.2
+[2026-08-13 02:18:43] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:43] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:43] Response: {"status":"SUCCESS","balance":9.2} (HTTP: 200)
+[2026-08-13 02:18:46] ========================================
+[2026-08-13 02:18:46] === Netooze Callback Received ===
+[2026-08-13 02:18:46] Method: POST
+[2026-08-13 02:18:46] URI: /bdtapi/callback.php
+[2026-08-13 02:18:46] Raw input: {"action":"bet","player_id":"77228","amount":5,"currency":"BDT","provider_txn_id":"3da74dc4-fa7d-303a-aaf0-9dfc42e3c928","proxy_txn_id":"0f65e12a-d13f-4d7a-9ea5-e613700fe128","game_code":"bdfb23c974a2517198c5443adeea77a8"}
+[2026-08-13 02:18:46] Parsed: {
+    "action": "bet",
+    "player_id": "77228",
+    "amount": 5,
+    "currency": "BDT",
+    "provider_txn_id": "3da74dc4-fa7d-303a-aaf0-9dfc42e3c928",
+    "proxy_txn_id": "0f65e12a-d13f-4d7a-9ea5-e613700fe128",
+    "game_code": "bdfb23c974a2517198c5443adeea77a8"
+}
+[2026-08-13 02:18:46] Resolving player_id='77228' → candidate='77228'
+[2026-08-13 02:18:46] Resolved via alias map: 77228 → 228
+[2026-08-13 02:18:46] Action: bet | Player: 77228 | Real User ID: 228 | Amount: 5 | TXN: 3da74dc4-fa7d-303a-aaf0-9dfc42e3c928
+[2026-08-13 02:18:46] ✅ Main wallet balance for user 228: 9.2 BDT
+[2026-08-13 02:18:46] ✅ BET processed: deducted 5, new balance: 4.2
+[2026-08-13 02:18:46] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 02:18:46] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 02:18:46] Response: {"status":"SUCCESS","balance":4.2} (HTTP: 200)
+[2026-08-13 02:22:21] ========================================
+[2026-08-13 02:22:21] === Netooze Callback Received ===
+[2026-08-13 02:22:21] Method: POST
+[2026-08-13 02:22:21] URI: /bdtapi/callback.php
+[2026-08-13 02:22:21] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 02:22:21] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 02:22:21] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 02:22:21] Resolved via alias map: 235 → 235
+[2026-08-13 02:22:21] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 02:22:21] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 02:22:21] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 02:45:53] ========================================
+[2026-08-13 02:45:53] === Netooze Callback Received ===
+[2026-08-13 02:45:53] Method: POST
+[2026-08-13 02:45:53] URI: /bdtapi/callback.php
+[2026-08-13 02:45:53] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:45:53] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:45:53] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:45:53] Resolved via alias map: 228 → 228
+[2026-08-13 02:45:53] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:45:53] ✅ Main wallet balance for user 228: 4.2 BDT
+[2026-08-13 02:45:53] Response: {"status":"SUCCESS","balance":4.2} (HTTP: 200)
+[2026-08-13 02:46:07] ========================================
+[2026-08-13 02:46:07] === Netooze Callback Received ===
+[2026-08-13 02:46:07] Method: POST
+[2026-08-13 02:46:07] URI: /bdtapi/callback.php
+[2026-08-13 02:46:07] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:46:07] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:46:07] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:46:07] Resolved via alias map: 228 → 228
+[2026-08-13 02:46:07] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:46:07] ✅ Main wallet balance for user 228: 4.2 BDT
+[2026-08-13 02:46:07] Response: {"status":"SUCCESS","balance":4.2} (HTTP: 200)
+[2026-08-13 02:46:17] ========================================
+[2026-08-13 02:46:17] === Netooze Callback Received ===
+[2026-08-13 02:46:17] Method: POST
+[2026-08-13 02:46:17] URI: /bdtapi/callback.php
+[2026-08-13 02:46:17] Raw input: {"action":"balance","player_id":"RS_PATNER77_228","currency":"BDT"}
+[2026-08-13 02:46:17] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_228",
+    "currency": "BDT"
+}
+[2026-08-13 02:46:17] Resolving player_id='RS_PATNER77_228' → candidate='228'
+[2026-08-13 02:46:17] Resolved via alias map: 228 → 228
+[2026-08-13 02:46:17] Action: balance | Player: RS_PATNER77_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-08-13 02:46:17] ✅ Main wallet balance for user 228: 4.2 BDT
+[2026-08-13 02:46:17] Response: {"status":"SUCCESS","balance":4.2} (HTTP: 200)
+[2026-08-13 03:33:15] ========================================
+[2026-08-13 03:33:15] === Netooze Callback Received ===
+[2026-08-13 03:33:15] Method: POST
+[2026-08-13 03:33:15] URI: /bdtapi/callback.php
+[2026-08-13 03:33:15] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:33:15] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:33:15] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:33:15] Resolved via alias map: 235 → 235
+[2026-08-13 03:33:15] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:33:15] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:33:15] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:35:07] ========================================
+[2026-08-13 03:35:07] === Netooze Callback Received ===
+[2026-08-13 03:35:07] Method: POST
+[2026-08-13 03:35:07] URI: /bdtapi/callback.php
+[2026-08-13 03:35:07] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:35:07] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:35:07] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:35:07] Resolved via alias map: 235 → 235
+[2026-08-13 03:35:07] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:35:07] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:35:07] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:35:16] ========================================
+[2026-08-13 03:35:16] === Netooze Callback Received ===
+[2026-08-13 03:35:16] Method: POST
+[2026-08-13 03:35:16] URI: /bdtapi/callback.php
+[2026-08-13 03:35:16] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:35:16] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:35:16] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:35:16] Resolved via alias map: 235 → 235
+[2026-08-13 03:35:16] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:35:16] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:35:16] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:35:25] ========================================
+[2026-08-13 03:35:25] === Netooze Callback Received ===
+[2026-08-13 03:35:25] Method: POST
+[2026-08-13 03:35:25] URI: /bdtapi/callback.php
+[2026-08-13 03:35:25] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:35:25] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:35:25] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:35:25] Resolved via alias map: 235 → 235
+[2026-08-13 03:35:25] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:35:25] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:35:25] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:35:36] ========================================
+[2026-08-13 03:35:36] === Netooze Callback Received ===
+[2026-08-13 03:35:36] Method: POST
+[2026-08-13 03:35:36] URI: /bdtapi/callback.php
+[2026-08-13 03:35:36] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:35:36] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:35:36] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:35:36] Resolved via alias map: 235 → 235
+[2026-08-13 03:35:36] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:35:36] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:35:36] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:37:46] ========================================
+[2026-08-13 03:37:46] === Netooze Callback Received ===
+[2026-08-13 03:37:46] Method: POST
+[2026-08-13 03:37:46] URI: /bdtapi/callback.php
+[2026-08-13 03:37:46] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:37:46] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:37:46] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:37:46] Resolved via alias map: 235 → 235
+[2026-08-13 03:37:46] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:37:46] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:37:46] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:37:58] ========================================
+[2026-08-13 03:37:58] === Netooze Callback Received ===
+[2026-08-13 03:37:58] Method: POST
+[2026-08-13 03:37:58] URI: /bdtapi/callback.php
+[2026-08-13 03:37:58] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:37:58] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:37:58] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:37:58] Resolved via alias map: 235 → 235
+[2026-08-13 03:37:58] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:37:58] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:37:58] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:38:02] ========================================
+[2026-08-13 03:38:02] === Netooze Callback Received ===
+[2026-08-13 03:38:02] Method: POST
+[2026-08-13 03:38:02] URI: /bdtapi/callback.php
+[2026-08-13 03:38:02] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:38:02] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:38:02] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:38:02] Resolved via alias map: 235 → 235
+[2026-08-13 03:38:02] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:38:02] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:38:02] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:38:07] ========================================
+[2026-08-13 03:38:07] === Netooze Callback Received ===
+[2026-08-13 03:38:07] Method: POST
+[2026-08-13 03:38:07] URI: /bdtapi/callback.php
+[2026-08-13 03:38:07] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:38:07] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:38:07] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:38:07] Resolved via alias map: 235 → 235
+[2026-08-13 03:38:07] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:38:07] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:38:07] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:38:11] ========================================
+[2026-08-13 03:38:11] === Netooze Callback Received ===
+[2026-08-13 03:38:11] Method: POST
+[2026-08-13 03:38:11] URI: /bdtapi/callback.php
+[2026-08-13 03:38:11] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:38:11] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:38:11] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:38:11] Resolved via alias map: 235 → 235
+[2026-08-13 03:38:11] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:38:11] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:38:11] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:38:19] ========================================
+[2026-08-13 03:38:19] === Netooze Callback Received ===
+[2026-08-13 03:38:19] Method: POST
+[2026-08-13 03:38:19] URI: /bdtapi/callback.php
+[2026-08-13 03:38:19] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:38:19] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:38:19] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:38:19] Resolved via alias map: 235 → 235
+[2026-08-13 03:38:19] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:38:19] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:38:19] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:38:29] ========================================
+[2026-08-13 03:38:29] === Netooze Callback Received ===
+[2026-08-13 03:38:29] Method: POST
+[2026-08-13 03:38:29] URI: /bdtapi/callback.php
+[2026-08-13 03:38:29] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:38:29] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:38:29] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:38:29] Resolved via alias map: 235 → 235
+[2026-08-13 03:38:29] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:38:29] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:38:29] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:39:10] ========================================
+[2026-08-13 03:39:10] === Netooze Callback Received ===
+[2026-08-13 03:39:10] Method: POST
+[2026-08-13 03:39:10] URI: /bdtapi/callback.php
+[2026-08-13 03:39:10] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:39:10] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:39:10] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:39:10] Resolved via alias map: 235 → 235
+[2026-08-13 03:39:10] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:39:10] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:39:10] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:39:17] ========================================
+[2026-08-13 03:39:17] === Netooze Callback Received ===
+[2026-08-13 03:39:17] Method: POST
+[2026-08-13 03:39:17] URI: /bdtapi/callback.php
+[2026-08-13 03:39:17] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:39:17] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:39:17] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:39:17] Resolved via alias map: 235 → 235
+[2026-08-13 03:39:17] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:39:17] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:39:17] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 03:39:22] ========================================
+[2026-08-13 03:39:22] === Netooze Callback Received ===
+[2026-08-13 03:39:22] Method: POST
+[2026-08-13 03:39:22] URI: /bdtapi/callback.php
+[2026-08-13 03:39:22] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 03:39:22] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 03:39:22] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 03:39:22] Resolved via alias map: 235 → 235
+[2026-08-13 03:39:22] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 03:39:22] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 03:39:22] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 04:54:06] ========================================
+[2026-08-13 04:54:06] === Netooze Callback Received ===
+[2026-08-13 04:54:06] Method: POST
+[2026-08-13 04:54:06] URI: /bdtapi/callback.php
+[2026-08-13 04:54:06] Raw input: {"action":"bet","player_id":"player_2148","amount":100,"currency":"BDT","provider_txn_id":"TXN17865680462278476","proxy_txn_id":"e6244a9f-57ce-4a7b-82b5-53ce8f061b73","game_code":"b16715376b0ebae7c8b08406781521f3"}
+[2026-08-13 04:54:06] Parsed: {
+    "action": "bet",
+    "player_id": "player_2148",
+    "amount": 100,
+    "currency": "BDT",
+    "provider_txn_id": "TXN17865680462278476",
+    "proxy_txn_id": "e6244a9f-57ce-4a7b-82b5-53ce8f061b73",
+    "game_code": "b16715376b0ebae7c8b08406781521f3"
+}
+[2026-08-13 04:54:06] Resolving player_id='player_2148' → candidate='2148'
+[2026-08-13 04:54:06] ❌ Could not resolve player_id to user: player_2148
+[2026-08-13 04:54:06] Response: {"status":"FAILED","error":"USER_NOT_FOUND"} (HTTP: 404)
+[2026-08-13 06:11:03] ========================================
+[2026-08-13 06:11:03] === Netooze Callback Received ===
+[2026-08-13 06:11:03] Method: GET
+[2026-08-13 06:11:03] URI: /bdtapi/callback.php
+[2026-08-13 06:11:03] Response: {"status":"FAILED","error":"METHOD_NOT_ALLOWED"} (HTTP: 405)
+[2026-08-13 06:24:15] ========================================
+[2026-08-13 06:24:15] === Netooze Callback Received ===
+[2026-08-13 06:24:15] Method: POST
+[2026-08-13 06:24:15] URI: /bdtapi/callback.php
+[2026-08-13 06:24:15] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 06:24:15] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 06:24:15] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 06:24:15] Resolved via alias map: 224 → 224
+[2026-08-13 06:24:15] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 06:24:15] ✅ Main wallet balance for user 224: 18199.3 BDT
+[2026-08-13 06:24:15] Response: {"status":"SUCCESS","balance":18199.3} (HTTP: 200)
+[2026-08-13 06:46:25] ========================================
+[2026-08-13 06:46:25] === Netooze Callback Received ===
+[2026-08-13 06:46:25] Method: POST
+[2026-08-13 06:46:25] URI: /bdtapi/callback.php
+[2026-08-13 06:46:25] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 06:46:25] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 06:46:25] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 06:46:25] Resolved via alias map: 224 → 224
+[2026-08-13 06:46:25] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 06:46:25] ✅ Main wallet balance for user 224: 18199.3 BDT
+[2026-08-13 06:46:25] Response: {"status":"SUCCESS","balance":18199.3} (HTTP: 200)
+[2026-08-13 06:55:25] ========================================
+[2026-08-13 06:55:25] === Netooze Callback Received ===
+[2026-08-13 06:55:25] Method: POST
+[2026-08-13 06:55:25] URI: /bdtapi/callback.php
+[2026-08-13 06:55:25] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 06:55:25] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 06:55:25] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 06:55:25] Resolved via alias map: 224 → 224
+[2026-08-13 06:55:25] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 06:55:25] ✅ Main wallet balance for user 224: 18199.3 BDT
+[2026-08-13 06:55:25] Response: {"status":"SUCCESS","balance":18199.3} (HTTP: 200)
+[2026-08-13 06:55:49] ========================================
+[2026-08-13 06:55:49] === Netooze Callback Received ===
+[2026-08-13 06:55:49] Method: POST
+[2026-08-13 06:55:50] URI: /bdtapi/callback.php
+[2026-08-13 06:55:50] Raw input: {"action":"bet_and_win","player_id":"77224","amount":0.1,"bet_amount":0.1,"win_amount":0.2,"currency":"BDT","provider_txn_id":"56317c1f-d536-3070-a613-b92763d7c8ef","proxy_txn_id":"1b0c4538-b162-4cd6-973d-25c273dcf9eb","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:55:50] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77224",
+    "amount": 0.1,
+    "bet_amount": 0.1,
+    "win_amount": 0.2,
+    "currency": "BDT",
+    "provider_txn_id": "56317c1f-d536-3070-a613-b92763d7c8ef",
+    "proxy_txn_id": "1b0c4538-b162-4cd6-973d-25c273dcf9eb",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:55:50] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:55:50] Resolved via alias map: 77224 → 224
+[2026-08-13 06:55:50] Action: bet_and_win | Player: 77224 | Real User ID: 224 | Amount: 0.1 | TXN: 56317c1f-d536-3070-a613-b92763d7c8ef
+[2026-08-13 06:55:50] ✅ Main wallet balance for user 224: 18199.3 BDT
+[2026-08-13 06:55:50] ✅ BET_AND_WIN processed: deducted 0.1, credited 0.2, new balance: 18199.4
+[2026-08-13 06:55:50] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:55:50] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:55:50] Response: {"status":"SUCCESS","balance":18199.4} (HTTP: 200)
+[2026-08-13 06:55:51] ========================================
+[2026-08-13 06:55:51] === Netooze Callback Received ===
+[2026-08-13 06:55:51] Method: POST
+[2026-08-13 06:55:51] URI: /bdtapi/callback.php
+[2026-08-13 06:55:51] Raw input: {"action":"bet_and_win","player_id":"77224","amount":0.1,"bet_amount":0.1,"win_amount":0.6,"currency":"BDT","provider_txn_id":"55321e4f-2f53-3686-b07e-50d1447687f4","proxy_txn_id":"ad261846-d9a0-449f-ad74-08bb7b01a6a4","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:55:51] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77224",
+    "amount": 0.1,
+    "bet_amount": 0.1,
+    "win_amount": 0.6,
+    "currency": "BDT",
+    "provider_txn_id": "55321e4f-2f53-3686-b07e-50d1447687f4",
+    "proxy_txn_id": "ad261846-d9a0-449f-ad74-08bb7b01a6a4",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:55:51] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:55:51] Resolved via alias map: 77224 → 224
+[2026-08-13 06:55:51] Action: bet_and_win | Player: 77224 | Real User ID: 224 | Amount: 0.1 | TXN: 55321e4f-2f53-3686-b07e-50d1447687f4
+[2026-08-13 06:55:51] ✅ Main wallet balance for user 224: 18199.4 BDT
+[2026-08-13 06:55:51] ✅ BET_AND_WIN processed: deducted 0.1, credited 0.6, new balance: 18199.9
+[2026-08-13 06:55:51] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:55:51] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:55:51] Response: {"status":"SUCCESS","balance":18199.9} (HTTP: 200)
+[2026-08-13 06:55:55] ========================================
+[2026-08-13 06:55:55] === Netooze Callback Received ===
+[2026-08-13 06:55:55] Method: POST
+[2026-08-13 06:55:55] URI: /bdtapi/callback.php
+[2026-08-13 06:55:55] Raw input: {"action":"bet_and_win","player_id":"77224","amount":0.2,"bet_amount":0.2,"win_amount":0.6,"currency":"BDT","provider_txn_id":"85b03181-6f39-361b-bfa8-bf91973f1a13","proxy_txn_id":"574d07a4-91ce-45ab-96ae-aa7aba4798f5","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:55:55] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77224",
+    "amount": 0.2,
+    "bet_amount": 0.2,
+    "win_amount": 0.6,
+    "currency": "BDT",
+    "provider_txn_id": "85b03181-6f39-361b-bfa8-bf91973f1a13",
+    "proxy_txn_id": "574d07a4-91ce-45ab-96ae-aa7aba4798f5",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:55:55] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:55:55] Resolved via alias map: 77224 → 224
+[2026-08-13 06:55:55] Action: bet_and_win | Player: 77224 | Real User ID: 224 | Amount: 0.2 | TXN: 85b03181-6f39-361b-bfa8-bf91973f1a13
+[2026-08-13 06:55:55] ✅ Main wallet balance for user 224: 18199.9 BDT
+[2026-08-13 06:55:55] ✅ BET_AND_WIN processed: deducted 0.2, credited 0.6, new balance: 18200.3
+[2026-08-13 06:55:55] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:55:55] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:55:55] Response: {"status":"SUCCESS","balance":18200.3} (HTTP: 200)
+[2026-08-13 06:56:08] ========================================
+[2026-08-13 06:56:08] === Netooze Callback Received ===
+[2026-08-13 06:56:08] Method: POST
+[2026-08-13 06:56:08] URI: /bdtapi/callback.php
+[2026-08-13 06:56:08] Raw input: {"action":"bet","player_id":"77224","amount":0.1,"currency":"BDT","provider_txn_id":"22250eb8-8c4f-363c-8d51-278c2126714d","proxy_txn_id":"d5c9ecc2-97d0-424e-abaf-76851ffd638a","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:08] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.1,
+    "currency": "BDT",
+    "provider_txn_id": "22250eb8-8c4f-363c-8d51-278c2126714d",
+    "proxy_txn_id": "d5c9ecc2-97d0-424e-abaf-76851ffd638a",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:08] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:08] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:08] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.1 | TXN: 22250eb8-8c4f-363c-8d51-278c2126714d
+[2026-08-13 06:56:08] ✅ Main wallet balance for user 224: 18200.3 BDT
+[2026-08-13 06:56:08] ✅ BET processed: deducted 0.1, new balance: 18200.2
+[2026-08-13 06:56:08] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:08] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:08] Response: {"status":"SUCCESS","balance":18200.2} (HTTP: 200)
+[2026-08-13 06:56:10] ========================================
+[2026-08-13 06:56:10] === Netooze Callback Received ===
+[2026-08-13 06:56:10] Method: POST
+[2026-08-13 06:56:10] URI: /bdtapi/callback.php
+[2026-08-13 06:56:10] Raw input: {"action":"bet","player_id":"77224","amount":0.2,"currency":"BDT","provider_txn_id":"76422b3c-5555-33de-80b5-d9db68ae2e15","proxy_txn_id":"09b711a4-ab10-41b7-b747-5cc18ec76e07","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:10] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.2,
+    "currency": "BDT",
+    "provider_txn_id": "76422b3c-5555-33de-80b5-d9db68ae2e15",
+    "proxy_txn_id": "09b711a4-ab10-41b7-b747-5cc18ec76e07",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:10] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:10] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:10] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.2 | TXN: 76422b3c-5555-33de-80b5-d9db68ae2e15
+[2026-08-13 06:56:10] ✅ Main wallet balance for user 224: 18200.2 BDT
+[2026-08-13 06:56:10] ✅ BET processed: deducted 0.2, new balance: 18200
+[2026-08-13 06:56:10] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:10] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:10] Response: {"status":"SUCCESS","balance":18200} (HTTP: 200)
+[2026-08-13 06:56:12] ========================================
+[2026-08-13 06:56:12] === Netooze Callback Received ===
+[2026-08-13 06:56:12] Method: POST
+[2026-08-13 06:56:12] URI: /bdtapi/callback.php
+[2026-08-13 06:56:12] Raw input: {"action":"bet","player_id":"77224","amount":0.7,"currency":"BDT","provider_txn_id":"3b1847dc-df88-3c9c-89b5-c20e4d889931","proxy_txn_id":"527c5bee-e28e-45fe-823c-56840865443a","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:12] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.7,
+    "currency": "BDT",
+    "provider_txn_id": "3b1847dc-df88-3c9c-89b5-c20e4d889931",
+    "proxy_txn_id": "527c5bee-e28e-45fe-823c-56840865443a",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:12] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:12] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:12] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.7 | TXN: 3b1847dc-df88-3c9c-89b5-c20e4d889931
+[2026-08-13 06:56:12] ✅ Main wallet balance for user 224: 18200 BDT
+[2026-08-13 06:56:12] ✅ BET processed: deducted 0.7, new balance: 18199.3
+[2026-08-13 06:56:12] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:12] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:12] Response: {"status":"SUCCESS","balance":18199.3} (HTTP: 200)
+[2026-08-13 06:56:14] ========================================
+[2026-08-13 06:56:14] === Netooze Callback Received ===
+[2026-08-13 06:56:14] Method: POST
+[2026-08-13 06:56:14] URI: /bdtapi/callback.php
+[2026-08-13 06:56:14] Raw input: {"action":"bet","player_id":"77224","amount":0.5,"currency":"BDT","provider_txn_id":"0d16fb4e-dd13-384e-8803-44500b6ffe1d","proxy_txn_id":"dce359de-bb7a-467f-b6ba-e0d585df8670","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:14] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.5,
+    "currency": "BDT",
+    "provider_txn_id": "0d16fb4e-dd13-384e-8803-44500b6ffe1d",
+    "proxy_txn_id": "dce359de-bb7a-467f-b6ba-e0d585df8670",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:14] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:14] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:14] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.5 | TXN: 0d16fb4e-dd13-384e-8803-44500b6ffe1d
+[2026-08-13 06:56:14] ✅ Main wallet balance for user 224: 18199.3 BDT
+[2026-08-13 06:56:14] ✅ BET processed: deducted 0.5, new balance: 18198.8
+[2026-08-13 06:56:14] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:14] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:14] Response: {"status":"SUCCESS","balance":18198.8} (HTTP: 200)
+[2026-08-13 06:56:17] ========================================
+[2026-08-13 06:56:17] === Netooze Callback Received ===
+[2026-08-13 06:56:17] Method: POST
+[2026-08-13 06:56:17] URI: /bdtapi/callback.php
+[2026-08-13 06:56:17] Raw input: {"action":"bet","player_id":"77224","amount":0.4,"currency":"BDT","provider_txn_id":"4b3c2751-0a67-322d-a010-1e35b98adfb5","proxy_txn_id":"2a69025b-5653-46e9-8f55-fe912b1c8208","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:17] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.4,
+    "currency": "BDT",
+    "provider_txn_id": "4b3c2751-0a67-322d-a010-1e35b98adfb5",
+    "proxy_txn_id": "2a69025b-5653-46e9-8f55-fe912b1c8208",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:17] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:17] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:17] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.4 | TXN: 4b3c2751-0a67-322d-a010-1e35b98adfb5
+[2026-08-13 06:56:17] ✅ Main wallet balance for user 224: 18198.8 BDT
+[2026-08-13 06:56:17] ✅ BET processed: deducted 0.4, new balance: 18198.4
+[2026-08-13 06:56:17] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:17] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:17] Response: {"status":"SUCCESS","balance":18198.4} (HTTP: 200)
+[2026-08-13 06:56:19] ========================================
+[2026-08-13 06:56:19] === Netooze Callback Received ===
+[2026-08-13 06:56:19] Method: POST
+[2026-08-13 06:56:19] URI: /bdtapi/callback.php
+[2026-08-13 06:56:19] Raw input: {"action":"bet","player_id":"77224","amount":0.7,"currency":"BDT","provider_txn_id":"9e52056d-8948-3fa0-bf24-759e0dc4c3c1","proxy_txn_id":"1a4301ab-2ba8-481f-b4af-d6047865b1a0","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:19] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.7,
+    "currency": "BDT",
+    "provider_txn_id": "9e52056d-8948-3fa0-bf24-759e0dc4c3c1",
+    "proxy_txn_id": "1a4301ab-2ba8-481f-b4af-d6047865b1a0",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:19] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:19] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:19] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.7 | TXN: 9e52056d-8948-3fa0-bf24-759e0dc4c3c1
+[2026-08-13 06:56:19] ✅ Main wallet balance for user 224: 18198.4 BDT
+[2026-08-13 06:56:19] ✅ BET processed: deducted 0.7, new balance: 18197.7
+[2026-08-13 06:56:19] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:19] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:19] Response: {"status":"SUCCESS","balance":18197.7} (HTTP: 200)
+[2026-08-13 06:56:21] ========================================
+[2026-08-13 06:56:21] === Netooze Callback Received ===
+[2026-08-13 06:56:21] Method: POST
+[2026-08-13 06:56:21] URI: /bdtapi/callback.php
+[2026-08-13 06:56:21] Raw input: {"action":"bet","player_id":"77224","amount":0.1,"currency":"BDT","provider_txn_id":"3db98a01-2782-3bcf-a951-d5e4a46200da","proxy_txn_id":"9c6081d4-25f5-4d8d-ae77-4a1542d93a64","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:21] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.1,
+    "currency": "BDT",
+    "provider_txn_id": "3db98a01-2782-3bcf-a951-d5e4a46200da",
+    "proxy_txn_id": "9c6081d4-25f5-4d8d-ae77-4a1542d93a64",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:21] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:21] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:21] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.1 | TXN: 3db98a01-2782-3bcf-a951-d5e4a46200da
+[2026-08-13 06:56:21] ✅ Main wallet balance for user 224: 18197.7 BDT
+[2026-08-13 06:56:21] ✅ BET processed: deducted 0.1, new balance: 18197.6
+[2026-08-13 06:56:21] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:21] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:21] Response: {"status":"SUCCESS","balance":18197.6} (HTTP: 200)
+[2026-08-13 06:56:25] ========================================
+[2026-08-13 06:56:25] === Netooze Callback Received ===
+[2026-08-13 06:56:25] Method: POST
+[2026-08-13 06:56:25] URI: /bdtapi/callback.php
+[2026-08-13 06:56:25] Raw input: {"action":"bet","player_id":"77224","amount":0.4,"currency":"BDT","provider_txn_id":"f7a4b940-4789-3961-9608-67678417f371","proxy_txn_id":"a83be7d9-ac6b-4d80-b21d-9be41d21cb9d","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:25] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.4,
+    "currency": "BDT",
+    "provider_txn_id": "f7a4b940-4789-3961-9608-67678417f371",
+    "proxy_txn_id": "a83be7d9-ac6b-4d80-b21d-9be41d21cb9d",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:25] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:25] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:25] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.4 | TXN: f7a4b940-4789-3961-9608-67678417f371
+[2026-08-13 06:56:25] ✅ Main wallet balance for user 224: 18197.6 BDT
+[2026-08-13 06:56:25] ✅ BET processed: deducted 0.4, new balance: 18197.2
+[2026-08-13 06:56:25] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:25] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:25] Response: {"status":"SUCCESS","balance":18197.2} (HTTP: 200)
+[2026-08-13 06:56:33] ========================================
+[2026-08-13 06:56:33] === Netooze Callback Received ===
+[2026-08-13 06:56:33] Method: POST
+[2026-08-13 06:56:33] URI: /bdtapi/callback.php
+[2026-08-13 06:56:33] Raw input: {"action":"bet","player_id":"77224","amount":0.5,"currency":"BDT","provider_txn_id":"a4cc2a02-ecb4-3e7b-b86c-da695eeb21de","proxy_txn_id":"8fa7baac-c47e-4cf5-b5ea-543d3ac90ac3","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:33] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.5,
+    "currency": "BDT",
+    "provider_txn_id": "a4cc2a02-ecb4-3e7b-b86c-da695eeb21de",
+    "proxy_txn_id": "8fa7baac-c47e-4cf5-b5ea-543d3ac90ac3",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:33] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:33] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:33] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.5 | TXN: a4cc2a02-ecb4-3e7b-b86c-da695eeb21de
+[2026-08-13 06:56:33] ✅ Main wallet balance for user 224: 18197.2 BDT
+[2026-08-13 06:56:33] ✅ BET processed: deducted 0.5, new balance: 18196.7
+[2026-08-13 06:56:33] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:33] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:33] Response: {"status":"SUCCESS","balance":18196.7} (HTTP: 200)
+[2026-08-13 06:56:35] ========================================
+[2026-08-13 06:56:35] === Netooze Callback Received ===
+[2026-08-13 06:56:35] Method: POST
+[2026-08-13 06:56:35] URI: /bdtapi/callback.php
+[2026-08-13 06:56:35] Raw input: {"action":"bet","player_id":"77224","amount":1,"currency":"BDT","provider_txn_id":"ef567b33-0159-3e96-9ecf-8e58065f9841","proxy_txn_id":"6d00b609-8a8d-4ff9-a589-79ad11ffcce2","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:35] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "ef567b33-0159-3e96-9ecf-8e58065f9841",
+    "proxy_txn_id": "6d00b609-8a8d-4ff9-a589-79ad11ffcce2",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:35] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:35] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:35] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 1 | TXN: ef567b33-0159-3e96-9ecf-8e58065f9841
+[2026-08-13 06:56:35] ✅ Main wallet balance for user 224: 18196.7 BDT
+[2026-08-13 06:56:35] ✅ BET processed: deducted 1, new balance: 18195.7
+[2026-08-13 06:56:35] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:35] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:35] Response: {"status":"SUCCESS","balance":18195.7} (HTTP: 200)
+[2026-08-13 06:56:38] ========================================
+[2026-08-13 06:56:38] === Netooze Callback Received ===
+[2026-08-13 06:56:38] Method: POST
+[2026-08-13 06:56:38] URI: /bdtapi/callback.php
+[2026-08-13 06:56:38] Raw input: {"action":"bet","player_id":"77224","amount":0.9,"currency":"BDT","provider_txn_id":"45875d6d-90f9-3931-acc3-56c9a77cad07","proxy_txn_id":"2d07ad44-b91e-4a9d-8829-1f9a58cfaf0d","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:38] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.9,
+    "currency": "BDT",
+    "provider_txn_id": "45875d6d-90f9-3931-acc3-56c9a77cad07",
+    "proxy_txn_id": "2d07ad44-b91e-4a9d-8829-1f9a58cfaf0d",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:38] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:38] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:38] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.9 | TXN: 45875d6d-90f9-3931-acc3-56c9a77cad07
+[2026-08-13 06:56:38] ✅ Main wallet balance for user 224: 18195.7 BDT
+[2026-08-13 06:56:38] ✅ BET processed: deducted 0.9, new balance: 18194.8
+[2026-08-13 06:56:38] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:38] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:38] Response: {"status":"SUCCESS","balance":18194.8} (HTTP: 200)
+[2026-08-13 06:56:40] ========================================
+[2026-08-13 06:56:40] === Netooze Callback Received ===
+[2026-08-13 06:56:40] Method: POST
+[2026-08-13 06:56:40] URI: /bdtapi/callback.php
+[2026-08-13 06:56:40] Raw input: {"action":"bet_and_win","player_id":"77224","amount":1,"bet_amount":1,"win_amount":0.8,"currency":"BDT","provider_txn_id":"76f11bf9-5917-31e3-90cf-a01836c4f10c","proxy_txn_id":"8f447301-b75a-4fcf-88f6-a0ab17737e3c","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:40] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77224",
+    "amount": 1,
+    "bet_amount": 1,
+    "win_amount": 0.8,
+    "currency": "BDT",
+    "provider_txn_id": "76f11bf9-5917-31e3-90cf-a01836c4f10c",
+    "proxy_txn_id": "8f447301-b75a-4fcf-88f6-a0ab17737e3c",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:40] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:40] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:40] Action: bet_and_win | Player: 77224 | Real User ID: 224 | Amount: 1 | TXN: 76f11bf9-5917-31e3-90cf-a01836c4f10c
+[2026-08-13 06:56:40] ✅ Main wallet balance for user 224: 18194.8 BDT
+[2026-08-13 06:56:40] ✅ BET_AND_WIN processed: deducted 1, credited 0.8, new balance: 18194.6
+[2026-08-13 06:56:40] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:40] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:40] Response: {"status":"SUCCESS","balance":18194.6} (HTTP: 200)
+[2026-08-13 06:56:42] ========================================
+[2026-08-13 06:56:42] === Netooze Callback Received ===
+[2026-08-13 06:56:42] Method: POST
+[2026-08-13 06:56:42] URI: /bdtapi/callback.php
+[2026-08-13 06:56:42] Raw input: {"action":"bet","player_id":"77224","amount":1.1,"currency":"BDT","provider_txn_id":"f17c2789-91e1-3d05-951f-fc16c0834531","proxy_txn_id":"7c61a530-c473-4e6b-bfb4-33edc5aedc1e","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:42] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 1.1,
+    "currency": "BDT",
+    "provider_txn_id": "f17c2789-91e1-3d05-951f-fc16c0834531",
+    "proxy_txn_id": "7c61a530-c473-4e6b-bfb4-33edc5aedc1e",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:42] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:42] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:42] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 1.1 | TXN: f17c2789-91e1-3d05-951f-fc16c0834531
+[2026-08-13 06:56:42] ✅ Main wallet balance for user 224: 18194.6 BDT
+[2026-08-13 06:56:42] ✅ BET processed: deducted 1.1, new balance: 18193.5
+[2026-08-13 06:56:42] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:42] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:42] Response: {"status":"SUCCESS","balance":18193.5} (HTTP: 200)
+[2026-08-13 06:56:44] ========================================
+[2026-08-13 06:56:44] === Netooze Callback Received ===
+[2026-08-13 06:56:44] Method: POST
+[2026-08-13 06:56:44] URI: /bdtapi/callback.php
+[2026-08-13 06:56:44] Raw input: {"action":"bet","player_id":"77224","amount":1,"currency":"BDT","provider_txn_id":"0dc327f7-5c54-3be8-9a41-4fa0a131cd7f","proxy_txn_id":"cdbae7ea-bf7c-461c-81fa-12ff7f521538","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:44] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "0dc327f7-5c54-3be8-9a41-4fa0a131cd7f",
+    "proxy_txn_id": "cdbae7ea-bf7c-461c-81fa-12ff7f521538",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:44] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:44] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:44] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 1 | TXN: 0dc327f7-5c54-3be8-9a41-4fa0a131cd7f
+[2026-08-13 06:56:44] ✅ Main wallet balance for user 224: 18193.5 BDT
+[2026-08-13 06:56:44] ✅ BET processed: deducted 1, new balance: 18192.5
+[2026-08-13 06:56:44] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:44] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:44] Response: {"status":"SUCCESS","balance":18192.5} (HTTP: 200)
+[2026-08-13 06:56:46] ========================================
+[2026-08-13 06:56:46] === Netooze Callback Received ===
+[2026-08-13 06:56:46] Method: POST
+[2026-08-13 06:56:46] URI: /bdtapi/callback.php
+[2026-08-13 06:56:46] Raw input: {"action":"bet","player_id":"77224","amount":0.8,"currency":"BDT","provider_txn_id":"67a89084-b839-310a-9673-26adb8a2fda4","proxy_txn_id":"ce00e322-7a0e-415f-96e2-8cc6c468fe1f","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:46] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.8,
+    "currency": "BDT",
+    "provider_txn_id": "67a89084-b839-310a-9673-26adb8a2fda4",
+    "proxy_txn_id": "ce00e322-7a0e-415f-96e2-8cc6c468fe1f",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:46] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:46] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:46] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.8 | TXN: 67a89084-b839-310a-9673-26adb8a2fda4
+[2026-08-13 06:56:46] ✅ Main wallet balance for user 224: 18192.5 BDT
+[2026-08-13 06:56:46] ✅ BET processed: deducted 0.8, new balance: 18191.7
+[2026-08-13 06:56:46] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:46] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:46] Response: {"status":"SUCCESS","balance":18191.7} (HTTP: 200)
+[2026-08-13 06:56:48] ========================================
+[2026-08-13 06:56:48] === Netooze Callback Received ===
+[2026-08-13 06:56:48] Method: POST
+[2026-08-13 06:56:48] URI: /bdtapi/callback.php
+[2026-08-13 06:56:48] Raw input: {"action":"bet","player_id":"77224","amount":1,"currency":"BDT","provider_txn_id":"c5f589ed-ddb4-361b-a0e3-f257ebd0b22a","proxy_txn_id":"3ec65045-ad3d-4bac-ae4f-d43c4f85b598","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:48] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "c5f589ed-ddb4-361b-a0e3-f257ebd0b22a",
+    "proxy_txn_id": "3ec65045-ad3d-4bac-ae4f-d43c4f85b598",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:48] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:48] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:48] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 1 | TXN: c5f589ed-ddb4-361b-a0e3-f257ebd0b22a
+[2026-08-13 06:56:48] ✅ Main wallet balance for user 224: 18191.7 BDT
+[2026-08-13 06:56:48] ✅ BET processed: deducted 1, new balance: 18190.7
+[2026-08-13 06:56:48] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:48] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:48] Response: {"status":"SUCCESS","balance":18190.7} (HTTP: 200)
+[2026-08-13 06:56:50] ========================================
+[2026-08-13 06:56:50] === Netooze Callback Received ===
+[2026-08-13 06:56:50] Method: POST
+[2026-08-13 06:56:50] URI: /bdtapi/callback.php
+[2026-08-13 06:56:50] Raw input: {"action":"bet","player_id":"77224","amount":1,"currency":"BDT","provider_txn_id":"cdc6342a-9ae7-3d5c-b732-a214d60bce1d","proxy_txn_id":"68c2b845-0cd1-42a3-b89e-201f97365564","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:50] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "cdc6342a-9ae7-3d5c-b732-a214d60bce1d",
+    "proxy_txn_id": "68c2b845-0cd1-42a3-b89e-201f97365564",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:50] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:50] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:50] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 1 | TXN: cdc6342a-9ae7-3d5c-b732-a214d60bce1d
+[2026-08-13 06:56:50] ✅ Main wallet balance for user 224: 18190.7 BDT
+[2026-08-13 06:56:50] ✅ BET processed: deducted 1, new balance: 18189.7
+[2026-08-13 06:56:50] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:50] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:50] Response: {"status":"SUCCESS","balance":18189.7} (HTTP: 200)
+[2026-08-13 06:56:53] ========================================
+[2026-08-13 06:56:53] === Netooze Callback Received ===
+[2026-08-13 06:56:53] Method: POST
+[2026-08-13 06:56:53] URI: /bdtapi/callback.php
+[2026-08-13 06:56:53] Raw input: {"action":"bet","player_id":"77224","amount":0.7,"currency":"BDT","provider_txn_id":"138277f4-0c6b-3c9a-b915-99f709eccf9b","proxy_txn_id":"5a96edca-c2b4-434d-8eb7-125e800d6194","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:53] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 0.7,
+    "currency": "BDT",
+    "provider_txn_id": "138277f4-0c6b-3c9a-b915-99f709eccf9b",
+    "proxy_txn_id": "5a96edca-c2b4-434d-8eb7-125e800d6194",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:53] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:53] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:53] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 0.7 | TXN: 138277f4-0c6b-3c9a-b915-99f709eccf9b
+[2026-08-13 06:56:53] ✅ Main wallet balance for user 224: 18189.7 BDT
+[2026-08-13 06:56:53] ✅ BET processed: deducted 0.7, new balance: 18189
+[2026-08-13 06:56:53] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:53] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:53] Response: {"status":"SUCCESS","balance":18189} (HTTP: 200)
+[2026-08-13 06:56:55] ========================================
+[2026-08-13 06:56:55] === Netooze Callback Received ===
+[2026-08-13 06:56:55] Method: POST
+[2026-08-13 06:56:55] URI: /bdtapi/callback.php
+[2026-08-13 06:56:55] Raw input: {"action":"bet","player_id":"77224","amount":1,"currency":"BDT","provider_txn_id":"e05fc5e3-1b38-3f9c-b453-115b925db892","proxy_txn_id":"b9b85868-5223-40ee-ba70-93c1a425b47b","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:55] Parsed: {
+    "action": "bet",
+    "player_id": "77224",
+    "amount": 1,
+    "currency": "BDT",
+    "provider_txn_id": "e05fc5e3-1b38-3f9c-b453-115b925db892",
+    "proxy_txn_id": "b9b85868-5223-40ee-ba70-93c1a425b47b",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:55] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:55] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:55] Action: bet | Player: 77224 | Real User ID: 224 | Amount: 1 | TXN: e05fc5e3-1b38-3f9c-b453-115b925db892
+[2026-08-13 06:56:55] ✅ Main wallet balance for user 224: 18189 BDT
+[2026-08-13 06:56:55] ✅ BET processed: deducted 1, new balance: 18188
+[2026-08-13 06:56:55] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:55] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:55] Response: {"status":"SUCCESS","balance":18188} (HTTP: 200)
+[2026-08-13 06:56:57] ========================================
+[2026-08-13 06:56:57] === Netooze Callback Received ===
+[2026-08-13 06:56:57] Method: POST
+[2026-08-13 06:56:57] URI: /bdtapi/callback.php
+[2026-08-13 06:56:57] Raw input: {"action":"bet_and_win","player_id":"77224","amount":0.8,"bet_amount":0.8,"win_amount":0.4,"currency":"BDT","provider_txn_id":"96d32090-9300-3cf8-9513-c82db8d54c18","proxy_txn_id":"4a7c825c-4800-4068-bf62-c185e1a0afeb","game_code":"3cf4a85cb6dcf4d8836c982c359cd72d"}
+[2026-08-13 06:56:57] Parsed: {
+    "action": "bet_and_win",
+    "player_id": "77224",
+    "amount": 0.8,
+    "bet_amount": 0.8,
+    "win_amount": 0.4,
+    "currency": "BDT",
+    "provider_txn_id": "96d32090-9300-3cf8-9513-c82db8d54c18",
+    "proxy_txn_id": "4a7c825c-4800-4068-bf62-c185e1a0afeb",
+    "game_code": "3cf4a85cb6dcf4d8836c982c359cd72d"
+}
+[2026-08-13 06:56:57] Resolving player_id='77224' → candidate='77224'
+[2026-08-13 06:56:57] Resolved via alias map: 77224 → 224
+[2026-08-13 06:56:57] Action: bet_and_win | Player: 77224 | Real User ID: 224 | Amount: 0.8 | TXN: 96d32090-9300-3cf8-9513-c82db8d54c18
+[2026-08-13 06:56:57] ✅ Main wallet balance for user 224: 18188 BDT
+[2026-08-13 06:56:57] ✅ BET_AND_WIN processed: deducted 0.8, credited 0.4, new balance: 18187.6
+[2026-08-13 06:56:57] ⚠️ Transaction logging error: Unknown column 'user_id' in 'INSERT INTO'
+[2026-08-13 06:56:57] ⚠️ Turnover update error (non-fatal): Table 'kakicom_selim.user_withdraw_summary' doesn't exist
+[2026-08-13 06:56:57] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-13 06:57:30] ========================================
+[2026-08-13 06:57:30] === Netooze Callback Received ===
+[2026-08-13 06:57:30] Method: POST
+[2026-08-13 06:57:30] URI: /bdtapi/callback.php
+[2026-08-13 06:57:30] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 06:57:30] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 06:57:30] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 06:57:30] Resolved via alias map: 224 → 224
+[2026-08-13 06:57:30] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 06:57:30] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-13 06:57:30] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-13 07:11:00] ========================================
+[2026-08-13 07:11:00] === Netooze Callback Received ===
+[2026-08-13 07:11:00] Method: POST
+[2026-08-13 07:11:00] URI: /bdtapi/callback.php
+[2026-08-13 07:11:00] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 07:11:00] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 07:11:00] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 07:11:00] Resolved via alias map: 224 → 224
+[2026-08-13 07:11:00] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 07:11:00] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-13 07:11:00] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-13 07:16:44] ========================================
+[2026-08-13 07:16:44] === Netooze Callback Received ===
+[2026-08-13 07:16:44] Method: POST
+[2026-08-13 07:16:44] URI: /bdtapi/callback.php
+[2026-08-13 07:16:44] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 07:16:44] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 07:16:44] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 07:16:44] Resolved via alias map: 224 → 224
+[2026-08-13 07:16:44] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 07:16:44] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-13 07:16:44] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-13 07:16:52] ========================================
+[2026-08-13 07:16:52] === Netooze Callback Received ===
+[2026-08-13 07:16:52] Method: POST
+[2026-08-13 07:16:52] URI: /bdtapi/callback.php
+[2026-08-13 07:16:52] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 07:16:52] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 07:16:52] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 07:16:52] Resolved via alias map: 224 → 224
+[2026-08-13 07:16:52] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 07:16:52] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-13 07:16:52] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-13 07:17:29] ========================================
+[2026-08-13 07:17:29] === Netooze Callback Received ===
+[2026-08-13 07:17:29] Method: POST
+[2026-08-13 07:17:29] URI: /bdtapi/callback.php
+[2026-08-13 07:17:29] Raw input: {"action":"balance","player_id":"RS_PATNER77_224","currency":"BDT"}
+[2026-08-13 07:17:29] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_224",
+    "currency": "BDT"
+}
+[2026-08-13 07:17:29] Resolving player_id='RS_PATNER77_224' → candidate='224'
+[2026-08-13 07:17:29] Resolved via alias map: 224 → 224
+[2026-08-13 07:17:29] Action: balance | Player: RS_PATNER77_224 | Real User ID: 224 | Amount: 0 | TXN: 
+[2026-08-13 07:17:29] ✅ Main wallet balance for user 224: 18187.6 BDT
+[2026-08-13 07:17:29] Response: {"status":"SUCCESS","balance":18187.6} (HTTP: 200)
+[2026-08-13 14:51:28] ========================================
+[2026-08-13 14:51:28] === Netooze Callback Received ===
+[2026-08-13 14:51:28] Method: POST
+[2026-08-13 14:51:28] URI: /bdtapi/callback.php
+[2026-08-13 14:51:28] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 14:51:28] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 14:51:28] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 14:51:28] Resolved via alias map: 235 → 235
+[2026-08-13 14:51:28] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 14:51:28] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 14:51:28] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 16:02:47] ========================================
+[2026-08-13 16:02:47] === Netooze Callback Received ===
+[2026-08-13 16:02:47] Method: POST
+[2026-08-13 16:02:47] URI: /bdtapi/callback.php
+[2026-08-13 16:02:47] Raw input: {"action":"balance","player_id":"RS_PATNER77_237","currency":"BDT"}
+[2026-08-13 16:02:47] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_237",
+    "currency": "BDT"
+}
+[2026-08-13 16:02:47] Resolving player_id='RS_PATNER77_237' → candidate='237'
+[2026-08-13 16:02:47] Resolved via exact match (zero balance): 237
+[2026-08-13 16:02:47] Action: balance | Player: RS_PATNER77_237 | Real User ID: 237 | Amount: 0 | TXN: 
+[2026-08-13 16:02:47] ✅ Main wallet balance for user 237: 0 BDT
+[2026-08-13 16:02:47] Response: {"status":"SUCCESS","balance":0} (HTTP: 200)
+[2026-08-13 16:06:46] ========================================
+[2026-08-13 16:06:46] === Netooze Callback Received ===
+[2026-08-13 16:06:46] Method: POST
+[2026-08-13 16:06:46] URI: /bdtapi/callback.php
+[2026-08-13 16:06:46] Raw input: {"action":"balance","player_id":"RS_PATNER77_237","currency":"BDT"}
+[2026-08-13 16:06:46] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_237",
+    "currency": "BDT"
+}
+[2026-08-13 16:06:46] Resolving player_id='RS_PATNER77_237' → candidate='237'
+[2026-08-13 16:06:46] Resolved via alias map: 237 → 237
+[2026-08-13 16:06:46] Action: balance | Player: RS_PATNER77_237 | Real User ID: 237 | Amount: 0 | TXN: 
+[2026-08-13 16:06:46] ✅ Main wallet balance for user 237: 0 BDT
+[2026-08-13 16:06:46] Response: {"status":"SUCCESS","balance":0} (HTTP: 200)
+[2026-08-13 19:59:14] ========================================
+[2026-08-13 19:59:14] === Netooze Callback Received ===
+[2026-08-13 19:59:14] Method: POST
+[2026-08-13 19:59:14] URI: /bdtapi/callback.php
+[2026-08-13 19:59:14] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 19:59:14] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 19:59:14] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 19:59:14] Resolved via alias map: 235 → 235
+[2026-08-13 19:59:14] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 19:59:14] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 19:59:14] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 20:00:53] ========================================
+[2026-08-13 20:00:53] === Netooze Callback Received ===
+[2026-08-13 20:00:53] Method: POST
+[2026-08-13 20:00:53] URI: /bdtapi/callback.php
+[2026-08-13 20:00:53] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 20:00:53] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 20:00:53] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 20:00:53] Resolved via alias map: 235 → 235
+[2026-08-13 20:00:53] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 20:00:53] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 20:00:53] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)
+[2026-08-13 20:00:55] ========================================
+[2026-08-13 20:00:55] === Netooze Callback Received ===
+[2026-08-13 20:00:55] Method: POST
+[2026-08-13 20:00:55] URI: /bdtapi/callback.php
+[2026-08-13 20:00:55] Raw input: {"action":"balance","player_id":"RS_PATNER77_235","currency":"BDT"}
+[2026-08-13 20:00:55] Parsed: {
+    "action": "balance",
+    "player_id": "RS_PATNER77_235",
+    "currency": "BDT"
+}
+[2026-08-13 20:00:55] Resolving player_id='RS_PATNER77_235' → candidate='235'
+[2026-08-13 20:00:55] Resolved via alias map: 235 → 235
+[2026-08-13 20:00:55] Action: balance | Player: RS_PATNER77_235 | Real User ID: 235 | Amount: 0 | TXN: 
+[2026-08-13 20:00:55] ✅ Main wallet balance for user 235: 0.68 BDT
+[2026-08-13 20:00:55] Response: {"status":"SUCCESS","balance":0.68} (HTTP: 200)

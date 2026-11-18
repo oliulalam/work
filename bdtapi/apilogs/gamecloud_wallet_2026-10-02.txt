@@ -1,0 +1,11 @@
+[2026-10-02 07:25:14] sync user=276 balance=5
+[2026-10-02 07:25:17] sync user=276 balance=5
+[2026-10-02 07:25:18] sync user=276 balance=5
+[2026-10-02 13:17:43] sync user=231 balance=3.4
+[2026-10-02 16:01:03] heal_restore user=276 users=0 legacy=5
+[2026-10-02 16:03:21] sync user=276 balance=5
+[2026-10-02 16:32:56] sync user=277 balance=5
+[2026-10-02 16:37:10] sync user=277 balance=5
+[2026-10-02 16:37:22] sync user=277 balance=5
+[2026-10-02 16:37:25] sync user=277 balance=5
+[2026-10-02 16:39:51] sync user=265 balance=0.3

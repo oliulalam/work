@@ -1,0 +1,1026 @@
+{
+    "code": 0,
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameID": "3fb8f8cc20d38890a9aa683795e04b8a",
+            "gameNameEn": "Crime Empire",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/8776/public",
+            "vendorCode": "100HP",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b36de3f246c8695d6ca27ba8a28abb9c",
+            "gameNameEn": "aviator",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/737/public",
+            "vendorCode": "Mini",
+            "category": "Multiplayer",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "57d3e23fd19fcaf39e3f21296abda937",
+            "gameNameEn": "Fortune Crush",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/8773/public",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "869a80ef07b52fd28ecbd9635f975f86",
+            "gameNameEn": "Meta Crush",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/8774/public",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "ecb85ab8f21b8ba38b5a02c75439f986",
+            "gameNameEn": "StarX",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/8772/public",
+            "vendorCode": "Mini",
+            "category": "MiniB",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "c2d868c5e3e0c38c124bb92542d799a2",
+            "gameNameEn": "Tropicana",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/8775/public",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "cb66d23b547498132598589af324d558",
+            "gameNameEn": "Aviafly",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/1373/public",
+            "vendorCode": "Mini",
+            "category": "Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+      
+        
+         {
+            "gameID": "1eb74f99e1ec8b92de107ec15a2fbab0",
+            "gameNameEn": "Air Jet",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/8771/public",
+            "vendorCode": "100HP",
+            "category": "Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        
+        {
+            "gameID": "fb994a3166b256c84d5e249f5c58c89d",
+            "gameNameEn": "Rocket",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/5257/public",
+            "vendorCode": "Mini",
+            "category": "Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "bf7e52d75550723d05ad0401302f6dff",
+            "gameNameEn": "BingoRush",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "1661f96a09d4b4836db80557c4094b51",
+            "gameNameEn": "Blackjack",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f23786ff750e1a8fb67e2a74246c02ba",
+            "gameNameEn": "BlackJack",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "bbc504d41d028ec679197d2d5d2ec29d",
+            "gameNameEn": "bubbles",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "5782816b72d4cf7aaa64271432ab29cf",
+            "gameNameEn": "cases",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b269566aad409214c338f0cc4ed20e8b",
+            "gameNameEn": "chicken-road",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "4bd14ae4ff5ddebf4516695676890928",
+            "gameNameEn": "chicken-road-two",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b32ecd59bb034621ead58ddc48a85e3e",
+            "gameNameEn": "coinflip",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "534ff8786c847789c054fd7447e5c1b1",
+            "gameNameEn": "CoinFlip",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9aa84e4ef2d60dd7a4f7eb8784a8d488",
+            "gameNameEn": "color-game",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Multiplayer",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "e4441f18ea7133e5b341e5f516bef35c",
+            "gameNameEn": "CosmoSaga",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "e744d7ca13a668df6572bedab278c93e",
+            "gameNameEn": "Crash",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Multiplayer",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "6290ad43d755871528852841365b01de",
+            "gameNameEn": "darts",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "15f493c9823adb523e2504f25ab4b903",
+            "gameNameEn": "Diamonds",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "10d6dd3895bd125881dc6719e4bdce6f",
+            "gameNameEn": "dice",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9c81a2acb3eb54f48bf497f7405ed5dc",
+            "gameNameEn": "dice",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "37c0948df16dd376002c465891c38a32",
+            "gameNameEn": "Dice",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "926ae3eebad16451ad1905ba6c24b00d",
+            "gameNameEn": "Dragon Tower",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "25795082b3c347b996b8032d52953919",
+            "gameNameEn": "DragonTiger",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "3393f57cf4d84a6bacc535afc5b28bfb",
+            "gameNameEn": "DrShocker",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9e2af0dbda8ef7d7b82b6e17073d5aa9",
+            "gameNameEn": "fast-furious",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Multiplayer",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "aef4dfea245e3796fe7fea0ca09362dd",
+            "gameNameEn": "fiery-bot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "5a94957d9645f5f5d991b2414baf6035",
+            "gameNameEn": "flip",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "54efbbd43d011fe38457e565eb2159e6",
+            "gameNameEn": "football-x",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "3bec73f1f35f2f90ddf67cba999074fc",
+            "gameNameEn": "FortuneFlow",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "114091a9c1bf4af78d830a53c51ca5b3",
+            "gameNameEn": "go-bananas",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Scratch Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "923abacf5ac67523d76d6c8213a708f0",
+            "gameNameEn": "go-cry-baby",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2020e1f416f44a4920b3a2b244e9fc97",
+            "gameNameEn": "go-for-gold",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Scratch Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "a8b59a577778524c4fa3559fc9bf10aa",
+            "gameNameEn": "go-labubu",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2256257006a2c16aae14cb13dde3ea90",
+            "gameNameEn": "go-molly",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "fed66cee9b16edc2fa0f99289c111526",
+            "gameNameEn": "goal",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "223b8d6d039d68f661e305bb2d646e4e",
+            "gameNameEn": "HamsterMania",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "e96286feee969f34da10cd3331e3861a",
+            "gameNameEn": "hilo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "390145ebab971345d41bb8d91e09c0c5",
+            "gameNameEn": "Hilo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "0de6ef0da684db897221edec3b520b9c",
+            "gameNameEn": "hot-mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f99a723c1fb1083fc226ca98dffee15d",
+            "gameNameEn": "HotGear",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2ef5d8c2b12857b38c2e1c097f94f9cc",
+            "gameNameEn": "hotline",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b12c2f419c8148b35686e48781255c32",
+            "gameNameEn": "joker-poker",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "5ae9aeba07c628ba49d0f70a31559bb1",
+            "gameNameEn": "keno",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "ea77e05f00979e7a927ff8f40b665244",
+            "gameNameEn": "keno",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "872379660132d7924f56249e3a45d969",
+            "gameNameEn": "keno",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2dfe6b27bff3ff84894294d6524e7b8f",
+            "gameNameEn": "Keno",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "7eaa64c24469b0db6423c53cff4d4caf",
+            "gameNameEn": "labubu-carnival",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b85a9d7e385e3ad9da1d4026f0e4e180",
+            "gameNameEn": "labubu-for-sugar",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b8e1bedc6f600980cb9065ff9637c9a1",
+            "gameNameEn": "labubu-mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "e6638819f0f5804d2f27c62d9b36b27b",
+            "gameNameEn": "limbo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "663a9584acac897575d09b334286f7e9",
+            "gameNameEn": "limbo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "452deea1aa0148308ff6f5cacde45efc",
+            "gameNameEn": "Limbo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "d27a8c6ec6aefa6bbaa9ebdaf8e4ddb9",
+            "gameNameEn": "LimboCrash",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "de9c60259ffc8134a675242fdabb3cd6",
+            "gameNameEn": "lost-treasure",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b8530fdbbfa8fd0fe48c87b2c2536d2c",
+            "gameNameEn": "LoveGift",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "78d476a502c5f5232974bcb66b2ea9e2",
+            "gameNameEn": "lucky-football",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Scratch Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b930fe411a27adec15e82b489b2d07c4",
+            "gameNameEn": "lucky-mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "212f17ea1dd06f2ffeb039b423738b39",
+            "gameNameEn": "lucky-tanks",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b9f3f1ef3da5e20eed37be71662ed4b4",
+            "gameNameEn": "MagicLamp",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9e54edcc6fcb6fb6750eca43e3fa1a98",
+            "gameNameEn": "mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "d0ecadcba50bfeb6de958bb42ba700bc",
+            "gameNameEn": "mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "9e75688264cf2e10f93504bfce9ae880",
+            "gameNameEn": "Mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "fb20d21f04d607baf4f19268af77bcfa",
+            "gameNameEn": "mini-roulette",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "d9bc2ab75ecce6bc77cdab8407e5590e",
+            "gameNameEn": "monopoly",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "a739521e60a1b22fb58cb9568518a61b",
+            "gameNameEn": "MouseTower",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "135103c66220afbd9a20ee1eac21ca89",
+            "gameNameEn": "MTD",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "04b0eaf0a7a2c2ee2231d8577406577c",
+            "gameNameEn": "ninja-crash",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "315200ece9ad897d8c4845c4c5baecc8",
+            "gameNameEn": "OneMRace",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "dabaf34d67f40de28ff5b9d9304dddab",
+            "gameNameEn": "OneMWinGo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "fc3d8ecd0a7ae360bbb2a5538dc1315c",
+            "gameNameEn": "OverUnder",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "cdfc6c0bb54ae253cc752c73b17445e3",
+            "gameNameEn": "packs",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f7ce119539b4487ffb0e3189da6d7b20",
+            "gameNameEn": "panda-crash",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "680f7453f0278f3da62cb91b212245e3",
+            "gameNameEn": "penalty-unlimited",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "af15c581a0cdafe9fa3a56d0b3d6c477",
+            "gameNameEn": "platform-mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "739af76b486105ca8dc6b49447bd9706",
+            "gameNameEn": "PlayMe",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2b42f9099fca962308c4e5c3363b56b3",
+            "gameNameEn": "plinko",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "a8ca85536ff3597144b74fb8325e1215",
+            "gameNameEn": "plinko",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "aad93f4017fa25ae2786896077c0eedd",
+            "gameNameEn": "plinko",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f8cbbe2385c03d99f65c0ce8e28e51b5",
+            "gameNameEn": "Plinko",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "988a40d3fdea68e6764a4250f430e8a8",
+            "gameNameEn": "Plinkoman",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "b61ced989b0005d2a517a841678e9272",
+            "gameNameEn": "PlinkoPlus",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "1b5bb74c93b1d8e026dc4828ebce0238",
+            "gameNameEn": "PowerBall",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "6750d75d4267a0b6534580c0ab054051",
+            "gameNameEn": "pump",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "8340db263b410b2cb756eb2afc42ff8d",
+            "gameNameEn": "ring",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "18c32962864ad3646f2b34f036bb5ff7",
+            "gameNameEn": "rock-paper-scissors",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "c84b71693b838f5ba24356ee1be275ec",
+            "gameNameEn": "rock-paper-scissors",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "767bb7ada651a444e2c5c1c15d80f98e",
+            "gameNameEn": "roulette",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "a45abfe967f4aa60c47fa8cacf4f8b56",
+            "gameNameEn": "Roulette",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "08b30c8b511005b4d591b602e1fcf301",
+            "gameNameEn": "ScratchMap",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Scratch Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "889c8e03d2d164bdb5cd99b974e54f75",
+            "gameNameEn": "SicBo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "c98b8a60baef298d5e33c34be8e6eb8d",
+            "gameNameEn": "SlapShot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2adc3b75f14c5d427e69ca6f8ad8bb67",
+            "gameNameEn": "Slide",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Multiplayer",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "21c8af43df57c5210f0de1be43accf87",
+            "gameNameEn": "snakes",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "60fbf9c812a11d8c9ad04b141c5704ec",
+            "gameNameEn": "stairs",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "3940c014a492bced4c322de1238dd27c",
+            "gameNameEn": "super-double",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Scratch Lottery",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "20562eb57af225275ebe5a3ebec30138",
+            "gameNameEn": "sushi-mines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "2e7374ffaf5f7b2dce9163efe39cba18",
+            "gameNameEn": "tarot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "7b7dff4328b11a95174600c395665f89",
+            "gameNameEn": "Thimble",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "1f31f881b928bb49c04488f4d69dc711",
+            "gameNameEn": "TossACoin",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "fc246b7b9e396a4471a35c8a1fbc1d26",
+            "gameNameEn": "Totem",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "5e1d3c647f9015a0cb8347d20d11068b",
+            "gameNameEn": "TowerRush",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "fd378d996097e6903ade1b69db1b6d2d",
+            "gameNameEn": "treasure-hunt-moles",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "7de21f7616ddb4f9486641d2d99dcaf5",
+            "gameNameEn": "TurboMines",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "39048a4c366ea90deb9be399912a6f0f",
+            "gameNameEn": "video-poker",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "MiniA",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "f9535e3eef33d4a7eecddba88d07b3e0",
+            "gameNameEn": "WealthArrival",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "df196b6df7af6da164fdca33adfebb95",
+            "gameNameEn": "WhackAMole",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "63e6a91c2036975c0242e721bed4572a",
+            "gameNameEn": "Wheel",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "mini",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameID": "28a703043830c07b311d9fc7f887a53b",
+            "gameNameEn": "Wingo",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorCode": "Mini",
+            "category": "Casino",
+            "imgUrl2": null,
+            "customGameType": 0
+        }
+    ]
+}

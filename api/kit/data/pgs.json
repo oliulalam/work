@@ -1,0 +1,271 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameNameEn": "Fortune Tiger",
+            "gameCode": "370",
+            "vendorCode": "pgsoft",
+            "img": "https://365paisa1.com/PG/pg/s10.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Fortune Ox",
+            "gameCode": "334",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Fortune Mouse",
+            "gameCode": "335",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Fortune Rabbit",
+            "gameCode": "336",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Bikini Paradise",
+            "gameCode": "337",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Jungle Delight",
+            "gameCode": "338",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Fortune Dragon",
+            "gameCode": "339",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Chicky Run",
+            "gameCode": "340",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Ganesha Gold",
+            "gameCode": "341",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Wild Bandito",
+            "gameCode": "342",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Piggy Gold",
+            "gameCode": "343",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Double Fortune",
+            "gameCode": "344",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "The Great Icescape",
+            "gameCode": "345",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Captain's Bounty",
+            "gameCode": "346",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Dragon Hatch",
+            "gameCode": "347",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Vampire's Charm",
+            "gameCode": "348",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Gem Saviour Conquest",
+            "gameCode": "349",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Mahjong Ways",
+            "gameCode": "350",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Candy Burst",
+            "gameCode": "351",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Mahjong Ways 2",
+            "gameCode": "352",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Ganesha Fortune",
+            "gameCode": "353",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Phoenix Rises",
+            "gameCode": "354",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Wild Fireworks",
+            "gameCode": "355",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Galactic Gems",
+            "gameCode": "356",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Treasures of Aztec",
+            "gameCode": "357",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Jewels of Prosperity",
+            "gameCode": "357",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Guardians of Ice and Fire",
+            "gameCode": "358",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Bali Vacation",
+            "gameCode": "359",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Majestic Treasures",
+            "gameCode": "360",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Jack Frost's Winter",
+            "gameCode": "361",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Candy Bonanza",
+            "gameCode": "362",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Heist Stakes",
+            "gameCode": "363",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Legendary Monkey King",
+            "gameCode": "364",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Buffalo Win",
+            "gameCode": "365",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Raider Jane's Crypt of Fortune",
+            "gameCode": "366",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Emoji Riches",
+            "gameCode": "367",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Supermarket Spree",
+            "gameCode": "368",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        },
+        {
+            "gameNameEn": "Spirited Wonders",
+            "gameCode": "369",
+            "vendorCode": "lvslot",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "customGameType": 0
+        }
+    ]
+}

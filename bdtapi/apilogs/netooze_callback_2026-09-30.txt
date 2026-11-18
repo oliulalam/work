@@ -1,0 +1,22 @@
+[2026-09-30 12:25:18] ========================================
+[2026-09-30 12:25:18] === Netooze Callback Received ===
+[2026-09-30 12:25:18] Method: POST
+[2026-09-30 12:25:18] URI: /bdtapi/callback.php
+[2026-09-30 12:25:18] Raw input: {"action":"balance","player_id":"RS_KAKI66_265","currency":"BDT"}
+[2026-09-30 12:25:18] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_265","currency":"BDT"}
+[2026-09-30 12:25:18] Resolving raw player_id='RS_KAKI66_265'
+[2026-09-30 12:25:18] Resolved via direct wallet match: 265 → 265
+[2026-09-30 12:25:18] Action: balance | Player: RS_KAKI66_265 | Real User ID: 265 | Amount: 0 | TXN: 
+[2026-09-30 12:25:18] ✅ Main wallet balance for user 265: 0.3 BDT
+[2026-09-30 12:25:18] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":0.3,"user_balance":0.3,"money":0.3,"amount":0.3,"data":{"balance":0.3,"user_balance":0.3,"amount":0.3}} (HTTP: 200)
+[2026-09-30 20:08:53] ========================================
+[2026-09-30 20:08:53] === Netooze Callback Received ===
+[2026-09-30 20:08:53] Method: POST
+[2026-09-30 20:08:53] URI: /bdtapi/callback.php
+[2026-09-30 20:08:53] Raw input: {"action":"balance","player_id":"RS_KAKI66_228","currency":"BDT"}
+[2026-09-30 20:08:53] Parsed payload: {"action":"balance","player_id":"RS_KAKI66_228","currency":"BDT"}
+[2026-09-30 20:08:53] Resolving raw player_id='RS_KAKI66_228'
+[2026-09-30 20:08:53] Resolved via direct wallet match: 228 → 228
+[2026-09-30 20:08:53] Action: balance | Player: RS_KAKI66_228 | Real User ID: 228 | Amount: 0 | TXN: 
+[2026-09-30 20:08:53] ✅ Main wallet balance for user 228: 601.5 BDT
+[2026-09-30 20:08:53] Response: {"status":"SUCCESS","code":0,"msg":"SUCCESS","message":"SUCCESS","balance":601.5,"user_balance":601.5,"money":601.5,"amount":601.5,"data":{"balance":601.5,"user_balance":601.5,"amount":601.5}} (HTTP: 200)

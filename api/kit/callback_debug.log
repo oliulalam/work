@@ -1,0 +1,2112 @@
+2026-07-22 10:37:57 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"17941422798454207916","game_uid":"879","member_account":"99999233","serial_number":"1e28c0aa-e018-3a8e-9ce1-fc9f60b409e8","timestamp":"2026-07-22 05:07:54","win_amount":52}
+2026-07-22 10:37:57 - Extracted user_id: 233 | Action: bet | Bet: 5 | Win: 52
+2026-07-22 10:39:00 - CALLBACK RAW: {"bet_amount":10,"game_id":737,"game_name":"Aviator","game_round":"13352358116985548910","game_uid":"737","member_account":"99999233","serial_number":"c54faa36-4a78-3f94-ab52-5e039ba8fdaa","timestamp":"2026-07-22 05:08:58","win_amount":0}
+2026-07-22 10:39:00 - Extracted user_id: 233 | Action: bet | Bet: 10 | Win: 0
+2026-07-22 10:39:00 - CALLBACK RAW: {"bet_amount":10,"game_id":737,"game_name":"Aviator","game_round":"8884676059242773688","game_uid":"737","member_account":"99999233","serial_number":"49bb734c-cc05-3ad5-bb7f-734cc5c8fe6d","timestamp":"2026-07-22 05:08:58","win_amount":0}
+2026-07-22 10:39:00 - Extracted user_id: 233 | Action: bet | Bet: 10 | Win: 0
+2026-07-22 10:39:04 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"8884676059242773688","game_uid":"737","member_account":"99999233","serial_number":"6ce5232e-8176-34f8-9208-d722a67b9d1e","timestamp":"2026-07-22 05:09:04","win_amount":0}
+2026-07-22 10:39:04 - Extracted user_id: 233 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 10:39:04 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"13352358116985548910","game_uid":"737","member_account":"99999233","serial_number":"36aad9b1-3bf4-316b-8136-72a949c01b5c","timestamp":"2026-07-22 05:09:04","win_amount":0}
+2026-07-22 10:39:04 - Extracted user_id: 233 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 15:13:57 - CALLBACK RAW: {"bet_amount":10,"game_id":937,"game_name":"Captain's Bounty","game_round":"11846643616701494238","game_uid":"937","member_account":"99999227","serial_number":"4aa8022e-b7ae-385e-8b07-5152187334f6","timestamp":"2026-07-22 09:43:46","win_amount":4}
+2026-07-22 15:13:57 - Extracted user_id: 227 | Action: bet | Bet: 10 | Win: 4
+2026-07-22 15:14:08 - CALLBACK RAW: {"bet_amount":0,"game_id":937,"game_name":"Captain's Bounty","game_round":"11846643616701494238","game_uid":"937","member_account":"99999227","serial_number":"6c5c68a4-f0c7-39fc-8060-81b9b674f41e","timestamp":"2026-07-22 09:44:01","win_amount":0}
+2026-07-22 15:14:08 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 15:15:55 - CALLBACK RAW: {"bet_amount":0.7,"game_id":1041,"game_name":"Bombing Fishing","game_round":"12887520962178332528","game_uid":"1041","member_account":"99999227","serial_number":"4847e907-0e0a-3a8f-a37e-9b91efe602c3","timestamp":"2026-07-22 09:45:51","win_amount":2.1}
+2026-07-22 15:15:55 - Extracted user_id: 227 | Action: bet | Bet: 0.7 | Win: 2.1
+2026-07-22 15:17:17 - CALLBACK RAW: {"bet_amount":2,"game_id":74,"game_name":"Mahjong Ways","game_round":"323103550187909790","game_uid":"74","member_account":"99999227","serial_number":"9a10fe5c-c88b-3113-808b-4031472f4ccd","timestamp":"2026-07-22 09:47:10","win_amount":0.6}
+2026-07-22 15:17:17 - Extracted user_id: 227 | Action: bet | Bet: 2 | Win: 0.6
+2026-07-22 15:17:27 - CALLBACK RAW: {"bet_amount":0,"game_id":74,"game_name":"Mahjong Ways","game_round":"323103550187909790","game_uid":"74","member_account":"99999227","serial_number":"106748b5-a586-394b-ba51-a2a2a58556cb","timestamp":"2026-07-22 09:47:21","win_amount":2.4}
+2026-07-22 15:17:27 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 2.4
+2026-07-22 15:17:31 - CALLBACK RAW: {"bet_amount":0,"game_id":74,"game_name":"Mahjong Ways","game_round":"323103550187909790","game_uid":"74","member_account":"99999227","serial_number":"9af3c9af-f19e-38ec-ba7a-471f361b482e","timestamp":"2026-07-22 09:47:30","win_amount":6}
+2026-07-22 15:17:31 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 6
+2026-07-22 15:17:41 - CALLBACK RAW: {"bet_amount":0,"game_id":74,"game_name":"Mahjong Ways","game_round":"323103550187909790","game_uid":"74","member_account":"99999227","serial_number":"776256bd-6a29-3631-b7a8-786abc3ac2f1","timestamp":"2026-07-22 09:47:34","win_amount":0}
+2026-07-22 15:17:41 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 15:28:25 - CALLBACK RAW: {"bet_amount":100,"game_id":737,"game_name":"Aviator","game_round":"9832211101421351881","game_uid":"737","member_account":"99999227","serial_number":"33c72578-9f6f-316a-bbc2-12bb72e6ffcd","timestamp":"2026-07-22 09:58:20","win_amount":0}
+2026-07-22 15:28:25 - Extracted user_id: 227 | Action: bet | Bet: 100 | Win: 0
+2026-07-22 15:28:56 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"9832211101421351881","game_uid":"737","member_account":"99999227","serial_number":"e8a03d1b-7bf6-38d6-8c2e-d6896163250b","timestamp":"2026-07-22 09:58:54","win_amount":1064}
+2026-07-22 15:28:56 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 1064
+2026-07-22 23:15:30 - CALLBACK RAW: {"bet_amount":200,"game_id":737,"game_name":"Aviator","game_round":"13010752917164146185","game_uid":"737","member_account":"99999227","serial_number":"479cb39b-eb56-327f-b280-9c4f7c37e469","timestamp":"2026-07-22 17:45:26","win_amount":0}
+2026-07-22 23:15:30 - Extracted user_id: 227 | Action: bet | Bet: 200 | Win: 0
+2026-07-22 23:15:30 - CALLBACK RAW: {"bet_amount":200,"game_id":737,"game_name":"Aviator","game_round":"15882617813205728821","game_uid":"737","member_account":"99999227","serial_number":"6ee26610-949e-3bf9-b41f-3b6330633a58","timestamp":"2026-07-22 17:45:26","win_amount":0}
+2026-07-22 23:15:30 - Extracted user_id: 227 | Action: bet | Bet: 200 | Win: 0
+2026-07-22 23:15:34 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"13010752917164146185","game_uid":"737","member_account":"99999227","serial_number":"c431349b-2f1a-3fe5-91ab-0cec4d93319d","timestamp":"2026-07-22 17:45:33","win_amount":0}
+2026-07-22 23:15:34 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 23:15:34 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"15882617813205728821","game_uid":"737","member_account":"99999227","serial_number":"2751d990-580c-39d4-9385-46c13c65238e","timestamp":"2026-07-22 17:45:33","win_amount":0}
+2026-07-22 23:15:34 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 23:21:58 - CALLBACK RAW: {"bet_amount":10,"game_id":937,"game_name":"Captain's Bounty","game_round":"15535945257540401514","game_uid":"937","member_account":"99999227","serial_number":"0fde44c7-b75e-375f-ba3f-166da6b220c5","timestamp":"2026-07-22 17:51:55","win_amount":10}
+2026-07-22 23:21:58 - Extracted user_id: 227 | Action: bet | Bet: 10 | Win: 10
+2026-07-22 23:22:02 - CALLBACK RAW: {"bet_amount":0,"game_id":937,"game_name":"Captain's Bounty","game_round":"15535945257540401514","game_uid":"937","member_account":"99999227","serial_number":"871906c9-94d8-3e2a-abe0-958433195975","timestamp":"2026-07-22 17:52:01","win_amount":0}
+2026-07-22 23:22:02 - Extracted user_id: 227 | Action: bet | Bet: 0 | Win: 0
+2026-07-22 23:23:18 - CALLBACK RAW: {"bet_amount":6,"game_id":74,"game_name":"Mahjong Ways","game_round":"10205183882752636573","game_uid":"74","member_account":"99999227","serial_number":"7930d766-bc41-3640-be1f-c0965bd813bf","timestamp":"2026-07-22 17:53:15","win_amount":0}
+2026-07-22 23:23:18 - Extracted user_id: 227 | Action: bet | Bet: 6 | Win: 0
+2026-07-22 23:24:34 - CALLBACK RAW: {"bet_amount":1,"game_id":5825,"game_name":"Bikini Revelry","game_round":"4330561178324907037","game_uid":"5825","member_account":"99999227","serial_number":"e1a6f3e3-c535-365a-b06b-702360b543f8","timestamp":"2026-07-22 17:54:31","win_amount":0}
+2026-07-22 23:24:34 - Extracted user_id: 227 | Action: bet | Bet: 1 | Win: 0
+2026-07-23 00:13:51 - CALLBACK RAW: {"bet_amount":10,"game_id":737,"game_name":"Aviator","game_round":"8221987310287991003","game_uid":"737","member_account":"99999238","serial_number":"fa82fef1-c1f8-3a3c-a20c-c9ba24f4a1d2","timestamp":"2026-07-22 18:43:48","win_amount":0}
+2026-07-23 00:13:51 - Extracted user_id: 238 | Action: bet | Bet: 10 | Win: 0
+2026-07-23 00:13:58 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"8221987310287991003","game_uid":"737","member_account":"99999238","serial_number":"dcda4f01-694b-322d-bcb6-916e89306adc","timestamp":"2026-07-22 18:43:58","win_amount":15.3}
+2026-07-23 00:13:58 - Extracted user_id: 238 | Action: bet | Bet: 0 | Win: 15.3
+2026-07-23 00:14:48 - CALLBACK RAW: {"bet_amount":10,"game_id":737,"game_name":"Aviator","game_round":"17172916167712781727","game_uid":"737","member_account":"99999238","serial_number":"ebedb88a-fc9a-3244-a986-9bc9afd812a2","timestamp":"2026-07-22 18:44:44","win_amount":0}
+2026-07-23 00:14:48 - Extracted user_id: 238 | Action: bet | Bet: 10 | Win: 0
+2026-07-23 00:14:48 - CALLBACK RAW: {"bet_amount":10,"game_id":737,"game_name":"Aviator","game_round":"15398428868079269734","game_uid":"737","member_account":"99999238","serial_number":"42b70fd7-0501-30da-92a6-6636f15f7e82","timestamp":"2026-07-22 18:44:45","win_amount":0}
+2026-07-23 00:14:48 - Extracted user_id: 238 | Action: bet | Bet: 10 | Win: 0
+2026-07-23 00:14:52 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"15398428868079269734","game_uid":"737","member_account":"99999238","serial_number":"85c3e73a-1add-33d1-8ddf-615a9dbb9c97","timestamp":"2026-07-22 18:44:51","win_amount":0}
+2026-07-23 00:14:52 - Extracted user_id: 238 | Action: bet | Bet: 0 | Win: 0
+2026-07-23 00:14:52 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"17172916167712781727","game_uid":"737","member_account":"99999238","serial_number":"07162a4b-7ccf-3e4f-9ef1-f8e9aca60044","timestamp":"2026-07-22 18:44:51","win_amount":0}
+2026-07-23 00:14:52 - Extracted user_id: 238 | Action: bet | Bet: 0 | Win: 0
+2026-07-29 17:24:55 - CALLBACK RAW: {"bet_amount":10,"game_id":737,"game_name":"Aviator","game_round":"14514321171958804688","game_uid":"737","member_account":"99999224","serial_number":"0bb4e778-2172-311e-acb7-0fe40de7b5d9","timestamp":"2026-07-29 11:54:52","win_amount":0}
+2026-07-29 17:24:55 - Extracted user_id: 224 | Action: bet | Bet: 10 | Win: 0
+2026-07-29 17:24:55 - Current Balance: 102 in table users
+2026-07-29 17:24:55 - Calculation: 102 - 10 = 92
+2026-07-29 17:24:55 - DB primary update successful
+2026-07-29 17:24:55 - Response sent: code=0, balance=92
+2026-07-29 17:24:55 - GGR | INR loss=10 → INR loss=10 (rate=1INR=1PKR)
+2026-07-29 17:24:56 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.299999999999999988897769753748434595763683319091796875}
+2026-07-29 17:24:56 - Game bet log inserted
+2026-07-29 17:24:56 - Connection closed
+2026-07-29 17:25:03 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"14514321171958804688","game_uid":"737","member_account":"99999224","serial_number":"f17b5cc0-27af-33e6-8b6b-05fb54ef219d","timestamp":"2026-07-29 11:55:02","win_amount":15.2}
+2026-07-29 17:25:03 - Extracted user_id: 224 | Action: bet | Bet: 0 | Win: 15.2
+2026-07-29 17:25:03 - Current Balance: 92 in table users
+2026-07-29 17:25:03 - Calculation: 92 - 0 = 92
+2026-07-29 17:25:03 - DB primary update successful
+2026-07-29 17:25:03 - Response sent: code=0, balance=107.2
+2026-07-29 17:25:03 - Game bet log inserted
+2026-07-29 17:25:03 - Connection closed
+2026-07-29 19:23:24 - CALLBACK RAW: {"bet_amount":200,"game_id":737,"game_name":"Aviator","game_round":"5066081278688048157","game_uid":"737","member_account":"99999225","serial_number":"38eaa0a3-fb9c-309f-9d87-a9b59055fa5f","timestamp":"2026-07-29 13:53:20","win_amount":0}
+2026-07-29 19:23:24 - Extracted user_id: 225 | Action: bet | Bet: 200 | Win: 0
+2026-07-29 19:23:24 - Current Balance: 500 in table users
+2026-07-29 19:23:24 - Calculation: 500 - 200 = 300
+2026-07-29 19:23:24 - DB primary update successful
+2026-07-29 19:23:24 - Response sent: code=0, balance=300
+2026-07-29 19:23:24 - GGR | INR loss=200 → INR loss=200 (rate=1INR=1PKR)
+2026-07-29 19:23:24 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":5.980000000000000426325641456060111522674560546875}
+2026-07-29 19:23:24 - Game bet log inserted
+2026-07-29 19:23:24 - Connection closed
+2026-07-29 19:23:30 - CALLBACK RAW: {"bet_amount":0,"game_id":737,"game_name":"Aviator","game_round":"5066081278688048157","game_uid":"737","member_account":"99999225","serial_number":"b5f43568-2206-342d-9beb-5ca7eeefa18e","timestamp":"2026-07-29 13:53:30","win_amount":300}
+2026-07-29 19:23:30 - Extracted user_id: 225 | Action: bet | Bet: 0 | Win: 300
+2026-07-29 19:23:30 - Current Balance: 300 in table users
+2026-07-29 19:23:30 - Calculation: 300 - 0 = 300
+2026-07-29 19:23:30 - DB primary update successful
+2026-07-29 19:23:30 - Response sent: code=0, balance=600
+2026-07-29 19:23:30 - Game bet log inserted
+2026-07-29 19:23:30 - Connection closed
+2026-07-29 19:27:05 - CALLBACK RAW: {"bet_amount":100,"game_id":3092,"game_name":"Mary's Mining Mania","game_round":"17473535850244619081","game_uid":"3092","member_account":"99999225","serial_number":"4bdc485c-57fb-3244-b726-c78e8c510e6a","timestamp":"2026-07-29 13:57:01","win_amount":0}
+2026-07-29 19:27:05 - Extracted user_id: 225 | Action: bet | Bet: 100 | Win: 0
+2026-07-29 19:27:05 - Current Balance: 600 in table users
+2026-07-29 19:27:05 - Calculation: 600 - 100 = 500
+2026-07-29 19:27:05 - DB primary update successful
+2026-07-29 19:27:05 - Response sent: code=0, balance=500
+2026-07-29 19:27:05 - GGR | INR loss=100 → INR loss=100 (rate=1INR=1PKR)
+2026-07-29 19:27:05 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":2.9900000000000002131628207280300557613372802734375}
+2026-07-29 19:27:05 - Game bet log inserted
+2026-07-29 19:27:05 - Connection closed
+2026-07-29 19:27:06 - CALLBACK RAW: {"bet_amount":100,"game_id":3092,"game_name":"Mary's Mining Mania","game_round":"12344649075800357567","game_uid":"3092","member_account":"99999225","serial_number":"e50bfd32-1c11-3963-b306-7dfb9b4cdd32","timestamp":"2026-07-29 13:57:05","win_amount":0}
+2026-07-29 19:27:06 - Extracted user_id: 225 | Action: bet | Bet: 100 | Win: 0
+2026-07-29 19:27:06 - Current Balance: 500 in table users
+2026-07-29 19:27:06 - Calculation: 500 - 100 = 400
+2026-07-29 19:27:06 - DB primary update successful
+2026-07-29 19:27:06 - Response sent: code=0, balance=400
+2026-07-29 19:27:06 - GGR | INR loss=100 → INR loss=100 (rate=1INR=1PKR)
+2026-07-29 19:27:06 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":2.9900000000000002131628207280300557613372802734375}
+2026-07-29 19:27:06 - Game bet log inserted
+2026-07-29 19:27:06 - Connection closed
+2026-07-29 19:27:18 - CALLBACK RAW: {"bet_amount":0,"game_id":3092,"game_name":"Mary's Mining Mania","game_round":"17473535850244619081","game_uid":"3092","member_account":"99999225","serial_number":"e40bdfb5-9d36-36fc-821a-abd49492c294","timestamp":"2026-07-29 13:57:18","win_amount":206}
+2026-07-29 19:27:18 - Extracted user_id: 225 | Action: bet | Bet: 0 | Win: 206
+2026-07-29 19:27:18 - Current Balance: 400 in table users
+2026-07-29 19:27:18 - Calculation: 400 - 0 = 400
+2026-07-29 19:27:18 - DB primary update successful
+2026-07-29 19:27:18 - Response sent: code=0, balance=606
+2026-07-29 19:27:18 - Game bet log inserted
+2026-07-29 19:27:18 - Connection closed
+2026-07-29 19:31:16 - CALLBACK RAW: {"bet_amount":-100,"game_id":3092,"game_name":"Mary's Mining Mania","game_round":"12344649075800357567","game_uid":"3092","member_account":"99999225","serial_number":"a6a10b83-6a46-3e6a-9eed-8a22e1c1933b","timestamp":"2026-07-29 14:01:13","win_amount":0}
+2026-07-29 19:31:16 - Extracted user_id: 225 | Action: bet | Bet: -100 | Win: 0
+2026-07-29 19:31:16 - Current Balance: 606 in table users
+2026-07-29 19:31:16 - Calculation: 606 - -100 = 706
+2026-07-29 19:31:16 - DB primary update successful
+2026-07-29 19:31:16 - Response sent: code=0, balance=706
+2026-07-29 19:31:16 - Game bet log inserted
+2026-07-29 19:31:16 - Connection closed
+2026-07-29 19:33:47 - CALLBACK RAW: {"bet_amount":4,"game_id":601,"game_name":"Magic Lamp Bingo","game_round":"17120831920187784660","game_uid":"601","member_account":"99999225","serial_number":"916b36df-bbd0-385b-ac85-8876c59cb5e3","timestamp":"2026-07-29 14:03:44","win_amount":0}
+2026-07-29 19:33:47 - Extracted user_id: 225 | Action: bet | Bet: 4 | Win: 0
+2026-07-29 19:33:47 - Current Balance: 706 in table users
+2026-07-29 19:33:47 - Calculation: 706 - 4 = 702
+2026-07-29 19:33:47 - DB primary update successful
+2026-07-29 19:33:47 - Response sent: code=0, balance=702
+2026-07-29 19:33:47 - GGR | INR loss=4 → INR loss=4 (rate=1INR=1PKR)
+2026-07-29 19:33:47 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.11999999999999999555910790149937383830547332763671875}
+2026-07-29 19:33:47 - Game bet log inserted
+2026-07-29 19:33:47 - Connection closed
+2026-07-29 19:33:56 - CALLBACK RAW: {"bet_amount":3.8,"game_id":601,"game_name":"Magic Lamp Bingo","game_round":"17120831920187784660","game_uid":"601","member_account":"99999225","serial_number":"1289c6d9-5fca-3cf8-8b74-4cf3e5ae8f8e","timestamp":"2026-07-29 14:03:56","win_amount":0}
+2026-07-29 19:33:56 - Extracted user_id: 225 | Action: bet | Bet: 3.8 | Win: 0
+2026-07-29 19:33:56 - Current Balance: 702 in table users
+2026-07-29 19:33:56 - Calculation: 702 - 3.8 = 698.2
+2026-07-29 19:33:56 - DB primary update successful
+2026-07-29 19:33:56 - Response sent: code=0, balance=698.2
+2026-07-29 19:33:56 - GGR | INR loss=3.8 → INR loss=3.8 (rate=1INR=1PKR)
+2026-07-29 19:33:57 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.11000000000000000055511151231257827021181583404541015625}
+2026-07-29 19:33:57 - Game bet log inserted
+2026-07-29 19:33:57 - Connection closed
+2026-07-29 19:34:01 - CALLBACK RAW: {"bet_amount":0,"game_id":601,"game_name":"Magic Lamp Bingo","game_round":"17120831920187784660","game_uid":"601","member_account":"99999225","serial_number":"28437647-7404-365f-814e-497dc87fa736","timestamp":"2026-07-29 14:04:01","win_amount":3}
+2026-07-29 19:34:01 - Extracted user_id: 225 | Action: bet | Bet: 0 | Win: 3
+2026-07-29 19:34:01 - Current Balance: 698.2 in table users
+2026-07-29 19:34:01 - Calculation: 698.2 - 0 = 698.2
+2026-07-29 19:34:01 - DB primary update successful
+2026-07-29 19:34:01 - Response sent: code=0, balance=701.2
+2026-07-29 19:34:01 - Game bet log inserted
+2026-07-29 19:34:01 - Connection closed
+2026-07-29 19:36:29 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"11660633611010127186","game_uid":"879","member_account":"99999225","serial_number":"cb04e7ce-225e-3299-95cc-f0ab2b22bcb3","timestamp":"2026-07-29 14:06:26","win_amount":0}
+2026-07-29 19:36:29 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 0
+2026-07-29 19:36:29 - Current Balance: 701.2 in table users
+2026-07-29 19:36:29 - Calculation: 701.2 - 2 = 699.2
+2026-07-29 19:36:29 - DB primary update successful
+2026-07-29 19:36:29 - Response sent: code=0, balance=699.2
+2026-07-29 19:36:29 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-29 19:36:30 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.059999999999999997779553950749686919152736663818359375}
+2026-07-29 19:36:30 - Game bet log inserted
+2026-07-29 19:36:30 - Connection closed
+2026-07-29 19:36:35 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"17529059658211671606","game_uid":"879","member_account":"99999225","serial_number":"9dd32669-54cc-3d34-84c4-35e308f9bc73","timestamp":"2026-07-29 14:06:35","win_amount":0}
+2026-07-29 19:36:35 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:36:35 - Current Balance: 699.2 in table users
+2026-07-29 19:36:35 - Calculation: 699.2 - 20 = 679.2
+2026-07-29 19:36:35 - DB primary update successful
+2026-07-29 19:36:35 - Response sent: code=0, balance=679.2
+2026-07-29 19:36:35 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:36:36 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:36:36 - Game bet log inserted
+2026-07-29 19:36:36 - Connection closed
+2026-07-29 19:36:39 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"1571453636925012441","game_uid":"879","member_account":"99999225","serial_number":"7acb4fd6-f227-3d6f-b78f-c8812efa8263","timestamp":"2026-07-29 14:06:39","win_amount":0}
+2026-07-29 19:36:39 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:36:39 - Current Balance: 679.2 in table users
+2026-07-29 19:36:39 - Calculation: 679.2 - 20 = 659.2
+2026-07-29 19:36:39 - DB primary update successful
+2026-07-29 19:36:39 - Response sent: code=0, balance=659.2
+2026-07-29 19:36:39 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:36:39 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:36:39 - Game bet log inserted
+2026-07-29 19:36:39 - Connection closed
+2026-07-29 19:36:43 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"14775970093822196029","game_uid":"879","member_account":"99999225","serial_number":"acea084c-dd82-3f7f-a135-36b36ce4bb1f","timestamp":"2026-07-29 14:06:42","win_amount":0}
+2026-07-29 19:36:43 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:36:43 - Current Balance: 659.2 in table users
+2026-07-29 19:36:43 - Calculation: 659.2 - 20 = 639.2
+2026-07-29 19:36:43 - DB primary update successful
+2026-07-29 19:36:43 - Response sent: code=0, balance=639.2
+2026-07-29 19:36:43 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:36:43 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:36:43 - Game bet log inserted
+2026-07-29 19:36:43 - Connection closed
+2026-07-29 19:36:46 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"4212197492231126640","game_uid":"879","member_account":"99999225","serial_number":"8494e184-babc-3b97-b12b-59ecfdbdf619","timestamp":"2026-07-29 14:06:46","win_amount":82}
+2026-07-29 19:36:46 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 82
+2026-07-29 19:36:46 - Current Balance: 639.2 in table users
+2026-07-29 19:36:46 - Calculation: 639.2 - 20 = 619.2
+2026-07-29 19:36:46 - DB primary update successful
+2026-07-29 19:36:46 - Response sent: code=0, balance=701.2
+2026-07-29 19:36:46 - Game bet log inserted
+2026-07-29 19:36:46 - Connection closed
+2026-07-29 19:36:54 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"14847260105751150578","game_uid":"879","member_account":"99999225","serial_number":"41428808-58a0-39d3-b74c-5b8784d91c42","timestamp":"2026-07-29 14:06:54","win_amount":0}
+2026-07-29 19:36:54 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:36:54 - Current Balance: 701.2 in table users
+2026-07-29 19:36:54 - Calculation: 701.2 - 20 = 681.2
+2026-07-29 19:36:54 - DB primary update successful
+2026-07-29 19:36:54 - Response sent: code=0, balance=681.2
+2026-07-29 19:36:54 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:36:54 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:36:54 - Game bet log inserted
+2026-07-29 19:36:54 - Connection closed
+2026-07-29 19:36:57 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"13033621736021048338","game_uid":"879","member_account":"99999225","serial_number":"a5bd1473-109e-34d2-9d41-df3f1422b14e","timestamp":"2026-07-29 14:06:57","win_amount":0}
+2026-07-29 19:36:57 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:36:57 - Current Balance: 681.2 in table users
+2026-07-29 19:36:57 - Calculation: 681.2 - 20 = 661.2
+2026-07-29 19:36:57 - DB primary update successful
+2026-07-29 19:36:57 - Response sent: code=0, balance=661.2
+2026-07-29 19:36:57 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:36:57 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:36:57 - Game bet log inserted
+2026-07-29 19:36:57 - Connection closed
+2026-07-29 19:37:01 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"7153289523053016962","game_uid":"879","member_account":"99999225","serial_number":"667d9a80-4a04-328c-86cd-ef12b2930cca","timestamp":"2026-07-29 14:07:01","win_amount":18}
+2026-07-29 19:37:01 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 18
+2026-07-29 19:37:01 - Current Balance: 661.2 in table users
+2026-07-29 19:37:01 - Calculation: 661.2 - 20 = 641.2
+2026-07-29 19:37:01 - DB primary update successful
+2026-07-29 19:37:01 - Response sent: code=0, balance=659.2
+2026-07-29 19:37:01 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-29 19:37:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.059999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:01 - Game bet log inserted
+2026-07-29 19:37:01 - Connection closed
+2026-07-29 19:37:09 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"3566773012515337132","game_uid":"879","member_account":"99999225","serial_number":"ab575285-9747-376b-9ec3-a317287823ff","timestamp":"2026-07-29 14:07:09","win_amount":8}
+2026-07-29 19:37:09 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 8
+2026-07-29 19:37:09 - Current Balance: 659.2 in table users
+2026-07-29 19:37:09 - Calculation: 659.2 - 20 = 639.2
+2026-07-29 19:37:09 - DB primary update successful
+2026-07-29 19:37:09 - Response sent: code=0, balance=647.2
+2026-07-29 19:37:09 - GGR | INR loss=12 → INR loss=12 (rate=1INR=1PKR)
+2026-07-29 19:37:09 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.35999999999999998667732370449812151491641998291015625}
+2026-07-29 19:37:09 - Game bet log inserted
+2026-07-29 19:37:09 - Connection closed
+2026-07-29 19:37:15 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"9502774844506062694","game_uid":"879","member_account":"99999225","serial_number":"d099571b-9818-3bf4-9288-d3856fee3bca","timestamp":"2026-07-29 14:07:14","win_amount":0}
+2026-07-29 19:37:15 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:15 - Current Balance: 647.2 in table users
+2026-07-29 19:37:15 - Calculation: 647.2 - 20 = 627.2
+2026-07-29 19:37:15 - DB primary update successful
+2026-07-29 19:37:15 - Response sent: code=0, balance=627.2
+2026-07-29 19:37:15 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:15 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:15 - Game bet log inserted
+2026-07-29 19:37:15 - Connection closed
+2026-07-29 19:37:18 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"11764021863412544357","game_uid":"879","member_account":"99999225","serial_number":"f057cd47-6f78-3017-95b7-f21de8277d18","timestamp":"2026-07-29 14:07:18","win_amount":0}
+2026-07-29 19:37:18 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:18 - Current Balance: 627.2 in table users
+2026-07-29 19:37:18 - Calculation: 627.2 - 20 = 607.2
+2026-07-29 19:37:18 - DB primary update successful
+2026-07-29 19:37:18 - Response sent: code=0, balance=607.2
+2026-07-29 19:37:18 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:18 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:18 - Game bet log inserted
+2026-07-29 19:37:18 - Connection closed
+2026-07-29 19:37:21 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"9965845040079519735","game_uid":"879","member_account":"99999225","serial_number":"abd0b10f-2080-3184-b0e3-8e5830ccf3dd","timestamp":"2026-07-29 14:07:21","win_amount":0}
+2026-07-29 19:37:21 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:21 - Current Balance: 607.2 in table users
+2026-07-29 19:37:21 - Calculation: 607.2 - 20 = 587.2
+2026-07-29 19:37:21 - DB primary update successful
+2026-07-29 19:37:21 - Response sent: code=0, balance=587.2
+2026-07-29 19:37:21 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:21 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:21 - Game bet log inserted
+2026-07-29 19:37:21 - Connection closed
+2026-07-29 19:37:23 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"13637908395266225244","game_uid":"879","member_account":"99999225","serial_number":"e5df6681-a46a-3218-a024-7b98caefface","timestamp":"2026-07-29 14:07:23","win_amount":0}
+2026-07-29 19:37:23 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:23 - Current Balance: 587.2 in table users
+2026-07-29 19:37:23 - Calculation: 587.2 - 20 = 567.2
+2026-07-29 19:37:23 - DB primary update successful
+2026-07-29 19:37:23 - Response sent: code=0, balance=567.2
+2026-07-29 19:37:23 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:23 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:23 - Game bet log inserted
+2026-07-29 19:37:23 - Connection closed
+2026-07-29 19:37:26 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"5650207081205873725","game_uid":"879","member_account":"99999225","serial_number":"3959213d-127f-33d9-bac3-039803b11cb5","timestamp":"2026-07-29 14:07:26","win_amount":0}
+2026-07-29 19:37:26 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:26 - Current Balance: 567.2 in table users
+2026-07-29 19:37:26 - Calculation: 567.2 - 20 = 547.2
+2026-07-29 19:37:26 - DB primary update successful
+2026-07-29 19:37:26 - Response sent: code=0, balance=547.2
+2026-07-29 19:37:26 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:26 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:26 - Game bet log inserted
+2026-07-29 19:37:26 - Connection closed
+2026-07-29 19:37:28 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"10217019331959208450","game_uid":"879","member_account":"99999225","serial_number":"31cd4308-3fc6-3859-afa3-a20b21f37dd3","timestamp":"2026-07-29 14:07:27","win_amount":0}
+2026-07-29 19:37:28 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:28 - Current Balance: 547.2 in table users
+2026-07-29 19:37:28 - Calculation: 547.2 - 20 = 527.2
+2026-07-29 19:37:28 - DB primary update successful
+2026-07-29 19:37:28 - Response sent: code=0, balance=527.2
+2026-07-29 19:37:28 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:28 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:28 - Game bet log inserted
+2026-07-29 19:37:28 - Connection closed
+2026-07-29 19:37:30 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"9825936500461810763","game_uid":"879","member_account":"99999225","serial_number":"fd7a90bc-0fc2-3f8d-9660-a42b9fb1a322","timestamp":"2026-07-29 14:07:30","win_amount":0}
+2026-07-29 19:37:30 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:30 - Current Balance: 527.2 in table users
+2026-07-29 19:37:30 - Calculation: 527.2 - 20 = 507.2
+2026-07-29 19:37:30 - DB primary update successful
+2026-07-29 19:37:30 - Response sent: code=0, balance=507.2
+2026-07-29 19:37:30 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:30 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:30 - Game bet log inserted
+2026-07-29 19:37:30 - Connection closed
+2026-07-29 19:37:32 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"7826593389582889564","game_uid":"879","member_account":"99999225","serial_number":"be5522dc-01dd-37a6-b014-22b052960ebe","timestamp":"2026-07-29 14:07:32","win_amount":0}
+2026-07-29 19:37:32 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 0
+2026-07-29 19:37:32 - Current Balance: 507.2 in table users
+2026-07-29 19:37:32 - Calculation: 507.2 - 20 = 487.2
+2026-07-29 19:37:32 - DB primary update successful
+2026-07-29 19:37:32 - Response sent: code=0, balance=487.2
+2026-07-29 19:37:32 - GGR | INR loss=20 → INR loss=20 (rate=1INR=1PKR)
+2026-07-29 19:37:32 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.59999999999999997779553950749686919152736663818359375}
+2026-07-29 19:37:32 - Game bet log inserted
+2026-07-29 19:37:32 - Connection closed
+2026-07-29 19:37:34 - CALLBACK RAW: {"bet_amount":20,"game_id":879,"game_name":"Super Ace","game_round":"12632828393420895245","game_uid":"879","member_account":"99999225","serial_number":"a013297c-4a86-3f1c-8df3-1f6b6a97eef6","timestamp":"2026-07-29 14:07:34","win_amount":1160}
+2026-07-29 19:37:34 - Extracted user_id: 225 | Action: bet | Bet: 20 | Win: 1160
+2026-07-29 19:37:34 - Current Balance: 487.2 in table users
+2026-07-29 19:37:34 - Calculation: 487.2 - 20 = 467.2
+2026-07-29 19:37:34 - DB primary update successful
+2026-07-29 19:37:34 - Response sent: code=0, balance=1627.2
+2026-07-29 19:37:34 - Game bet log inserted
+2026-07-29 19:37:34 - Connection closed
+2026-07-29 19:38:18 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"13843360579292445483","game_uid":"879","member_account":"99999225","serial_number":"c0f49d22-1a7a-3700-98b9-e7cfc7ce0f49","timestamp":"2026-07-29 14:08:18","win_amount":0}
+2026-07-29 19:38:18 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:18 - Current Balance: 1627.2 in table users
+2026-07-29 19:38:18 - Calculation: 1627.2 - 50 = 1577.2
+2026-07-29 19:38:18 - DB primary update successful
+2026-07-29 19:38:18 - Response sent: code=0, balance=1577.2
+2026-07-29 19:38:18 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:18 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:18 - Game bet log inserted
+2026-07-29 19:38:18 - Connection closed
+2026-07-29 19:38:20 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"350252413079728668","game_uid":"879","member_account":"99999225","serial_number":"936b9fa6-d327-39a9-a8f2-eb3eb265054b","timestamp":"2026-07-29 14:08:20","win_amount":0}
+2026-07-29 19:38:20 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:20 - Current Balance: 1577.2 in table users
+2026-07-29 19:38:20 - Calculation: 1577.2 - 50 = 1527.2
+2026-07-29 19:38:20 - DB primary update successful
+2026-07-29 19:38:20 - Response sent: code=0, balance=1527.2
+2026-07-29 19:38:20 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:21 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:21 - Game bet log inserted
+2026-07-29 19:38:21 - Connection closed
+2026-07-29 19:38:22 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"3319339370410229627","game_uid":"879","member_account":"99999225","serial_number":"94819f6e-ef2a-3df3-bcf1-d87e77fb0c76","timestamp":"2026-07-29 14:08:22","win_amount":0}
+2026-07-29 19:38:22 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:22 - Current Balance: 1527.2 in table users
+2026-07-29 19:38:22 - Calculation: 1527.2 - 50 = 1477.2
+2026-07-29 19:38:22 - DB primary update successful
+2026-07-29 19:38:22 - Response sent: code=0, balance=1477.2
+2026-07-29 19:38:22 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:23 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:23 - Game bet log inserted
+2026-07-29 19:38:23 - Connection closed
+2026-07-29 19:38:24 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"8299034460055089913","game_uid":"879","member_account":"99999225","serial_number":"2ed3beb4-d457-33b9-a18c-106318e26ae8","timestamp":"2026-07-29 14:08:24","win_amount":0}
+2026-07-29 19:38:24 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:24 - Current Balance: 1477.2 in table users
+2026-07-29 19:38:24 - Calculation: 1477.2 - 50 = 1427.2
+2026-07-29 19:38:24 - DB primary update successful
+2026-07-29 19:38:24 - Response sent: code=0, balance=1427.2
+2026-07-29 19:38:24 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:25 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:25 - Game bet log inserted
+2026-07-29 19:38:25 - Connection closed
+2026-07-29 19:38:27 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"1971300873174007803","game_uid":"879","member_account":"99999225","serial_number":"341dfaec-4159-37cc-9f01-cec81c5685d2","timestamp":"2026-07-29 14:08:27","win_amount":0}
+2026-07-29 19:38:27 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:27 - Current Balance: 1427.2 in table users
+2026-07-29 19:38:27 - Calculation: 1427.2 - 50 = 1377.2
+2026-07-29 19:38:27 - DB primary update successful
+2026-07-29 19:38:27 - Response sent: code=0, balance=1377.2
+2026-07-29 19:38:27 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:27 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:27 - Game bet log inserted
+2026-07-29 19:38:27 - Connection closed
+2026-07-29 19:38:29 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"13397738983190641951","game_uid":"879","member_account":"99999225","serial_number":"91f7e787-8609-325a-be38-8a54702d6c81","timestamp":"2026-07-29 14:08:29","win_amount":0}
+2026-07-29 19:38:29 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:29 - Current Balance: 1377.2 in table users
+2026-07-29 19:38:29 - Calculation: 1377.2 - 50 = 1327.2
+2026-07-29 19:38:29 - DB primary update successful
+2026-07-29 19:38:29 - Response sent: code=0, balance=1327.2
+2026-07-29 19:38:29 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:29 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:29 - Game bet log inserted
+2026-07-29 19:38:29 - Connection closed
+2026-07-29 19:38:32 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"17248740625859231031","game_uid":"879","member_account":"99999225","serial_number":"0421674c-c9c3-3acd-9a78-f98e14d3e65f","timestamp":"2026-07-29 14:08:32","win_amount":0}
+2026-07-29 19:38:32 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:32 - Current Balance: 1327.2 in table users
+2026-07-29 19:38:32 - Calculation: 1327.2 - 50 = 1277.2
+2026-07-29 19:38:32 - DB primary update successful
+2026-07-29 19:38:32 - Response sent: code=0, balance=1277.2
+2026-07-29 19:38:32 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:32 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:32 - Game bet log inserted
+2026-07-29 19:38:32 - Connection closed
+2026-07-29 19:38:34 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"5590980138603855042","game_uid":"879","member_account":"99999225","serial_number":"f400678f-630f-35a9-9e0a-81565699c00a","timestamp":"2026-07-29 14:08:34","win_amount":0}
+2026-07-29 19:38:34 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:34 - Current Balance: 1277.2 in table users
+2026-07-29 19:38:34 - Calculation: 1277.2 - 50 = 1227.2
+2026-07-29 19:38:34 - DB primary update successful
+2026-07-29 19:38:34 - Response sent: code=0, balance=1227.2
+2026-07-29 19:38:34 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:34 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:34 - Game bet log inserted
+2026-07-29 19:38:34 - Connection closed
+2026-07-29 19:38:36 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"6546534449519213117","game_uid":"879","member_account":"99999225","serial_number":"0b888a93-dee0-32a1-ad4c-3548a4b14ded","timestamp":"2026-07-29 14:08:36","win_amount":0}
+2026-07-29 19:38:36 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:36 - Current Balance: 1227.2 in table users
+2026-07-29 19:38:36 - Calculation: 1227.2 - 50 = 1177.2
+2026-07-29 19:38:36 - DB primary update successful
+2026-07-29 19:38:36 - Response sent: code=0, balance=1177.2
+2026-07-29 19:38:36 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:36 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:36 - Game bet log inserted
+2026-07-29 19:38:36 - Connection closed
+2026-07-29 19:38:38 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"11754846770615300519","game_uid":"879","member_account":"99999225","serial_number":"2a02b280-bdae-3c0e-854a-3ee9d6985376","timestamp":"2026-07-29 14:08:38","win_amount":0}
+2026-07-29 19:38:38 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:38 - Current Balance: 1177.2 in table users
+2026-07-29 19:38:38 - Calculation: 1177.2 - 50 = 1127.2
+2026-07-29 19:38:38 - DB primary update successful
+2026-07-29 19:38:38 - Response sent: code=0, balance=1127.2
+2026-07-29 19:38:38 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:39 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:39 - Game bet log inserted
+2026-07-29 19:38:39 - Connection closed
+2026-07-29 19:38:41 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"11825267261101784769","game_uid":"879","member_account":"99999225","serial_number":"0200ff10-5fe9-34b0-a030-f59bd8b0a8cb","timestamp":"2026-07-29 14:08:40","win_amount":75}
+2026-07-29 19:38:41 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 75
+2026-07-29 19:38:41 - Current Balance: 1127.2 in table users
+2026-07-29 19:38:41 - Calculation: 1127.2 - 50 = 1077.2
+2026-07-29 19:38:41 - DB primary update successful
+2026-07-29 19:38:41 - Response sent: code=0, balance=1152.2
+2026-07-29 19:38:41 - Game bet log inserted
+2026-07-29 19:38:41 - Connection closed
+2026-07-29 19:38:46 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"14829802323680834839","game_uid":"879","member_account":"99999225","serial_number":"d536d30a-7da1-32bb-9c79-cde9855116b5","timestamp":"2026-07-29 14:08:46","win_amount":0}
+2026-07-29 19:38:46 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:46 - Current Balance: 1152.2 in table users
+2026-07-29 19:38:46 - Calculation: 1152.2 - 50 = 1102.2
+2026-07-29 19:38:46 - DB primary update successful
+2026-07-29 19:38:46 - Response sent: code=0, balance=1102.2
+2026-07-29 19:38:46 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:47 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:47 - Game bet log inserted
+2026-07-29 19:38:47 - Connection closed
+2026-07-29 19:38:49 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"16905705954598731157","game_uid":"879","member_account":"99999225","serial_number":"a3f6874d-95c7-38dd-8a7b-1d1c994fe7ba","timestamp":"2026-07-29 14:08:49","win_amount":0}
+2026-07-29 19:38:49 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:49 - Current Balance: 1102.2 in table users
+2026-07-29 19:38:49 - Calculation: 1102.2 - 50 = 1052.2
+2026-07-29 19:38:49 - DB primary update successful
+2026-07-29 19:38:49 - Response sent: code=0, balance=1052.2
+2026-07-29 19:38:49 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:49 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:49 - Game bet log inserted
+2026-07-29 19:38:49 - Connection closed
+2026-07-29 19:38:51 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"9637914708902162594","game_uid":"879","member_account":"99999225","serial_number":"b96c3487-84a3-387e-b6a4-6ea94c2706eb","timestamp":"2026-07-29 14:08:51","win_amount":0}
+2026-07-29 19:38:51 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:51 - Current Balance: 1052.2 in table users
+2026-07-29 19:38:51 - Calculation: 1052.2 - 50 = 1002.2
+2026-07-29 19:38:51 - DB primary update successful
+2026-07-29 19:38:51 - Response sent: code=0, balance=1002.2
+2026-07-29 19:38:51 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:52 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:52 - Game bet log inserted
+2026-07-29 19:38:52 - Connection closed
+2026-07-29 19:38:54 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"3855488450664086384","game_uid":"879","member_account":"99999225","serial_number":"0ed8c66d-eb04-37b8-918e-67f669f52069","timestamp":"2026-07-29 14:08:54","win_amount":0}
+2026-07-29 19:38:54 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:54 - Current Balance: 1002.2 in table users
+2026-07-29 19:38:54 - Calculation: 1002.2 - 50 = 952.2
+2026-07-29 19:38:54 - DB primary update successful
+2026-07-29 19:38:54 - Response sent: code=0, balance=952.2
+2026-07-29 19:38:54 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:54 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:54 - Game bet log inserted
+2026-07-29 19:38:54 - Connection closed
+2026-07-29 19:38:56 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"4657341639166343215","game_uid":"879","member_account":"99999225","serial_number":"9fa57405-1d0a-3b6d-ba67-c701378bbf62","timestamp":"2026-07-29 14:08:56","win_amount":0}
+2026-07-29 19:38:56 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:56 - Current Balance: 952.2 in table users
+2026-07-29 19:38:56 - Calculation: 952.2 - 50 = 902.2
+2026-07-29 19:38:56 - DB primary update successful
+2026-07-29 19:38:56 - Response sent: code=0, balance=902.2
+2026-07-29 19:38:56 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:56 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:56 - Game bet log inserted
+2026-07-29 19:38:56 - Connection closed
+2026-07-29 19:38:58 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"12474061590868080857","game_uid":"879","member_account":"99999225","serial_number":"68e01a13-ff9d-3d5c-a96f-b98dd476d486","timestamp":"2026-07-29 14:08:58","win_amount":0}
+2026-07-29 19:38:58 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:38:58 - Current Balance: 902.2 in table users
+2026-07-29 19:38:58 - Calculation: 902.2 - 50 = 852.2
+2026-07-29 19:38:58 - DB primary update successful
+2026-07-29 19:38:58 - Response sent: code=0, balance=852.2
+2026-07-29 19:38:58 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:38:58 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:38:58 - Game bet log inserted
+2026-07-29 19:38:58 - Connection closed
+2026-07-29 19:39:00 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"9274938684851632581","game_uid":"879","member_account":"99999225","serial_number":"e9d1a9b9-0548-323d-82bb-a2664a10e142","timestamp":"2026-07-29 14:09:00","win_amount":0}
+2026-07-29 19:39:00 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:00 - Current Balance: 852.2 in table users
+2026-07-29 19:39:00 - Calculation: 852.2 - 50 = 802.2
+2026-07-29 19:39:00 - DB primary update successful
+2026-07-29 19:39:00 - Response sent: code=0, balance=802.2
+2026-07-29 19:39:00 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:01 - Game bet log inserted
+2026-07-29 19:39:01 - Connection closed
+2026-07-29 19:39:03 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"6297820154528151328","game_uid":"879","member_account":"99999225","serial_number":"e82ad9e0-c57b-39eb-9529-c4c1bb7d6d5c","timestamp":"2026-07-29 14:09:03","win_amount":20}
+2026-07-29 19:39:03 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 20
+2026-07-29 19:39:03 - Current Balance: 802.2 in table users
+2026-07-29 19:39:03 - Calculation: 802.2 - 50 = 752.2
+2026-07-29 19:39:03 - DB primary update successful
+2026-07-29 19:39:03 - Response sent: code=0, balance=772.2
+2026-07-29 19:39:03 - GGR | INR loss=30 → INR loss=30 (rate=1INR=1PKR)
+2026-07-29 19:39:03 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.90000000000000002220446049250313080847263336181640625}
+2026-07-29 19:39:03 - Game bet log inserted
+2026-07-29 19:39:03 - Connection closed
+2026-07-29 19:39:07 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"17412451464174188540","game_uid":"879","member_account":"99999225","serial_number":"dc9240c5-9ec0-39ff-a682-34cfdbe46517","timestamp":"2026-07-29 14:09:07","win_amount":0}
+2026-07-29 19:39:07 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:07 - Current Balance: 772.2 in table users
+2026-07-29 19:39:07 - Calculation: 772.2 - 50 = 722.2
+2026-07-29 19:39:07 - DB primary update successful
+2026-07-29 19:39:07 - Response sent: code=0, balance=722.2
+2026-07-29 19:39:07 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:08 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:08 - Game bet log inserted
+2026-07-29 19:39:08 - Connection closed
+2026-07-29 19:39:10 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"14040366582250353410","game_uid":"879","member_account":"99999225","serial_number":"451beef3-9e71-3252-b45e-51896a68bb92","timestamp":"2026-07-29 14:09:10","win_amount":50}
+2026-07-29 19:39:10 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 50
+2026-07-29 19:39:10 - Current Balance: 722.2 in table users
+2026-07-29 19:39:10 - Calculation: 722.2 - 50 = 672.2
+2026-07-29 19:39:10 - DB primary update successful
+2026-07-29 19:39:10 - Response sent: code=0, balance=722.2
+2026-07-29 19:39:10 - Game bet log inserted
+2026-07-29 19:39:10 - Connection closed
+2026-07-29 19:39:14 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"6403517386905106991","game_uid":"879","member_account":"99999225","serial_number":"5c0139c3-9c47-373b-bb31-1c6477710a2e","timestamp":"2026-07-29 14:09:14","win_amount":360}
+2026-07-29 19:39:14 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 360
+2026-07-29 19:39:14 - Current Balance: 722.2 in table users
+2026-07-29 19:39:14 - Calculation: 722.2 - 50 = 672.2
+2026-07-29 19:39:14 - DB primary update successful
+2026-07-29 19:39:14 - Response sent: code=0, balance=1032.2
+2026-07-29 19:39:14 - Game bet log inserted
+2026-07-29 19:39:14 - Connection closed
+2026-07-29 19:39:20 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"4832297750818339286","game_uid":"879","member_account":"99999225","serial_number":"d91685e3-032e-32cd-9dca-4386059fe48b","timestamp":"2026-07-29 14:09:19","win_amount":5}
+2026-07-29 19:39:20 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 5
+2026-07-29 19:39:20 - Current Balance: 1032.2 in table users
+2026-07-29 19:39:20 - Calculation: 1032.2 - 50 = 982.2
+2026-07-29 19:39:20 - DB primary update successful
+2026-07-29 19:39:20 - Response sent: code=0, balance=987.2
+2026-07-29 19:39:20 - GGR | INR loss=45 → INR loss=45 (rate=1INR=1PKR)
+2026-07-29 19:39:20 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.350000000000000088817841970012523233890533447265625}
+2026-07-29 19:39:20 - Game bet log inserted
+2026-07-29 19:39:20 - Connection closed
+2026-07-29 19:39:24 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"17384098414581919853","game_uid":"879","member_account":"99999225","serial_number":"a779c4ce-eb98-3571-acb7-fdca40f8794c","timestamp":"2026-07-29 14:09:23","win_amount":0}
+2026-07-29 19:39:24 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:24 - Current Balance: 987.2 in table users
+2026-07-29 19:39:24 - Calculation: 987.2 - 50 = 937.2
+2026-07-29 19:39:24 - DB primary update successful
+2026-07-29 19:39:24 - Response sent: code=0, balance=937.2
+2026-07-29 19:39:24 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:24 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:24 - Game bet log inserted
+2026-07-29 19:39:24 - Connection closed
+2026-07-29 19:39:26 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"9005734960854347838","game_uid":"879","member_account":"99999225","serial_number":"b5d92630-e024-3abb-87e6-d354dbf253b5","timestamp":"2026-07-29 14:09:26","win_amount":0}
+2026-07-29 19:39:26 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:26 - Current Balance: 937.2 in table users
+2026-07-29 19:39:26 - Calculation: 937.2 - 50 = 887.2
+2026-07-29 19:39:26 - DB primary update successful
+2026-07-29 19:39:26 - Response sent: code=0, balance=887.2
+2026-07-29 19:39:26 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:26 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:26 - Game bet log inserted
+2026-07-29 19:39:26 - Connection closed
+2026-07-29 19:39:28 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"12649831878759625693","game_uid":"879","member_account":"99999225","serial_number":"0760e0f4-b381-39d3-a246-bbd96745db70","timestamp":"2026-07-29 14:09:28","win_amount":0}
+2026-07-29 19:39:28 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:28 - Current Balance: 887.2 in table users
+2026-07-29 19:39:28 - Calculation: 887.2 - 50 = 837.2
+2026-07-29 19:39:28 - DB primary update successful
+2026-07-29 19:39:28 - Response sent: code=0, balance=837.2
+2026-07-29 19:39:28 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:28 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:28 - Game bet log inserted
+2026-07-29 19:39:28 - Connection closed
+2026-07-29 19:39:30 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"3946365218822766445","game_uid":"879","member_account":"99999225","serial_number":"5e5f2fe8-5544-3f77-aff9-e01c1edd64db","timestamp":"2026-07-29 14:09:30","win_amount":0}
+2026-07-29 19:39:30 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:30 - Current Balance: 837.2 in table users
+2026-07-29 19:39:30 - Calculation: 837.2 - 50 = 787.2
+2026-07-29 19:39:30 - DB primary update successful
+2026-07-29 19:39:30 - Response sent: code=0, balance=787.2
+2026-07-29 19:39:30 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:30 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:30 - Game bet log inserted
+2026-07-29 19:39:30 - Connection closed
+2026-07-29 19:39:33 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"15461215528348892953","game_uid":"879","member_account":"99999225","serial_number":"02017df3-f1da-383f-93a7-1d49b2e66d12","timestamp":"2026-07-29 14:09:33","win_amount":0}
+2026-07-29 19:39:33 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:33 - Current Balance: 787.2 in table users
+2026-07-29 19:39:33 - Calculation: 787.2 - 50 = 737.2
+2026-07-29 19:39:33 - DB primary update successful
+2026-07-29 19:39:33 - Response sent: code=0, balance=737.2
+2026-07-29 19:39:33 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:33 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:33 - Game bet log inserted
+2026-07-29 19:39:33 - Connection closed
+2026-07-29 19:39:35 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"16165224775072691895","game_uid":"879","member_account":"99999225","serial_number":"07c1ce1a-60ae-32de-95c0-d60fb2744276","timestamp":"2026-07-29 14:09:35","win_amount":0}
+2026-07-29 19:39:35 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:35 - Current Balance: 737.2 in table users
+2026-07-29 19:39:35 - Calculation: 737.2 - 50 = 687.2
+2026-07-29 19:39:35 - DB primary update successful
+2026-07-29 19:39:35 - Response sent: code=0, balance=687.2
+2026-07-29 19:39:35 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:35 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:35 - Game bet log inserted
+2026-07-29 19:39:35 - Connection closed
+2026-07-29 19:39:37 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"15965935890004458981","game_uid":"879","member_account":"99999225","serial_number":"00361c53-d49e-309f-9769-acbf03d49652","timestamp":"2026-07-29 14:09:37","win_amount":0}
+2026-07-29 19:39:37 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:39:37 - Current Balance: 687.2 in table users
+2026-07-29 19:39:37 - Calculation: 687.2 - 50 = 637.2
+2026-07-29 19:39:37 - DB primary update successful
+2026-07-29 19:39:37 - Response sent: code=0, balance=637.2
+2026-07-29 19:39:37 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:39:38 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:39:38 - Game bet log inserted
+2026-07-29 19:39:38 - Connection closed
+2026-07-29 19:39:42 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"15607016973450296374","game_uid":"879","member_account":"99999225","serial_number":"dde03b25-c317-3f3e-b2e0-b4c36331077f","timestamp":"2026-07-29 14:09:40","win_amount":160}
+2026-07-29 19:39:42 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 160
+2026-07-29 19:39:42 - Current Balance: 637.2 in table users
+2026-07-29 19:39:42 - Calculation: 637.2 - 50 = 587.2
+2026-07-29 19:39:42 - DB primary update successful
+2026-07-29 19:39:42 - Response sent: code=0, balance=747.2
+2026-07-29 19:39:42 - Game bet log inserted
+2026-07-29 19:39:42 - Connection closed
+2026-07-29 19:39:49 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"1837637502058708608","game_uid":"879","member_account":"99999225","serial_number":"2a36e50c-1c93-3b0f-8ddb-fe95fb4d036d","timestamp":"2026-07-29 14:09:47","win_amount":15}
+2026-07-29 19:39:49 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 15
+2026-07-29 19:39:49 - Current Balance: 747.2 in table users
+2026-07-29 19:39:49 - Calculation: 747.2 - 50 = 697.2
+2026-07-29 19:39:49 - DB primary update successful
+2026-07-29 19:39:49 - Response sent: code=0, balance=712.2
+2026-07-29 19:39:49 - GGR | INR loss=35 → INR loss=35 (rate=1INR=1PKR)
+2026-07-29 19:39:50 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.0500000000000000444089209850062616169452667236328125}
+2026-07-29 19:39:50 - Game bet log inserted
+2026-07-29 19:39:50 - Connection closed
+2026-07-29 19:39:53 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"12496994914525853167","game_uid":"879","member_account":"99999225","serial_number":"0cca7b99-cd3b-32e5-a0cc-56547792c579","timestamp":"2026-07-29 14:09:53","win_amount":97.5}
+2026-07-29 19:39:53 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 97.5
+2026-07-29 19:39:53 - Current Balance: 712.2 in table users
+2026-07-29 19:39:53 - Calculation: 712.2 - 50 = 662.2
+2026-07-29 19:39:53 - DB primary update successful
+2026-07-29 19:39:53 - Response sent: code=0, balance=759.7
+2026-07-29 19:39:53 - Game bet log inserted
+2026-07-29 19:39:53 - Connection closed
+2026-07-29 19:40:01 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"8445927638090463869","game_uid":"879","member_account":"99999225","serial_number":"746ede0e-949e-30ec-9213-195dde71b715","timestamp":"2026-07-29 14:10:01","win_amount":0}
+2026-07-29 19:40:01 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:01 - Current Balance: 759.7 in table users
+2026-07-29 19:40:01 - Calculation: 759.7 - 50 = 709.7
+2026-07-29 19:40:01 - DB primary update successful
+2026-07-29 19:40:01 - Response sent: code=0, balance=709.7
+2026-07-29 19:40:01 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:01 - Game bet log inserted
+2026-07-29 19:40:01 - Connection closed
+2026-07-29 19:40:03 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"6783234531455481047","game_uid":"879","member_account":"99999225","serial_number":"189c3674-5ca2-351e-aa32-09f6480d379a","timestamp":"2026-07-29 14:10:03","win_amount":0}
+2026-07-29 19:40:03 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:03 - Current Balance: 709.7 in table users
+2026-07-29 19:40:03 - Calculation: 709.7 - 50 = 659.7
+2026-07-29 19:40:03 - DB primary update successful
+2026-07-29 19:40:03 - Response sent: code=0, balance=659.7
+2026-07-29 19:40:03 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:03 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:03 - Game bet log inserted
+2026-07-29 19:40:03 - Connection closed
+2026-07-29 19:40:06 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"3298965408184351142","game_uid":"879","member_account":"99999225","serial_number":"b26fa8cd-25ce-31dd-9c33-2b137aecbb5f","timestamp":"2026-07-29 14:10:05","win_amount":0}
+2026-07-29 19:40:06 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:06 - Current Balance: 659.7 in table users
+2026-07-29 19:40:06 - Calculation: 659.7 - 50 = 609.7
+2026-07-29 19:40:06 - DB primary update successful
+2026-07-29 19:40:06 - Response sent: code=0, balance=609.7
+2026-07-29 19:40:06 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:06 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:06 - Game bet log inserted
+2026-07-29 19:40:06 - Connection closed
+2026-07-29 19:40:08 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"13963507257877280882","game_uid":"879","member_account":"99999225","serial_number":"a593dea3-1a5b-3300-ac39-9cb917e6dd57","timestamp":"2026-07-29 14:10:08","win_amount":0}
+2026-07-29 19:40:08 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:08 - Current Balance: 609.7 in table users
+2026-07-29 19:40:08 - Calculation: 609.7 - 50 = 559.7
+2026-07-29 19:40:08 - DB primary update successful
+2026-07-29 19:40:08 - Response sent: code=0, balance=559.7
+2026-07-29 19:40:08 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:09 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:09 - Game bet log inserted
+2026-07-29 19:40:09 - Connection closed
+2026-07-29 19:40:11 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"4905728809805754424","game_uid":"879","member_account":"99999225","serial_number":"eb4d62dc-29dc-319e-8b4b-ed77eddad948","timestamp":"2026-07-29 14:10:10","win_amount":0}
+2026-07-29 19:40:11 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:11 - Current Balance: 559.7 in table users
+2026-07-29 19:40:11 - Calculation: 559.7 - 50 = 509.7
+2026-07-29 19:40:11 - DB primary update successful
+2026-07-29 19:40:11 - Response sent: code=0, balance=509.7
+2026-07-29 19:40:11 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:11 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:11 - Game bet log inserted
+2026-07-29 19:40:11 - Connection closed
+2026-07-29 19:40:13 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"16911169390133785015","game_uid":"879","member_account":"99999225","serial_number":"58689d1e-f938-3271-b81b-7a516f0f1a59","timestamp":"2026-07-29 14:10:12","win_amount":80}
+2026-07-29 19:40:13 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 80
+2026-07-29 19:40:13 - Current Balance: 509.7 in table users
+2026-07-29 19:40:13 - Calculation: 509.7 - 50 = 459.7
+2026-07-29 19:40:13 - DB primary update successful
+2026-07-29 19:40:13 - Response sent: code=0, balance=539.7
+2026-07-29 19:40:13 - Game bet log inserted
+2026-07-29 19:40:13 - Connection closed
+2026-07-29 19:40:15 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"17000991720081472674","game_uid":"879","member_account":"99999225","serial_number":"f839d3b6-586b-3fc8-b66e-91fb2221a736","timestamp":"2026-07-29 14:10:15","win_amount":0}
+2026-07-29 19:40:15 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:15 - Current Balance: 539.7 in table users
+2026-07-29 19:40:15 - Calculation: 539.7 - 50 = 489.7
+2026-07-29 19:40:15 - DB primary update successful
+2026-07-29 19:40:15 - Response sent: code=0, balance=489.7
+2026-07-29 19:40:15 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:15 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:15 - Game bet log inserted
+2026-07-29 19:40:15 - Connection closed
+2026-07-29 19:40:17 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"8291337932703414796","game_uid":"879","member_account":"99999225","serial_number":"1935d3f1-1e82-3c30-a2b0-31c2ae13fefa","timestamp":"2026-07-29 14:10:17","win_amount":0}
+2026-07-29 19:40:17 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:17 - Current Balance: 489.7 in table users
+2026-07-29 19:40:17 - Calculation: 489.7 - 50 = 439.7
+2026-07-29 19:40:17 - DB primary update successful
+2026-07-29 19:40:17 - Response sent: code=0, balance=439.7
+2026-07-29 19:40:17 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:17 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:17 - Game bet log inserted
+2026-07-29 19:40:17 - Connection closed
+2026-07-29 19:40:20 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"5465690262133616710","game_uid":"879","member_account":"99999225","serial_number":"8b2930db-d13a-3bab-ba6d-46d7af225bc9","timestamp":"2026-07-29 14:10:20","win_amount":90}
+2026-07-29 19:40:20 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 90
+2026-07-29 19:40:20 - Current Balance: 439.7 in table users
+2026-07-29 19:40:20 - Calculation: 439.7 - 50 = 389.7
+2026-07-29 19:40:20 - DB primary update successful
+2026-07-29 19:40:20 - Response sent: code=0, balance=479.7
+2026-07-29 19:40:20 - Game bet log inserted
+2026-07-29 19:40:20 - Connection closed
+2026-07-29 19:40:29 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"9182110928698094623","game_uid":"879","member_account":"99999225","serial_number":"69fb7630-a697-32dd-8113-71f5c43ddf7f","timestamp":"2026-07-29 14:10:29","win_amount":0}
+2026-07-29 19:40:29 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:29 - Current Balance: 479.7 in table users
+2026-07-29 19:40:29 - Calculation: 479.7 - 50 = 429.7
+2026-07-29 19:40:29 - DB primary update successful
+2026-07-29 19:40:29 - Response sent: code=0, balance=429.7
+2026-07-29 19:40:29 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:29 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.5}
+2026-07-29 19:40:29 - Game bet log inserted
+2026-07-29 19:40:29 - Connection closed
+2026-07-29 19:40:33 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"14586938016840432307","game_uid":"879","member_account":"99999225","serial_number":"93cd7a42-f449-3ab4-8eaf-a8c11ca2b06e","timestamp":"2026-07-29 14:10:32","win_amount":0}
+2026-07-29 19:40:33 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:33 - Current Balance: 429.7 in table users
+2026-07-29 19:40:33 - Calculation: 429.7 - 50 = 379.7
+2026-07-29 19:40:33 - DB primary update successful
+2026-07-29 19:40:33 - Response sent: code=0, balance=379.7
+2026-07-29 19:40:33 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:33 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:40:33 - Game bet log inserted
+2026-07-29 19:40:33 - Connection closed
+2026-07-29 19:40:36 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"15474610644396225737","game_uid":"879","member_account":"99999225","serial_number":"0ff041b2-dc21-37f1-9c9f-882b9c461d4e","timestamp":"2026-07-29 14:10:36","win_amount":15}
+2026-07-29 19:40:36 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 15
+2026-07-29 19:40:36 - Current Balance: 379.7 in table users
+2026-07-29 19:40:36 - Calculation: 379.7 - 50 = 329.7
+2026-07-29 19:40:36 - DB primary update successful
+2026-07-29 19:40:36 - Response sent: code=0, balance=344.7
+2026-07-29 19:40:36 - GGR | INR loss=35 → INR loss=35 (rate=1INR=1PKR)
+2026-07-29 19:40:36 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":1.0500000000000000444089209850062616169452667236328125}
+2026-07-29 19:40:36 - Game bet log inserted
+2026-07-29 19:40:36 - Connection closed
+2026-07-29 19:40:42 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"7811209746345180352","game_uid":"879","member_account":"99999225","serial_number":"f31ed98d-70dd-3b92-b4e2-f71c8402aaa6","timestamp":"2026-07-29 14:10:42","win_amount":0}
+2026-07-29 19:40:42 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:42 - Current Balance: 344.7 in table users
+2026-07-29 19:40:42 - Calculation: 344.7 - 50 = 294.7
+2026-07-29 19:40:42 - DB primary update successful
+2026-07-29 19:40:42 - Response sent: code=0, balance=294.7
+2026-07-29 19:40:42 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:42 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:40:42 - Game bet log inserted
+2026-07-29 19:40:42 - Connection closed
+2026-07-29 19:40:45 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"3801700310197681333","game_uid":"879","member_account":"99999225","serial_number":"18633f52-9bf7-3959-a108-c1ef7bd8dd8b","timestamp":"2026-07-29 14:10:45","win_amount":0}
+2026-07-29 19:40:45 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:40:45 - Current Balance: 294.7 in table users
+2026-07-29 19:40:45 - Calculation: 294.7 - 50 = 244.7
+2026-07-29 19:40:45 - DB primary update successful
+2026-07-29 19:40:45 - Response sent: code=0, balance=244.7
+2026-07-29 19:40:45 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:40:45 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:40:45 - Game bet log inserted
+2026-07-29 19:40:45 - Connection closed
+2026-07-29 19:40:48 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"7135046969445596503","game_uid":"879","member_account":"99999225","serial_number":"1e898980-9119-328a-8fca-0e3ed8f42acc","timestamp":"2026-07-29 14:10:48","win_amount":25}
+2026-07-29 19:40:48 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 25
+2026-07-29 19:40:48 - Current Balance: 244.7 in table users
+2026-07-29 19:40:48 - Calculation: 244.7 - 50 = 194.7
+2026-07-29 19:40:48 - DB primary update successful
+2026-07-29 19:40:48 - Response sent: code=0, balance=219.7
+2026-07-29 19:40:48 - GGR | INR loss=25 → INR loss=25 (rate=1INR=1PKR)
+2026-07-29 19:40:49 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:40:49 - Game bet log inserted
+2026-07-29 19:40:49 - Connection closed
+2026-07-29 19:40:54 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"17393314035052721478","game_uid":"879","member_account":"99999225","serial_number":"d2156893-2161-3cf7-805b-9ab8e32b1b33","timestamp":"2026-07-29 14:10:53","win_amount":15}
+2026-07-29 19:40:54 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 15
+2026-07-29 19:40:54 - Current Balance: 219.7 in table users
+2026-07-29 19:40:54 - Calculation: 219.7 - 50 = 169.7
+2026-07-29 19:40:54 - DB primary update successful
+2026-07-29 19:40:54 - Response sent: code=0, balance=184.7
+2026-07-29 19:40:54 - GGR | INR loss=35 → INR loss=35 (rate=1INR=1PKR)
+2026-07-29 19:40:54 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:40:54 - Game bet log inserted
+2026-07-29 19:40:54 - Connection closed
+2026-07-29 19:40:59 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"18250685046322838662","game_uid":"879","member_account":"99999225","serial_number":"2fa6e2df-12ea-3dcc-9945-02906a4a7c77","timestamp":"2026-07-29 14:10:59","win_amount":40}
+2026-07-29 19:40:59 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 40
+2026-07-29 19:40:59 - Current Balance: 184.7 in table users
+2026-07-29 19:40:59 - Calculation: 184.7 - 50 = 134.7
+2026-07-29 19:40:59 - DB primary update successful
+2026-07-29 19:40:59 - Response sent: code=0, balance=174.7
+2026-07-29 19:40:59 - GGR | INR loss=10 → INR loss=10 (rate=1INR=1PKR)
+2026-07-29 19:40:59 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:40:59 - Game bet log inserted
+2026-07-29 19:40:59 - Connection closed
+2026-07-29 19:41:04 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"10040866481588549371","game_uid":"879","member_account":"99999225","serial_number":"adbf4fba-454f-3fc5-b6c4-7462ecb53dd2","timestamp":"2026-07-29 14:11:04","win_amount":0}
+2026-07-29 19:41:04 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:41:04 - Current Balance: 174.7 in table users
+2026-07-29 19:41:04 - Calculation: 174.7 - 50 = 124.7
+2026-07-29 19:41:04 - DB primary update successful
+2026-07-29 19:41:04 - Response sent: code=0, balance=124.7
+2026-07-29 19:41:04 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:41:05 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:05 - Game bet log inserted
+2026-07-29 19:41:05 - Connection closed
+2026-07-29 19:41:07 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"4620276363382177444","game_uid":"879","member_account":"99999225","serial_number":"cf841712-cfbf-32ed-8611-c31870571037","timestamp":"2026-07-29 14:11:07","win_amount":0}
+2026-07-29 19:41:07 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:41:07 - Current Balance: 124.7 in table users
+2026-07-29 19:41:07 - Calculation: 124.7 - 50 = 74.7
+2026-07-29 19:41:07 - DB primary update successful
+2026-07-29 19:41:07 - Response sent: code=0, balance=74.7
+2026-07-29 19:41:07 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:41:08 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:08 - Game bet log inserted
+2026-07-29 19:41:08 - Connection closed
+2026-07-29 19:41:11 - CALLBACK RAW: {"bet_amount":50,"game_id":879,"game_name":"Super Ace","game_round":"10467892080953340545","game_uid":"879","member_account":"99999225","serial_number":"6bed9c2a-4c7b-3344-ad05-82a241ac1e47","timestamp":"2026-07-29 14:11:11","win_amount":0}
+2026-07-29 19:41:11 - Extracted user_id: 225 | Action: bet | Bet: 50 | Win: 0
+2026-07-29 19:41:11 - Current Balance: 74.7 in table users
+2026-07-29 19:41:11 - Calculation: 74.7 - 50 = 24.7
+2026-07-29 19:41:11 - DB primary update successful
+2026-07-29 19:41:11 - Response sent: code=0, balance=24.7
+2026-07-29 19:41:11 - GGR | INR loss=50 → INR loss=50 (rate=1INR=1PKR)
+2026-07-29 19:41:11 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:11 - Game bet log inserted
+2026-07-29 19:41:11 - Connection closed
+2026-07-29 19:41:19 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"2484266701581270483","game_uid":"879","member_account":"99999225","serial_number":"0bd32728-4691-3d08-8027-c23340d3d0b0","timestamp":"2026-07-29 14:11:19","win_amount":0}
+2026-07-29 19:41:19 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 0
+2026-07-29 19:41:19 - Current Balance: 24.7 in table users
+2026-07-29 19:41:19 - Calculation: 24.7 - 2 = 22.7
+2026-07-29 19:41:19 - DB primary update successful
+2026-07-29 19:41:19 - Response sent: code=0, balance=22.7
+2026-07-29 19:41:19 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-29 19:41:20 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:20 - Game bet log inserted
+2026-07-29 19:41:20 - Connection closed
+2026-07-29 19:41:23 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"8937698821548292073","game_uid":"879","member_account":"99999225","serial_number":"05ea7e35-11c2-3de2-a4f5-933be576a2fa","timestamp":"2026-07-29 14:11:23","win_amount":0.4}
+2026-07-29 19:41:23 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 0.4
+2026-07-29 19:41:23 - Current Balance: 22.7 in table users
+2026-07-29 19:41:23 - Calculation: 22.7 - 2 = 20.7
+2026-07-29 19:41:23 - DB primary update successful
+2026-07-29 19:41:23 - Response sent: code=0, balance=21.1
+2026-07-29 19:41:23 - GGR | INR loss=1.6 → INR loss=1.6 (rate=1INR=1PKR)
+2026-07-29 19:41:23 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:23 - Game bet log inserted
+2026-07-29 19:41:23 - Connection closed
+2026-07-29 19:41:28 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"10749377840534271494","game_uid":"879","member_account":"99999225","serial_number":"a2aa60cd-50e4-3a48-9a1f-6ad1bc3ff6b5","timestamp":"2026-07-29 14:11:28","win_amount":0}
+2026-07-29 19:41:28 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 0
+2026-07-29 19:41:28 - Current Balance: 21.1 in table users
+2026-07-29 19:41:28 - Calculation: 21.1 - 2 = 19.1
+2026-07-29 19:41:28 - DB primary update successful
+2026-07-29 19:41:28 - Response sent: code=0, balance=19.1
+2026-07-29 19:41:28 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-29 19:41:28 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:28 - Game bet log inserted
+2026-07-29 19:41:28 - Connection closed
+2026-07-29 19:41:31 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"14355650881695201237","game_uid":"879","member_account":"99999225","serial_number":"d73f3a80-0f15-39da-a3d8-3e0688722979","timestamp":"2026-07-29 14:11:31","win_amount":0}
+2026-07-29 19:41:31 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 0
+2026-07-29 19:41:31 - Current Balance: 19.1 in table users
+2026-07-29 19:41:31 - Calculation: 19.1 - 2 = 17.1
+2026-07-29 19:41:31 - DB primary update successful
+2026-07-29 19:41:31 - Response sent: code=0, balance=17.1
+2026-07-29 19:41:31 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-29 19:41:31 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:31 - Game bet log inserted
+2026-07-29 19:41:31 - Connection closed
+2026-07-29 19:41:35 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"3879176275179290513","game_uid":"879","member_account":"99999225","serial_number":"c3315eb1-7393-3278-b70f-ab99486cf0ba","timestamp":"2026-07-29 14:11:34","win_amount":6.8}
+2026-07-29 19:41:35 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 6.8
+2026-07-29 19:41:35 - Current Balance: 17.1 in table users
+2026-07-29 19:41:35 - Calculation: 17.1 - 2 = 15.1
+2026-07-29 19:41:35 - DB primary update successful
+2026-07-29 19:41:35 - Response sent: code=0, balance=21.9
+2026-07-29 19:41:35 - Game bet log inserted
+2026-07-29 19:41:35 - Connection closed
+2026-07-29 19:41:43 - CALLBACK RAW: {"bet_amount":2,"game_id":879,"game_name":"Super Ace","game_round":"15240289284472254617","game_uid":"879","member_account":"99999225","serial_number":"9af11333-8a57-3f7b-a94f-ee43448e419d","timestamp":"2026-07-29 14:11:43","win_amount":26.2}
+2026-07-29 19:41:43 - Extracted user_id: 225 | Action: bet | Bet: 2 | Win: 26.2
+2026-07-29 19:41:43 - Current Balance: 21.9 in table users
+2026-07-29 19:41:43 - Calculation: 21.9 - 2 = 19.9
+2026-07-29 19:41:43 - DB primary update successful
+2026-07-29 19:41:43 - Response sent: code=0, balance=46.1
+2026-07-29 19:41:43 - Game bet log inserted
+2026-07-29 19:41:43 - Connection closed
+2026-07-29 19:41:57 - CALLBACK RAW: {"bet_amount":10,"game_id":879,"game_name":"Super Ace","game_round":"18282212235281641515","game_uid":"879","member_account":"99999225","serial_number":"a8a0070a-eb94-3b3b-b015-6669b787a0e7","timestamp":"2026-07-29 14:11:57","win_amount":0}
+2026-07-29 19:41:57 - Extracted user_id: 225 | Action: bet | Bet: 10 | Win: 0
+2026-07-29 19:41:57 - Current Balance: 46.1 in table users
+2026-07-29 19:41:57 - Calculation: 46.1 - 10 = 36.1
+2026-07-29 19:41:57 - DB primary update successful
+2026-07-29 19:41:57 - Response sent: code=0, balance=36.1
+2026-07-29 19:41:57 - GGR | INR loss=10 → INR loss=10 (rate=1INR=1PKR)
+2026-07-29 19:41:58 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:41:58 - Game bet log inserted
+2026-07-29 19:41:58 - Connection closed
+2026-07-29 19:42:00 - CALLBACK RAW: {"bet_amount":10,"game_id":879,"game_name":"Super Ace","game_round":"2052344758194878664","game_uid":"879","member_account":"99999225","serial_number":"738324e3-838c-393d-b676-8240c52aff83","timestamp":"2026-07-29 14:12:00","win_amount":0}
+2026-07-29 19:42:00 - Extracted user_id: 225 | Action: bet | Bet: 10 | Win: 0
+2026-07-29 19:42:00 - Current Balance: 36.1 in table users
+2026-07-29 19:42:00 - Calculation: 36.1 - 10 = 26.1
+2026-07-29 19:42:00 - DB primary update successful
+2026-07-29 19:42:00 - Response sent: code=0, balance=26.1
+2026-07-29 19:42:00 - GGR | INR loss=10 → INR loss=10 (rate=1INR=1PKR)
+2026-07-29 19:42:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:42:01 - Game bet log inserted
+2026-07-29 19:42:01 - Connection closed
+2026-07-29 19:42:04 - CALLBACK RAW: {"bet_amount":10,"game_id":879,"game_name":"Super Ace","game_round":"16840669987202675995","game_uid":"879","member_account":"99999225","serial_number":"1573cd1e-4e2f-3c22-9333-e1150b44e7a0","timestamp":"2026-07-29 14:12:04","win_amount":0}
+2026-07-29 19:42:04 - Extracted user_id: 225 | Action: bet | Bet: 10 | Win: 0
+2026-07-29 19:42:04 - Current Balance: 26.1 in table users
+2026-07-29 19:42:04 - Calculation: 26.1 - 10 = 16.1
+2026-07-29 19:42:04 - DB primary update successful
+2026-07-29 19:42:04 - Response sent: code=0, balance=16.1
+2026-07-29 19:42:04 - GGR | INR loss=10 → INR loss=10 (rate=1INR=1PKR)
+2026-07-29 19:42:04 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:42:04 - Game bet log inserted
+2026-07-29 19:42:04 - Connection closed
+2026-07-29 19:42:07 - CALLBACK RAW: {"bet_amount":10,"game_id":879,"game_name":"Super Ace","game_round":"4276829723692383341","game_uid":"879","member_account":"99999225","serial_number":"0de474ab-2eb1-317d-ba82-efd3a40c7238","timestamp":"2026-07-29 14:12:07","win_amount":0}
+2026-07-29 19:42:07 - Extracted user_id: 225 | Action: bet | Bet: 10 | Win: 0
+2026-07-29 19:42:07 - Current Balance: 16.1 in table users
+2026-07-29 19:42:07 - Calculation: 16.1 - 10 = 6.1
+2026-07-29 19:42:07 - DB primary update successful
+2026-07-29 19:42:07 - Response sent: code=0, balance=6.1
+2026-07-29 19:42:07 - GGR | INR loss=10 → INR loss=10 (rate=1INR=1PKR)
+2026-07-29 19:42:08 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:42:08 - Game bet log inserted
+2026-07-29 19:42:08 - Connection closed
+2026-07-29 19:42:12 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14637258716482385722","game_uid":"879","member_account":"99999225","serial_number":"88ae4ba7-7b9e-33c0-8b72-b42f5f507113","timestamp":"2026-07-29 14:12:12","win_amount":0}
+2026-07-29 19:42:12 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-29 19:42:12 - Current Balance: 6.1 in table users
+2026-07-29 19:42:12 - Calculation: 6.1 - 5 = 1.1
+2026-07-29 19:42:12 - DB primary update successful
+2026-07-29 19:42:12 - Response sent: code=0, balance=1.1
+2026-07-29 19:42:12 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-29 19:42:13 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":false,"error":"insufficient_ggr_balance"}
+2026-07-29 19:42:13 - Game bet log inserted
+2026-07-29 19:42:13 - Connection closed
+2026-07-30 15:35:53 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14347126759998371522","game_uid":"879","member_account":"99999225","serial_number":"30357f99-380b-36a9-8e15-f8977bc23b02","timestamp":"2026-07-30 10:05:49","win_amount":0}
+2026-07-30 15:35:53 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:35:53 - Current Balance: 1146.1 in table users
+2026-07-30 15:35:53 - Calculation: 1146.1 - 5 = 1141.1
+2026-07-30 15:35:53 - DB primary update successful
+2026-07-30 15:35:53 - Response sent: code=0, balance=1141.1
+2026-07-30 15:35:53 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:35:53 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:35:53 - Game bet log inserted
+2026-07-30 15:35:53 - Connection closed
+2026-07-30 15:35:57 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14816288766420466836","game_uid":"879","member_account":"99999225","serial_number":"a53098f5-57e0-3a9b-9963-1f0f274d2a91","timestamp":"2026-07-30 10:05:57","win_amount":0}
+2026-07-30 15:35:57 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:35:57 - Current Balance: 1141.1 in table users
+2026-07-30 15:35:57 - Calculation: 1141.1 - 5 = 1136.1
+2026-07-30 15:35:57 - DB primary update successful
+2026-07-30 15:35:57 - Response sent: code=0, balance=1136.1
+2026-07-30 15:35:57 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:35:57 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:35:57 - Game bet log inserted
+2026-07-30 15:35:57 - Connection closed
+2026-07-30 15:36:02 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8339272049139269506","game_uid":"879","member_account":"99999225","serial_number":"90e112f2-7479-3f83-a431-897dc402b3da","timestamp":"2026-07-30 10:06:02","win_amount":0}
+2026-07-30 15:36:02 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:02 - Current Balance: 1136.1 in table users
+2026-07-30 15:36:02 - Calculation: 1136.1 - 5 = 1131.1
+2026-07-30 15:36:02 - DB primary update successful
+2026-07-30 15:36:02 - Response sent: code=0, balance=1131.1
+2026-07-30 15:36:02 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:02 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:02 - Game bet log inserted
+2026-07-30 15:36:02 - Connection closed
+2026-07-30 15:36:07 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"3646976239723689127","game_uid":"879","member_account":"99999225","serial_number":"1b0cb5d6-744d-377a-8283-4910c81113f4","timestamp":"2026-07-30 10:06:07","win_amount":14}
+2026-07-30 15:36:07 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 14
+2026-07-30 15:36:07 - Current Balance: 1131.1 in table users
+2026-07-30 15:36:07 - Calculation: 1131.1 - 5 = 1126.1
+2026-07-30 15:36:07 - DB primary update successful
+2026-07-30 15:36:07 - Response sent: code=0, balance=1140.1
+2026-07-30 15:36:07 - Game bet log inserted
+2026-07-30 15:36:07 - Connection closed
+2026-07-30 15:36:16 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"10464520271170384776","game_uid":"879","member_account":"99999225","serial_number":"be3398ff-1f54-3631-bfdf-6a686a92446d","timestamp":"2026-07-30 10:06:15","win_amount":0}
+2026-07-30 15:36:16 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:16 - Current Balance: 1140.1 in table users
+2026-07-30 15:36:16 - Calculation: 1140.1 - 5 = 1135.1
+2026-07-30 15:36:16 - DB primary update successful
+2026-07-30 15:36:16 - Response sent: code=0, balance=1135.1
+2026-07-30 15:36:16 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:16 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:16 - Game bet log inserted
+2026-07-30 15:36:16 - Connection closed
+2026-07-30 15:36:20 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4976473653032270942","game_uid":"879","member_account":"99999225","serial_number":"b8e4aff7-0e6e-37bf-a435-90019fe4e5a4","timestamp":"2026-07-30 10:06:20","win_amount":0}
+2026-07-30 15:36:20 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:20 - Current Balance: 1135.1 in table users
+2026-07-30 15:36:20 - Calculation: 1135.1 - 5 = 1130.1
+2026-07-30 15:36:20 - DB primary update successful
+2026-07-30 15:36:20 - Response sent: code=0, balance=1130.1
+2026-07-30 15:36:20 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:20 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:20 - Game bet log inserted
+2026-07-30 15:36:20 - Connection closed
+2026-07-30 15:36:25 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8318608000273101266","game_uid":"879","member_account":"99999225","serial_number":"a1f2e3e8-d462-3689-825b-54a0f07ababf","timestamp":"2026-07-30 10:06:25","win_amount":5}
+2026-07-30 15:36:25 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 5
+2026-07-30 15:36:25 - Current Balance: 1130.1 in table users
+2026-07-30 15:36:25 - Calculation: 1130.1 - 5 = 1125.1
+2026-07-30 15:36:25 - DB primary update successful
+2026-07-30 15:36:25 - Response sent: code=0, balance=1130.1
+2026-07-30 15:36:25 - Game bet log inserted
+2026-07-30 15:36:25 - Connection closed
+2026-07-30 15:36:31 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"1858844708221632154","game_uid":"879","member_account":"99999225","serial_number":"7a8cc8d0-bbe9-31c5-ae09-514c6fa950bc","timestamp":"2026-07-30 10:06:31","win_amount":0}
+2026-07-30 15:36:31 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:31 - Current Balance: 1130.1 in table users
+2026-07-30 15:36:31 - Calculation: 1130.1 - 5 = 1125.1
+2026-07-30 15:36:31 - DB primary update successful
+2026-07-30 15:36:31 - Response sent: code=0, balance=1125.1
+2026-07-30 15:36:31 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:31 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:31 - Game bet log inserted
+2026-07-30 15:36:31 - Connection closed
+2026-07-30 15:36:35 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"5785199922633520244","game_uid":"879","member_account":"99999225","serial_number":"1f7c1e97-5169-35da-ad88-6927ca245e1b","timestamp":"2026-07-30 10:06:35","win_amount":4.25}
+2026-07-30 15:36:35 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 4.25
+2026-07-30 15:36:35 - Current Balance: 1125.1 in table users
+2026-07-30 15:36:35 - Calculation: 1125.1 - 5 = 1120.1
+2026-07-30 15:36:35 - DB primary update successful
+2026-07-30 15:36:35 - Response sent: code=0, balance=1124.35
+2026-07-30 15:36:35 - GGR | INR loss=0.75 → INR loss=0.75 (rate=1INR=1PKR)
+2026-07-30 15:36:35 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.0200000000000000004163336342344337026588618755340576171875}
+2026-07-30 15:36:35 - Game bet log inserted
+2026-07-30 15:36:35 - Connection closed
+2026-07-30 15:36:41 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"12374885619388727032","game_uid":"879","member_account":"99999225","serial_number":"e861364b-1f5a-34ff-9d90-29e3752586d1","timestamp":"2026-07-30 10:06:41","win_amount":0}
+2026-07-30 15:36:41 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:41 - Current Balance: 1124.35 in table users
+2026-07-30 15:36:41 - Calculation: 1124.35 - 5 = 1119.35
+2026-07-30 15:36:41 - DB primary update successful
+2026-07-30 15:36:41 - Response sent: code=0, balance=1119.35
+2026-07-30 15:36:41 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:41 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:41 - Game bet log inserted
+2026-07-30 15:36:41 - Connection closed
+2026-07-30 15:36:45 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"9109768926903481670","game_uid":"879","member_account":"99999225","serial_number":"0ad20a4d-e493-3495-a0f0-b8cb149fbe51","timestamp":"2026-07-30 10:06:45","win_amount":0}
+2026-07-30 15:36:45 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:45 - Current Balance: 1119.35 in table users
+2026-07-30 15:36:45 - Calculation: 1119.35 - 5 = 1114.35
+2026-07-30 15:36:45 - DB primary update successful
+2026-07-30 15:36:45 - Response sent: code=0, balance=1114.35
+2026-07-30 15:36:45 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:45 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:45 - Game bet log inserted
+2026-07-30 15:36:45 - Connection closed
+2026-07-30 15:36:49 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"2168872629429418120","game_uid":"879","member_account":"99999225","serial_number":"2d7f5967-083c-3f5a-af4c-0c197454205e","timestamp":"2026-07-30 10:06:49","win_amount":0}
+2026-07-30 15:36:49 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:36:49 - Current Balance: 1114.35 in table users
+2026-07-30 15:36:49 - Calculation: 1114.35 - 5 = 1109.35
+2026-07-30 15:36:49 - DB primary update successful
+2026-07-30 15:36:49 - Response sent: code=0, balance=1109.35
+2026-07-30 15:36:49 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:36:50 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:36:50 - Game bet log inserted
+2026-07-30 15:36:50 - Connection closed
+2026-07-30 15:36:53 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"270321399500255849","game_uid":"879","member_account":"99999225","serial_number":"bfa861f8-398e-3f88-a736-18041d755fae","timestamp":"2026-07-30 10:06:53","win_amount":1.5}
+2026-07-30 15:36:53 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 1.5
+2026-07-30 15:36:53 - Current Balance: 1109.35 in table users
+2026-07-30 15:36:53 - Calculation: 1109.35 - 5 = 1104.35
+2026-07-30 15:36:53 - DB primary update successful
+2026-07-30 15:36:53 - Response sent: code=0, balance=1105.85
+2026-07-30 15:36:53 - GGR | INR loss=3.5 → INR loss=3.5 (rate=1INR=1PKR)
+2026-07-30 15:36:53 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1000000000000000055511151231257827021181583404541015625}
+2026-07-30 15:36:53 - Game bet log inserted
+2026-07-30 15:36:53 - Connection closed
+2026-07-30 15:37:01 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8036015338849580708","game_uid":"879","member_account":"99999225","serial_number":"151445ac-216f-380b-b165-79a2c174d7b0","timestamp":"2026-07-30 10:07:01","win_amount":0}
+2026-07-30 15:37:01 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:37:01 - Current Balance: 1105.85 in table users
+2026-07-30 15:37:01 - Calculation: 1105.85 - 5 = 1100.85
+2026-07-30 15:37:01 - DB primary update successful
+2026-07-30 15:37:01 - Response sent: code=0, balance=1100.85
+2026-07-30 15:37:01 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:37:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:37:01 - Game bet log inserted
+2026-07-30 15:37:01 - Connection closed
+2026-07-30 15:37:05 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14171457098759942900","game_uid":"879","member_account":"99999225","serial_number":"894aac5d-0ccc-34bd-a9a9-5f0a36eb9492","timestamp":"2026-07-30 10:07:05","win_amount":0}
+2026-07-30 15:37:05 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:37:05 - Current Balance: 1100.85 in table users
+2026-07-30 15:37:05 - Calculation: 1100.85 - 5 = 1095.85
+2026-07-30 15:37:05 - DB primary update successful
+2026-07-30 15:37:05 - Response sent: code=0, balance=1095.85
+2026-07-30 15:37:05 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:37:06 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:37:06 - Game bet log inserted
+2026-07-30 15:37:06 - Connection closed
+2026-07-30 15:37:09 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"9552542484584216878","game_uid":"879","member_account":"99999225","serial_number":"437ddf8f-ee90-3065-96d1-52b0afe6fff6","timestamp":"2026-07-30 10:07:09","win_amount":0}
+2026-07-30 15:37:09 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:37:09 - Current Balance: 1095.85 in table users
+2026-07-30 15:37:09 - Calculation: 1095.85 - 5 = 1090.85
+2026-07-30 15:37:09 - DB primary update successful
+2026-07-30 15:37:09 - Response sent: code=0, balance=1090.85
+2026-07-30 15:37:09 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:37:09 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:37:09 - Game bet log inserted
+2026-07-30 15:37:09 - Connection closed
+2026-07-30 15:37:13 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"5325532083140834382","game_uid":"879","member_account":"99999225","serial_number":"58fd43c4-0bea-343b-ac19-19a04f92b4e6","timestamp":"2026-07-30 10:07:12","win_amount":0}
+2026-07-30 15:37:13 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:37:13 - Current Balance: 1090.85 in table users
+2026-07-30 15:37:13 - Calculation: 1090.85 - 5 = 1085.85
+2026-07-30 15:37:13 - DB primary update successful
+2026-07-30 15:37:13 - Response sent: code=0, balance=1085.85
+2026-07-30 15:37:13 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:37:13 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:37:13 - Game bet log inserted
+2026-07-30 15:37:13 - Connection closed
+2026-07-30 15:37:17 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4523045859550443275","game_uid":"879","member_account":"99999225","serial_number":"366762df-81cb-3e93-922f-7a6654c0a324","timestamp":"2026-07-30 10:07:17","win_amount":0}
+2026-07-30 15:37:17 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:37:17 - Current Balance: 1085.85 in table users
+2026-07-30 15:37:17 - Calculation: 1085.85 - 5 = 1080.85
+2026-07-30 15:37:17 - DB primary update successful
+2026-07-30 15:37:17 - Response sent: code=0, balance=1080.85
+2026-07-30 15:37:17 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:37:17 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:37:17 - Game bet log inserted
+2026-07-30 15:37:17 - Connection closed
+2026-07-30 15:37:21 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"125347458303409535","game_uid":"879","member_account":"99999225","serial_number":"bd73370a-6a70-37f7-8ab7-241e79f1e3f9","timestamp":"2026-07-30 10:07:21","win_amount":0}
+2026-07-30 15:37:21 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:37:21 - Current Balance: 1080.85 in table users
+2026-07-30 15:37:21 - Calculation: 1080.85 - 5 = 1075.85
+2026-07-30 15:37:21 - DB primary update successful
+2026-07-30 15:37:21 - Response sent: code=0, balance=1075.85
+2026-07-30 15:37:21 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:37:21 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:37:21 - Game bet log inserted
+2026-07-30 15:37:21 - Connection closed
+2026-07-30 15:37:24 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14563081853471438549","game_uid":"879","member_account":"99999225","serial_number":"0ba65963-86b2-322e-a7cd-f2e30fc1d5bc","timestamp":"2026-07-30 10:07:24","win_amount":3}
+2026-07-30 15:37:24 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 3
+2026-07-30 15:37:24 - Current Balance: 1075.85 in table users
+2026-07-30 15:37:24 - Calculation: 1075.85 - 5 = 1070.85
+2026-07-30 15:37:24 - DB primary update successful
+2026-07-30 15:37:24 - Response sent: code=0, balance=1073.85
+2026-07-30 15:37:24 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-30 15:37:24 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.059999999999999997779553950749686919152736663818359375}
+2026-07-30 15:37:24 - Game bet log inserted
+2026-07-30 15:37:24 - Connection closed
+2026-07-30 15:41:41 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"5025761718419405890","game_uid":"879","member_account":"99999225","serial_number":"018c8661-2458-3e44-8e7e-f8842144120c","timestamp":"2026-07-30 10:11:38","win_amount":3}
+2026-07-30 15:41:41 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 3
+2026-07-30 15:41:41 - Current Balance: 1073.85 in table users
+2026-07-30 15:41:41 - Calculation: 1073.85 - 5 = 1068.85
+2026-07-30 15:41:41 - DB primary update successful
+2026-07-30 15:41:41 - Response sent: code=0, balance=1071.85
+2026-07-30 15:41:41 - GGR | INR loss=2 → INR loss=2 (rate=1INR=1PKR)
+2026-07-30 15:41:41 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.059999999999999997779553950749686919152736663818359375}
+2026-07-30 15:41:41 - Game bet log inserted
+2026-07-30 15:41:41 - Connection closed
+2026-07-30 15:41:52 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11331515391868550599","game_uid":"879","member_account":"99999225","serial_number":"c2e74a8d-2fef-3344-b39e-b56e6bb94909","timestamp":"2026-07-30 10:11:49","win_amount":0}
+2026-07-30 15:41:52 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:41:52 - Current Balance: 1071.85 in table users
+2026-07-30 15:41:52 - Calculation: 1071.85 - 5 = 1066.85
+2026-07-30 15:41:52 - DB primary update successful
+2026-07-30 15:41:52 - Response sent: code=0, balance=1066.85
+2026-07-30 15:41:52 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:41:52 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:41:52 - Game bet log inserted
+2026-07-30 15:41:52 - Connection closed
+2026-07-30 15:41:55 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"10464017901402930154","game_uid":"879","member_account":"99999225","serial_number":"2aa36eeb-a76e-3109-aff8-49e69b6b85f1","timestamp":"2026-07-30 10:11:55","win_amount":5.5}
+2026-07-30 15:41:55 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 5.5
+2026-07-30 15:41:55 - Current Balance: 1066.85 in table users
+2026-07-30 15:41:55 - Calculation: 1066.85 - 5 = 1061.85
+2026-07-30 15:41:55 - DB primary update successful
+2026-07-30 15:41:55 - Response sent: code=0, balance=1067.35
+2026-07-30 15:41:55 - Game bet log inserted
+2026-07-30 15:41:55 - Connection closed
+2026-07-30 15:42:05 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"17125443300985943951","game_uid":"879","member_account":"99999225","serial_number":"cc7f1fcd-6a6a-3896-89fc-c7ac66e56da2","timestamp":"2026-07-30 10:12:05","win_amount":0}
+2026-07-30 15:42:05 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:42:05 - Current Balance: 1067.35 in table users
+2026-07-30 15:42:05 - Calculation: 1067.35 - 5 = 1062.35
+2026-07-30 15:42:05 - DB primary update successful
+2026-07-30 15:42:05 - Response sent: code=0, balance=1062.35
+2026-07-30 15:42:05 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:42:06 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:42:06 - Game bet log inserted
+2026-07-30 15:42:06 - Connection closed
+2026-07-30 15:42:10 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"9757008466633896041","game_uid":"879","member_account":"99999225","serial_number":"bd4284e4-f38e-30d8-a640-1ec9e616dce0","timestamp":"2026-07-30 10:12:10","win_amount":94.5}
+2026-07-30 15:42:10 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 94.5
+2026-07-30 15:42:10 - Current Balance: 1062.35 in table users
+2026-07-30 15:42:10 - Calculation: 1062.35 - 5 = 1057.35
+2026-07-30 15:42:10 - DB primary update successful
+2026-07-30 15:42:10 - Response sent: code=0, balance=1151.85
+2026-07-30 15:42:10 - Game bet log inserted
+2026-07-30 15:42:10 - Connection closed
+2026-07-30 15:42:30 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"485201253940149042","game_uid":"879","member_account":"99999225","serial_number":"039a5d00-b979-3abe-971c-74fec517a4d5","timestamp":"2026-07-30 10:12:30","win_amount":11}
+2026-07-30 15:42:30 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 11
+2026-07-30 15:42:30 - Current Balance: 1151.85 in table users
+2026-07-30 15:42:30 - Calculation: 1151.85 - 5 = 1146.85
+2026-07-30 15:42:30 - DB primary update successful
+2026-07-30 15:42:30 - Response sent: code=0, balance=1157.85
+2026-07-30 15:42:30 - Game bet log inserted
+2026-07-30 15:42:30 - Connection closed
+2026-07-30 15:42:38 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"2981920807906459040","game_uid":"879","member_account":"99999225","serial_number":"ef02fc7a-77a3-32ea-9d3c-c17399834f7d","timestamp":"2026-07-30 10:12:38","win_amount":78.5}
+2026-07-30 15:42:38 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 78.5
+2026-07-30 15:42:38 - Current Balance: 1157.85 in table users
+2026-07-30 15:42:38 - Calculation: 1157.85 - 5 = 1152.85
+2026-07-30 15:42:38 - DB primary update successful
+2026-07-30 15:42:38 - Response sent: code=0, balance=1231.35
+2026-07-30 15:42:38 - Game bet log inserted
+2026-07-30 15:42:38 - Connection closed
+2026-07-30 15:42:57 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"85862146865902059","game_uid":"879","member_account":"99999225","serial_number":"d994ddba-72a3-3ed4-9090-b3018b0f6ab5","timestamp":"2026-07-30 10:12:57","win_amount":20}
+2026-07-30 15:42:57 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 20
+2026-07-30 15:42:57 - Current Balance: 1231.35 in table users
+2026-07-30 15:42:57 - Calculation: 1231.35 - 5 = 1226.35
+2026-07-30 15:42:57 - DB primary update successful
+2026-07-30 15:42:57 - Response sent: code=0, balance=1246.35
+2026-07-30 15:42:57 - Game bet log inserted
+2026-07-30 15:42:57 - Connection closed
+2026-07-30 15:43:06 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"1177163448513345032","game_uid":"879","member_account":"99999225","serial_number":"6fc956e3-e82e-3f78-8eb8-a9a24beb99ff","timestamp":"2026-07-30 10:13:06","win_amount":0}
+2026-07-30 15:43:06 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:06 - Current Balance: 1246.35 in table users
+2026-07-30 15:43:06 - Calculation: 1246.35 - 5 = 1241.35
+2026-07-30 15:43:06 - DB primary update successful
+2026-07-30 15:43:06 - Response sent: code=0, balance=1241.35
+2026-07-30 15:43:06 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:07 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:07 - Game bet log inserted
+2026-07-30 15:43:07 - Connection closed
+2026-07-30 15:43:13 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"2434496756294563945","game_uid":"879","member_account":"99999225","serial_number":"2fffcad4-4cc6-329c-bdd6-585a79071253","timestamp":"2026-07-30 10:13:10","win_amount":0}
+2026-07-30 15:43:13 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:13 - Current Balance: 1241.35 in table users
+2026-07-30 15:43:13 - Calculation: 1241.35 - 5 = 1236.35
+2026-07-30 15:43:13 - DB primary update successful
+2026-07-30 15:43:13 - Response sent: code=0, balance=1236.35
+2026-07-30 15:43:13 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:13 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:13 - Game bet log inserted
+2026-07-30 15:43:13 - Connection closed
+2026-07-30 15:43:20 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14119488686054522045","game_uid":"879","member_account":"99999225","serial_number":"9ac8b7c1-58e7-315c-9984-587acf3bba1b","timestamp":"2026-07-30 10:13:17","win_amount":2}
+2026-07-30 15:43:20 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 2
+2026-07-30 15:43:20 - Current Balance: 1236.35 in table users
+2026-07-30 15:43:20 - Calculation: 1236.35 - 5 = 1231.35
+2026-07-30 15:43:20 - DB primary update successful
+2026-07-30 15:43:20 - Response sent: code=0, balance=1233.35
+2026-07-30 15:43:20 - GGR | INR loss=3 → INR loss=3 (rate=1INR=1PKR)
+2026-07-30 15:43:20 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.0899999999999999966693309261245303787291049957275390625}
+2026-07-30 15:43:20 - Game bet log inserted
+2026-07-30 15:43:20 - Connection closed
+2026-07-30 15:43:25 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8097019863279483593","game_uid":"879","member_account":"99999225","serial_number":"98a2e1d3-af4d-342a-895a-d150a7348c01","timestamp":"2026-07-30 10:13:25","win_amount":0}
+2026-07-30 15:43:25 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:25 - Current Balance: 1233.35 in table users
+2026-07-30 15:43:25 - Calculation: 1233.35 - 5 = 1228.35
+2026-07-30 15:43:25 - DB primary update successful
+2026-07-30 15:43:25 - Response sent: code=0, balance=1228.35
+2026-07-30 15:43:25 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:25 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:25 - Game bet log inserted
+2026-07-30 15:43:25 - Connection closed
+2026-07-30 15:43:30 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"7404955531418877705","game_uid":"879","member_account":"99999225","serial_number":"2690be1f-857c-3a0a-993b-0dcc57ea2cb4","timestamp":"2026-07-30 10:13:28","win_amount":0}
+2026-07-30 15:43:30 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:30 - Current Balance: 1228.35 in table users
+2026-07-30 15:43:30 - Calculation: 1228.35 - 5 = 1223.35
+2026-07-30 15:43:30 - DB primary update successful
+2026-07-30 15:43:30 - Response sent: code=0, balance=1223.35
+2026-07-30 15:43:30 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:31 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:31 - Game bet log inserted
+2026-07-30 15:43:31 - Connection closed
+2026-07-30 15:43:37 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"15667777009635570139","game_uid":"879","member_account":"99999225","serial_number":"7e82a153-21d4-387a-86bd-c67779d296f4","timestamp":"2026-07-30 10:13:34","win_amount":0}
+2026-07-30 15:43:37 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:37 - Current Balance: 1223.35 in table users
+2026-07-30 15:43:37 - Calculation: 1223.35 - 5 = 1218.35
+2026-07-30 15:43:37 - DB primary update successful
+2026-07-30 15:43:37 - Response sent: code=0, balance=1218.35
+2026-07-30 15:43:37 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:37 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:37 - Game bet log inserted
+2026-07-30 15:43:37 - Connection closed
+2026-07-30 15:43:41 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11824361493148219775","game_uid":"879","member_account":"99999225","serial_number":"76061b81-fabc-3b49-b157-04f894f408b7","timestamp":"2026-07-30 10:13:41","win_amount":0}
+2026-07-30 15:43:41 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:41 - Current Balance: 1218.35 in table users
+2026-07-30 15:43:41 - Calculation: 1218.35 - 5 = 1213.35
+2026-07-30 15:43:41 - DB primary update successful
+2026-07-30 15:43:41 - Response sent: code=0, balance=1213.35
+2026-07-30 15:43:41 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:41 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:41 - Game bet log inserted
+2026-07-30 15:43:41 - Connection closed
+2026-07-30 15:43:45 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14179417100019449627","game_uid":"879","member_account":"99999225","serial_number":"395c7af4-e3d8-3697-b76a-a87428111796","timestamp":"2026-07-30 10:13:45","win_amount":0}
+2026-07-30 15:43:45 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:45 - Current Balance: 1213.35 in table users
+2026-07-30 15:43:45 - Calculation: 1213.35 - 5 = 1208.35
+2026-07-30 15:43:45 - DB primary update successful
+2026-07-30 15:43:45 - Response sent: code=0, balance=1208.35
+2026-07-30 15:43:45 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:45 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:45 - Game bet log inserted
+2026-07-30 15:43:45 - Connection closed
+2026-07-30 15:43:48 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"7803825184271906910","game_uid":"879","member_account":"99999225","serial_number":"76723490-9a9c-37d2-9126-c59fa989e40d","timestamp":"2026-07-30 10:13:48","win_amount":0}
+2026-07-30 15:43:48 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:48 - Current Balance: 1208.35 in table users
+2026-07-30 15:43:48 - Calculation: 1208.35 - 5 = 1203.35
+2026-07-30 15:43:48 - DB primary update successful
+2026-07-30 15:43:48 - Response sent: code=0, balance=1203.35
+2026-07-30 15:43:48 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:48 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:48 - Game bet log inserted
+2026-07-30 15:43:48 - Connection closed
+2026-07-30 15:43:51 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"12862587558160972196","game_uid":"879","member_account":"99999225","serial_number":"16790844-5463-323f-9a37-ce47d3f6b8a9","timestamp":"2026-07-30 10:13:51","win_amount":0}
+2026-07-30 15:43:51 - Extracted user_id: 225 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 15:43:51 - Current Balance: 1203.35 in table users
+2026-07-30 15:43:51 - Calculation: 1203.35 - 5 = 1198.35
+2026-07-30 15:43:51 - DB primary update successful
+2026-07-30 15:43:51 - Response sent: code=0, balance=1198.35
+2026-07-30 15:43:51 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 15:43:51 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 15:43:51 - Game bet log inserted
+2026-07-30 15:43:51 - Connection closed
+2026-07-30 17:49:58 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14855339795380321355","game_uid":"879","member_account":"99999227","serial_number":"061ff3ea-8afd-3a2f-a711-53d228671218","timestamp":"2026-07-30 12:19:55","win_amount":0}
+2026-07-30 17:49:58 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:49:58 - Current Balance: 200 in table users
+2026-07-30 17:49:58 - Calculation: 200 - 5 = 195
+2026-07-30 17:49:58 - DB primary update successful
+2026-07-30 17:49:58 - Response sent: code=0, balance=195
+2026-07-30 17:49:58 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:49:58 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:49:58 - Game bet log inserted
+2026-07-30 17:49:58 - Connection closed
+2026-07-30 17:50:05 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"1919224895385907788","game_uid":"879","member_account":"99999227","serial_number":"9d21cadb-e987-3163-a6bb-97df5c9813e2","timestamp":"2026-07-30 12:20:05","win_amount":0}
+2026-07-30 17:50:05 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:50:05 - Current Balance: 195 in table users
+2026-07-30 17:50:05 - Calculation: 195 - 5 = 190
+2026-07-30 17:50:05 - DB primary update successful
+2026-07-30 17:50:05 - Response sent: code=0, balance=190
+2026-07-30 17:50:05 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:50:06 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:50:06 - Game bet log inserted
+2026-07-30 17:50:06 - Connection closed
+2026-07-30 17:50:11 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"10724804444231974434","game_uid":"879","member_account":"99999227","serial_number":"eb7262c6-7979-3490-8551-9206cb7959a5","timestamp":"2026-07-30 12:20:10","win_amount":0}
+2026-07-30 17:50:11 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:50:11 - Current Balance: 190 in table users
+2026-07-30 17:50:11 - Calculation: 190 - 5 = 185
+2026-07-30 17:50:11 - DB primary update successful
+2026-07-30 17:50:11 - Response sent: code=0, balance=185
+2026-07-30 17:50:11 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:50:12 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:50:12 - Game bet log inserted
+2026-07-30 17:50:12 - Connection closed
+2026-07-30 17:50:18 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"15895232148909079647","game_uid":"879","member_account":"99999227","serial_number":"6b40e49e-ce70-3c3a-9386-a49aae4ccb3f","timestamp":"2026-07-30 12:20:18","win_amount":0}
+2026-07-30 17:50:18 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:50:18 - Current Balance: 185 in table users
+2026-07-30 17:50:18 - Calculation: 185 - 5 = 180
+2026-07-30 17:50:18 - DB primary update successful
+2026-07-30 17:50:18 - Response sent: code=0, balance=180
+2026-07-30 17:50:18 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:50:19 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:50:19 - Game bet log inserted
+2026-07-30 17:50:19 - Connection closed
+2026-07-30 17:50:23 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"694678867245740345","game_uid":"879","member_account":"99999227","serial_number":"7e558b6f-59b2-3ffb-bd8e-ec5b73f75f97","timestamp":"2026-07-30 12:20:23","win_amount":0}
+2026-07-30 17:50:23 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:50:23 - Current Balance: 180 in table users
+2026-07-30 17:50:23 - Calculation: 180 - 5 = 175
+2026-07-30 17:50:23 - DB primary update successful
+2026-07-30 17:50:23 - Response sent: code=0, balance=175
+2026-07-30 17:50:23 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:50:24 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:50:24 - Game bet log inserted
+2026-07-30 17:50:24 - Connection closed
+2026-07-30 17:50:30 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"17539045694031934658","game_uid":"879","member_account":"99999227","serial_number":"3569e4ba-9563-3797-a792-ad32e13c1c37","timestamp":"2026-07-30 12:20:30","win_amount":10}
+2026-07-30 17:50:30 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 10
+2026-07-30 17:50:30 - Current Balance: 175 in table users
+2026-07-30 17:50:30 - Calculation: 175 - 5 = 170
+2026-07-30 17:50:30 - DB primary update successful
+2026-07-30 17:50:30 - Response sent: code=0, balance=180
+2026-07-30 17:50:30 - Game bet log inserted
+2026-07-30 17:50:30 - Connection closed
+2026-07-30 17:50:43 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"12002859220540273213","game_uid":"879","member_account":"99999227","serial_number":"4221de98-df61-366d-8410-c88e13ffddb4","timestamp":"2026-07-30 12:20:43","win_amount":2}
+2026-07-30 17:50:43 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 2
+2026-07-30 17:50:43 - Current Balance: 180 in table users
+2026-07-30 17:50:43 - Calculation: 180 - 5 = 175
+2026-07-30 17:50:43 - DB primary update successful
+2026-07-30 17:50:43 - Response sent: code=0, balance=177
+2026-07-30 17:50:43 - GGR | INR loss=3 → INR loss=3 (rate=1INR=1PKR)
+2026-07-30 17:50:43 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.0899999999999999966693309261245303787291049957275390625}
+2026-07-30 17:50:43 - Game bet log inserted
+2026-07-30 17:50:43 - Connection closed
+2026-07-30 17:50:52 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"6502420411505588729","game_uid":"879","member_account":"99999227","serial_number":"2065801c-7044-3e88-83a3-9f9796654e38","timestamp":"2026-07-30 12:20:52","win_amount":1.5}
+2026-07-30 17:50:52 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 1.5
+2026-07-30 17:50:52 - Current Balance: 177 in table users
+2026-07-30 17:50:52 - Calculation: 177 - 5 = 172
+2026-07-30 17:50:52 - DB primary update successful
+2026-07-30 17:50:52 - Response sent: code=0, balance=173.5
+2026-07-30 17:50:52 - GGR | INR loss=3.5 → INR loss=3.5 (rate=1INR=1PKR)
+2026-07-30 17:50:52 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1000000000000000055511151231257827021181583404541015625}
+2026-07-30 17:50:52 - Game bet log inserted
+2026-07-30 17:50:52 - Connection closed
+2026-07-30 17:51:00 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"16927539800221563259","game_uid":"879","member_account":"99999227","serial_number":"0e2eaefa-7fd8-3feb-b1ce-5cc9cad2fae7","timestamp":"2026-07-30 12:21:00","win_amount":0}
+2026-07-30 17:51:00 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:51:00 - Current Balance: 173.5 in table users
+2026-07-30 17:51:00 - Calculation: 173.5 - 5 = 168.5
+2026-07-30 17:51:00 - DB primary update successful
+2026-07-30 17:51:00 - Response sent: code=0, balance=168.5
+2026-07-30 17:51:00 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:51:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:51:01 - Game bet log inserted
+2026-07-30 17:51:01 - Connection closed
+2026-07-30 17:51:04 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"7549861784940854302","game_uid":"879","member_account":"99999227","serial_number":"29e067ff-5b27-3140-9354-3074d3448306","timestamp":"2026-07-30 12:21:04","win_amount":0}
+2026-07-30 17:51:04 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:51:04 - Current Balance: 168.5 in table users
+2026-07-30 17:51:04 - Calculation: 168.5 - 5 = 163.5
+2026-07-30 17:51:04 - DB primary update successful
+2026-07-30 17:51:04 - Response sent: code=0, balance=163.5
+2026-07-30 17:51:04 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:51:05 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:51:05 - Game bet log inserted
+2026-07-30 17:51:05 - Connection closed
+2026-07-30 17:51:20 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"6360618072775801204","game_uid":"879","member_account":"99999227","serial_number":"7bd29c0d-318e-333f-8143-a7f0f7f19cd2","timestamp":"2026-07-30 12:21:20","win_amount":16}
+2026-07-30 17:51:20 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 16
+2026-07-30 17:51:20 - Current Balance: 163.5 in table users
+2026-07-30 17:51:20 - Calculation: 163.5 - 5 = 158.5
+2026-07-30 17:51:20 - DB primary update successful
+2026-07-30 17:51:20 - Response sent: code=0, balance=174.5
+2026-07-30 17:51:20 - Game bet log inserted
+2026-07-30 17:51:20 - Connection closed
+2026-07-30 17:51:34 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"15264116245572301008","game_uid":"879","member_account":"99999227","serial_number":"7cdf2780-cab8-3351-b567-3512c5aca7c7","timestamp":"2026-07-30 12:21:34","win_amount":0}
+2026-07-30 17:51:34 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:51:34 - Current Balance: 174.5 in table users
+2026-07-30 17:51:34 - Calculation: 174.5 - 5 = 169.5
+2026-07-30 17:51:34 - DB primary update successful
+2026-07-30 17:51:34 - Response sent: code=0, balance=169.5
+2026-07-30 17:51:34 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:51:34 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:51:34 - Game bet log inserted
+2026-07-30 17:51:34 - Connection closed
+2026-07-30 17:51:37 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8168663867794601285","game_uid":"879","member_account":"99999227","serial_number":"3fc0eae7-f989-39a9-9bd8-89f66b39bf4b","timestamp":"2026-07-30 12:21:37","win_amount":0}
+2026-07-30 17:51:37 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:51:37 - Current Balance: 169.5 in table users
+2026-07-30 17:51:37 - Calculation: 169.5 - 5 = 164.5
+2026-07-30 17:51:37 - DB primary update successful
+2026-07-30 17:51:37 - Response sent: code=0, balance=164.5
+2026-07-30 17:51:37 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:51:37 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:51:37 - Game bet log inserted
+2026-07-30 17:51:37 - Connection closed
+2026-07-30 17:51:47 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"3918235089543379737","game_uid":"879","member_account":"99999227","serial_number":"b8a15957-85ed-3342-8c8d-3037ded61ee7","timestamp":"2026-07-30 12:21:47","win_amount":0}
+2026-07-30 17:51:47 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:51:47 - Current Balance: 164.5 in table users
+2026-07-30 17:51:47 - Calculation: 164.5 - 5 = 159.5
+2026-07-30 17:51:47 - DB primary update successful
+2026-07-30 17:51:47 - Response sent: code=0, balance=159.5
+2026-07-30 17:51:47 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:51:48 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:51:48 - Game bet log inserted
+2026-07-30 17:51:48 - Connection closed
+2026-07-30 17:51:54 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"13993569760929920318","game_uid":"879","member_account":"99999227","serial_number":"d1d14fb7-27eb-3e59-99bf-b7d27ad0460a","timestamp":"2026-07-30 12:21:54","win_amount":0}
+2026-07-30 17:51:54 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:51:54 - Current Balance: 159.5 in table users
+2026-07-30 17:51:54 - Calculation: 159.5 - 5 = 154.5
+2026-07-30 17:51:54 - DB primary update successful
+2026-07-30 17:51:54 - Response sent: code=0, balance=154.5
+2026-07-30 17:51:54 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:51:54 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:51:54 - Game bet log inserted
+2026-07-30 17:51:54 - Connection closed
+2026-07-30 17:52:00 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"13216109300617326851","game_uid":"879","member_account":"99999227","serial_number":"a88e709c-f42c-39e3-b893-9971db8701f5","timestamp":"2026-07-30 12:22:00","win_amount":0}
+2026-07-30 17:52:00 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:00 - Current Balance: 154.5 in table users
+2026-07-30 17:52:00 - Calculation: 154.5 - 5 = 149.5
+2026-07-30 17:52:00 - DB primary update successful
+2026-07-30 17:52:00 - Response sent: code=0, balance=149.5
+2026-07-30 17:52:00 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:00 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:00 - Game bet log inserted
+2026-07-30 17:52:00 - Connection closed
+2026-07-30 17:52:06 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4795723944944155906","game_uid":"879","member_account":"99999227","serial_number":"dfff11fa-d4ec-3572-b9e9-cc544907f66a","timestamp":"2026-07-30 12:22:06","win_amount":0}
+2026-07-30 17:52:06 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:06 - Current Balance: 149.5 in table users
+2026-07-30 17:52:06 - Calculation: 149.5 - 5 = 144.5
+2026-07-30 17:52:06 - DB primary update successful
+2026-07-30 17:52:06 - Response sent: code=0, balance=144.5
+2026-07-30 17:52:06 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:06 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:06 - Game bet log inserted
+2026-07-30 17:52:06 - Connection closed
+2026-07-30 17:52:15 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"6501445090291366182","game_uid":"879","member_account":"99999227","serial_number":"93115682-8926-37a7-a103-b3a557b02ebe","timestamp":"2026-07-30 12:22:14","win_amount":0}
+2026-07-30 17:52:15 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:15 - Current Balance: 144.5 in table users
+2026-07-30 17:52:15 - Calculation: 144.5 - 5 = 139.5
+2026-07-30 17:52:15 - DB primary update successful
+2026-07-30 17:52:15 - Response sent: code=0, balance=139.5
+2026-07-30 17:52:15 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:15 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:15 - Game bet log inserted
+2026-07-30 17:52:15 - Connection closed
+2026-07-30 17:52:21 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"10861461986394061852","game_uid":"879","member_account":"99999227","serial_number":"50a5fb64-715f-3cd1-89e5-ed86e1a69a6c","timestamp":"2026-07-30 12:22:20","win_amount":0}
+2026-07-30 17:52:21 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:21 - Current Balance: 139.5 in table users
+2026-07-30 17:52:21 - Calculation: 139.5 - 5 = 134.5
+2026-07-30 17:52:21 - DB primary update successful
+2026-07-30 17:52:21 - Response sent: code=0, balance=134.5
+2026-07-30 17:52:21 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:21 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:21 - Game bet log inserted
+2026-07-30 17:52:21 - Connection closed
+2026-07-30 17:52:28 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"3336343232126529537","game_uid":"879","member_account":"99999227","serial_number":"913c50c5-81f4-327c-9593-573b4fe67cda","timestamp":"2026-07-30 12:22:28","win_amount":0}
+2026-07-30 17:52:28 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:28 - Current Balance: 134.5 in table users
+2026-07-30 17:52:28 - Calculation: 134.5 - 5 = 129.5
+2026-07-30 17:52:28 - DB primary update successful
+2026-07-30 17:52:28 - Response sent: code=0, balance=129.5
+2026-07-30 17:52:28 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:28 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:28 - Game bet log inserted
+2026-07-30 17:52:28 - Connection closed
+2026-07-30 17:52:35 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11733946332339845370","game_uid":"879","member_account":"99999227","serial_number":"033fb6da-22b9-3e98-8013-76e1df0699ff","timestamp":"2026-07-30 12:22:35","win_amount":0}
+2026-07-30 17:52:35 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:35 - Current Balance: 129.5 in table users
+2026-07-30 17:52:35 - Calculation: 129.5 - 5 = 124.5
+2026-07-30 17:52:35 - DB primary update successful
+2026-07-30 17:52:35 - Response sent: code=0, balance=124.5
+2026-07-30 17:52:35 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:35 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:35 - Game bet log inserted
+2026-07-30 17:52:35 - Connection closed
+2026-07-30 17:52:43 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"15261107003619360418","game_uid":"879","member_account":"99999227","serial_number":"7a4ae574-6e3d-3de8-8856-d6d9bdd0c415","timestamp":"2026-07-30 12:22:42","win_amount":0}
+2026-07-30 17:52:43 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:43 - Current Balance: 124.5 in table users
+2026-07-30 17:52:43 - Calculation: 124.5 - 5 = 119.5
+2026-07-30 17:52:43 - DB primary update successful
+2026-07-30 17:52:43 - Response sent: code=0, balance=119.5
+2026-07-30 17:52:43 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:43 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:43 - Game bet log inserted
+2026-07-30 17:52:43 - Connection closed
+2026-07-30 17:52:54 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"16910716256864845028","game_uid":"879","member_account":"99999227","serial_number":"a2afacee-a72d-3752-8929-3b07df29c633","timestamp":"2026-07-30 12:22:54","win_amount":0}
+2026-07-30 17:52:54 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:52:54 - Current Balance: 119.5 in table users
+2026-07-30 17:52:54 - Calculation: 119.5 - 5 = 114.5
+2026-07-30 17:52:54 - DB primary update successful
+2026-07-30 17:52:54 - Response sent: code=0, balance=114.5
+2026-07-30 17:52:54 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:52:54 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:52:54 - Game bet log inserted
+2026-07-30 17:52:54 - Connection closed
+2026-07-30 17:53:02 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"2994357545969398795","game_uid":"879","member_account":"99999227","serial_number":"d1a3f091-3b7f-3597-aa8d-7c004313c1c7","timestamp":"2026-07-30 12:23:02","win_amount":0}
+2026-07-30 17:53:02 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:53:02 - Current Balance: 114.5 in table users
+2026-07-30 17:53:02 - Calculation: 114.5 - 5 = 109.5
+2026-07-30 17:53:02 - DB primary update successful
+2026-07-30 17:53:02 - Response sent: code=0, balance=109.5
+2026-07-30 17:53:02 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:53:02 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:53:02 - Game bet log inserted
+2026-07-30 17:53:02 - Connection closed
+2026-07-30 17:53:11 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"12920358623063390990","game_uid":"879","member_account":"99999227","serial_number":"32b02caf-5bc1-3a78-b59a-3c1171ce0776","timestamp":"2026-07-30 12:23:11","win_amount":0}
+2026-07-30 17:53:11 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:53:11 - Current Balance: 109.5 in table users
+2026-07-30 17:53:11 - Calculation: 109.5 - 5 = 104.5
+2026-07-30 17:53:11 - DB primary update successful
+2026-07-30 17:53:11 - Response sent: code=0, balance=104.5
+2026-07-30 17:53:11 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:53:11 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:53:11 - Game bet log inserted
+2026-07-30 17:53:11 - Connection closed
+2026-07-30 17:53:16 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4249569244095329184","game_uid":"879","member_account":"99999227","serial_number":"c4ef7a0e-96c0-3c08-84e0-3f6a03302cda","timestamp":"2026-07-30 12:23:16","win_amount":0}
+2026-07-30 17:53:16 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:53:16 - Current Balance: 104.5 in table users
+2026-07-30 17:53:16 - Calculation: 104.5 - 5 = 99.5
+2026-07-30 17:53:16 - DB primary update successful
+2026-07-30 17:53:16 - Response sent: code=0, balance=99.5
+2026-07-30 17:53:16 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:53:16 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:53:16 - Game bet log inserted
+2026-07-30 17:53:16 - Connection closed
+2026-07-30 17:53:23 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11959140205452803784","game_uid":"879","member_account":"99999227","serial_number":"ba85f4f5-680e-3566-990a-2e1da74f33a1","timestamp":"2026-07-30 12:23:23","win_amount":0.75}
+2026-07-30 17:53:23 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0.75
+2026-07-30 17:53:23 - Current Balance: 99.5 in table users
+2026-07-30 17:53:23 - Calculation: 99.5 - 5 = 94.5
+2026-07-30 17:53:23 - DB primary update successful
+2026-07-30 17:53:23 - Response sent: code=0, balance=95.25
+2026-07-30 17:53:23 - GGR | INR loss=4.25 → INR loss=4.25 (rate=1INR=1PKR)
+2026-07-30 17:53:23 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.13000000000000000444089209850062616169452667236328125}
+2026-07-30 17:53:23 - Game bet log inserted
+2026-07-30 17:53:23 - Connection closed
+2026-07-30 17:53:32 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"640881532622159526","game_uid":"879","member_account":"99999227","serial_number":"e92cbc29-844f-32b5-886c-b156c34c52f2","timestamp":"2026-07-30 12:23:32","win_amount":0}
+2026-07-30 17:53:32 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:53:32 - Current Balance: 95.25 in table users
+2026-07-30 17:53:32 - Calculation: 95.25 - 5 = 90.25
+2026-07-30 17:53:32 - DB primary update successful
+2026-07-30 17:53:32 - Response sent: code=0, balance=90.25
+2026-07-30 17:53:32 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:53:32 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:53:32 - Game bet log inserted
+2026-07-30 17:53:32 - Connection closed
+2026-07-30 17:53:37 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"6953393100468860187","game_uid":"879","member_account":"99999227","serial_number":"ec22b614-f261-36ae-8543-20445d3cdf25","timestamp":"2026-07-30 12:23:37","win_amount":4}
+2026-07-30 17:53:37 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 4
+2026-07-30 17:53:37 - Current Balance: 90.25 in table users
+2026-07-30 17:53:37 - Calculation: 90.25 - 5 = 85.25
+2026-07-30 17:53:37 - DB primary update successful
+2026-07-30 17:53:37 - Response sent: code=0, balance=89.25
+2026-07-30 17:53:37 - GGR | INR loss=1 → INR loss=1 (rate=1INR=1PKR)
+2026-07-30 17:53:37 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.0299999999999999988897769753748434595763683319091796875}
+2026-07-30 17:53:38 - Game bet log inserted
+2026-07-30 17:53:38 - Connection closed
+2026-07-30 17:53:50 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"17871511255340299979","game_uid":"879","member_account":"99999227","serial_number":"476f7a0a-2ca8-32f0-9d23-54dab995f469","timestamp":"2026-07-30 12:23:48","win_amount":0}
+2026-07-30 17:53:50 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:53:50 - Current Balance: 89.25 in table users
+2026-07-30 17:53:50 - Calculation: 89.25 - 5 = 84.25
+2026-07-30 17:53:50 - DB primary update successful
+2026-07-30 17:53:50 - Response sent: code=0, balance=84.25
+2026-07-30 17:53:50 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:53:50 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:53:50 - Game bet log inserted
+2026-07-30 17:53:50 - Connection closed
+2026-07-30 17:54:00 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"6131550394933129456","game_uid":"879","member_account":"99999227","serial_number":"89db5787-0b51-3086-8064-e52bf346c081","timestamp":"2026-07-30 12:23:58","win_amount":0}
+2026-07-30 17:54:00 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:54:00 - Current Balance: 84.25 in table users
+2026-07-30 17:54:00 - Calculation: 84.25 - 5 = 79.25
+2026-07-30 17:54:00 - DB primary update successful
+2026-07-30 17:54:00 - Response sent: code=0, balance=79.25
+2026-07-30 17:54:00 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:54:01 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:54:01 - Game bet log inserted
+2026-07-30 17:54:01 - Connection closed
+2026-07-30 17:54:13 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"18348272199098252253","game_uid":"879","member_account":"99999227","serial_number":"8267abd4-e5dc-38fe-bca2-c8738e89c5c7","timestamp":"2026-07-30 12:24:11","win_amount":0}
+2026-07-30 17:54:13 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:54:13 - Current Balance: 79.25 in table users
+2026-07-30 17:54:13 - Calculation: 79.25 - 5 = 74.25
+2026-07-30 17:54:13 - DB primary update successful
+2026-07-30 17:54:13 - Response sent: code=0, balance=74.25
+2026-07-30 17:54:13 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:54:13 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:54:13 - Game bet log inserted
+2026-07-30 17:54:13 - Connection closed
+2026-07-30 17:54:21 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14486661917274815739","game_uid":"879","member_account":"99999227","serial_number":"c7de5d4a-41ac-3765-8701-10f4f70c987e","timestamp":"2026-07-30 12:24:19","win_amount":0}
+2026-07-30 17:54:21 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:54:21 - Current Balance: 74.25 in table users
+2026-07-30 17:54:21 - Calculation: 74.25 - 5 = 69.25
+2026-07-30 17:54:21 - DB primary update successful
+2026-07-30 17:54:21 - Response sent: code=0, balance=69.25
+2026-07-30 17:54:21 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:54:21 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:54:21 - Game bet log inserted
+2026-07-30 17:54:21 - Connection closed
+2026-07-30 17:54:31 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"15834482600696099688","game_uid":"879","member_account":"99999227","serial_number":"f0f68857-a449-3617-8024-bc70175a68ef","timestamp":"2026-07-30 12:24:31","win_amount":0}
+2026-07-30 17:54:31 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:54:31 - Current Balance: 69.25 in table users
+2026-07-30 17:54:31 - Calculation: 69.25 - 5 = 64.25
+2026-07-30 17:54:31 - DB primary update successful
+2026-07-30 17:54:31 - Response sent: code=0, balance=64.25
+2026-07-30 17:54:31 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:54:31 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:54:31 - Game bet log inserted
+2026-07-30 17:54:31 - Connection closed
+2026-07-30 17:54:40 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11906709836135282476","game_uid":"879","member_account":"99999227","serial_number":"24d26191-673e-3d95-af13-2fee5f3b4574","timestamp":"2026-07-30 12:24:40","win_amount":0}
+2026-07-30 17:54:40 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:54:40 - Current Balance: 64.25 in table users
+2026-07-30 17:54:40 - Calculation: 64.25 - 5 = 59.25
+2026-07-30 17:54:40 - DB primary update successful
+2026-07-30 17:54:40 - Response sent: code=0, balance=59.25
+2026-07-30 17:54:40 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:54:40 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:54:40 - Game bet log inserted
+2026-07-30 17:54:40 - Connection closed
+2026-07-30 17:54:46 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"17845564737196734372","game_uid":"879","member_account":"99999227","serial_number":"50ecb1b8-30fc-3273-a3dd-7d572acb2c75","timestamp":"2026-07-30 12:24:46","win_amount":8}
+2026-07-30 17:54:46 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 8
+2026-07-30 17:54:46 - Current Balance: 59.25 in table users
+2026-07-30 17:54:46 - Calculation: 59.25 - 5 = 54.25
+2026-07-30 17:54:46 - DB primary update successful
+2026-07-30 17:54:46 - Response sent: code=0, balance=62.25
+2026-07-30 17:54:46 - Game bet log inserted
+2026-07-30 17:54:46 - Connection closed
+2026-07-30 17:54:55 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4816194803961443204","game_uid":"879","member_account":"99999227","serial_number":"3be4ce20-cb87-30f4-9dfc-09de1851f89a","timestamp":"2026-07-30 12:24:55","win_amount":226}
+2026-07-30 17:54:55 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 226
+2026-07-30 17:54:55 - Current Balance: 62.25 in table users
+2026-07-30 17:54:55 - Calculation: 62.25 - 5 = 57.25
+2026-07-30 17:54:55 - DB primary update successful
+2026-07-30 17:54:55 - Response sent: code=0, balance=283.25
+2026-07-30 17:54:55 - Game bet log inserted
+2026-07-30 17:54:55 - Connection closed
+2026-07-30 17:55:21 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4707266571853379736","game_uid":"879","member_account":"99999227","serial_number":"d58fbd95-431f-3ada-8160-3ff2429a79fa","timestamp":"2026-07-30 12:25:20","win_amount":0}
+2026-07-30 17:55:21 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:55:21 - Current Balance: 283.25 in table users
+2026-07-30 17:55:21 - Calculation: 283.25 - 5 = 278.25
+2026-07-30 17:55:21 - DB primary update successful
+2026-07-30 17:55:21 - Response sent: code=0, balance=278.25
+2026-07-30 17:55:21 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:55:21 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:55:21 - Game bet log inserted
+2026-07-30 17:55:21 - Connection closed
+2026-07-30 17:55:31 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"13948347431673606506","game_uid":"879","member_account":"99999227","serial_number":"9c2f7f6a-3ef8-3d66-b7d0-acfbd7a62400","timestamp":"2026-07-30 12:25:31","win_amount":0}
+2026-07-30 17:55:31 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:55:31 - Current Balance: 278.25 in table users
+2026-07-30 17:55:31 - Calculation: 278.25 - 5 = 273.25
+2026-07-30 17:55:31 - DB primary update successful
+2026-07-30 17:55:31 - Response sent: code=0, balance=273.25
+2026-07-30 17:55:31 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:55:31 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:55:31 - Game bet log inserted
+2026-07-30 17:55:31 - Connection closed
+2026-07-30 17:55:38 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"3258830985594091290","game_uid":"879","member_account":"99999227","serial_number":"f58648e2-59a8-3ee3-a343-da0d12f3eded","timestamp":"2026-07-30 12:25:38","win_amount":2}
+2026-07-30 17:55:38 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 2
+2026-07-30 17:55:38 - Current Balance: 273.25 in table users
+2026-07-30 17:55:38 - Calculation: 273.25 - 5 = 268.25
+2026-07-30 17:55:38 - DB primary update successful
+2026-07-30 17:55:38 - Response sent: code=0, balance=270.25
+2026-07-30 17:55:38 - GGR | INR loss=3 → INR loss=3 (rate=1INR=1PKR)
+2026-07-30 17:55:38 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.0899999999999999966693309261245303787291049957275390625}
+2026-07-30 17:55:38 - Game bet log inserted
+2026-07-30 17:55:38 - Connection closed
+2026-07-30 17:57:14 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"2792229924629920914","game_uid":"879","member_account":"99999227","serial_number":"cc456d17-4d64-33ae-8513-57c53ba18354","timestamp":"2026-07-30 12:27:11","win_amount":0}
+2026-07-30 17:57:14 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:57:14 - Current Balance: 270.25 in table users
+2026-07-30 17:57:14 - Calculation: 270.25 - 5 = 265.25
+2026-07-30 17:57:14 - DB primary update successful
+2026-07-30 17:57:14 - Response sent: code=0, balance=265.25
+2026-07-30 17:57:14 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:57:15 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:57:15 - Game bet log inserted
+2026-07-30 17:57:15 - Connection closed
+2026-07-30 17:57:24 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"6412811474116491502","game_uid":"879","member_account":"99999227","serial_number":"8ca38025-bf7c-3187-af3f-a84332abc57d","timestamp":"2026-07-30 12:27:24","win_amount":0}
+2026-07-30 17:57:24 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:57:24 - Current Balance: 265.25 in table users
+2026-07-30 17:57:24 - Calculation: 265.25 - 5 = 260.25
+2026-07-30 17:57:24 - DB primary update successful
+2026-07-30 17:57:24 - Response sent: code=0, balance=260.25
+2026-07-30 17:57:24 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:57:24 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:57:24 - Game bet log inserted
+2026-07-30 17:57:24 - Connection closed
+2026-07-30 17:57:34 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"4145757545462969041","game_uid":"879","member_account":"99999227","serial_number":"559b206d-26c0-39f1-bf46-8db87f6b761d","timestamp":"2026-07-30 12:27:33","win_amount":0}
+2026-07-30 17:57:34 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:57:34 - Current Balance: 260.25 in table users
+2026-07-30 17:57:34 - Calculation: 260.25 - 5 = 255.25
+2026-07-30 17:57:34 - DB primary update successful
+2026-07-30 17:57:34 - Response sent: code=0, balance=255.25
+2026-07-30 17:57:34 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:57:34 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:57:34 - Game bet log inserted
+2026-07-30 17:57:34 - Connection closed
+2026-07-30 17:57:51 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11639914554009006283","game_uid":"879","member_account":"99999227","serial_number":"502e3d21-7ed4-31aa-9924-53414b7cedd9","timestamp":"2026-07-30 12:27:51","win_amount":6.25}
+2026-07-30 17:57:51 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 6.25
+2026-07-30 17:57:51 - Current Balance: 255.25 in table users
+2026-07-30 17:57:51 - Calculation: 255.25 - 5 = 250.25
+2026-07-30 17:57:51 - DB primary update successful
+2026-07-30 17:57:51 - Response sent: code=0, balance=256.5
+2026-07-30 17:57:51 - Game bet log inserted
+2026-07-30 17:57:51 - Connection closed
+2026-07-30 17:58:06 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"9100482045868847743","game_uid":"879","member_account":"99999227","serial_number":"5cac9760-06e7-3fca-97a4-7155658ab101","timestamp":"2026-07-30 12:28:05","win_amount":33}
+2026-07-30 17:58:06 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 33
+2026-07-30 17:58:06 - Current Balance: 256.5 in table users
+2026-07-30 17:58:06 - Calculation: 256.5 - 5 = 251.5
+2026-07-30 17:58:06 - DB primary update successful
+2026-07-30 17:58:06 - Response sent: code=0, balance=284.5
+2026-07-30 17:58:06 - Game bet log inserted
+2026-07-30 17:58:06 - Connection closed
+2026-07-30 17:58:23 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8972879931738635603","game_uid":"879","member_account":"99999227","serial_number":"8ad78bf4-bbf6-3c3b-ac17-5cc3a290b017","timestamp":"2026-07-30 12:28:23","win_amount":0}
+2026-07-30 17:58:23 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:58:23 - Current Balance: 284.5 in table users
+2026-07-30 17:58:23 - Calculation: 284.5 - 5 = 279.5
+2026-07-30 17:58:23 - DB primary update successful
+2026-07-30 17:58:23 - Response sent: code=0, balance=279.5
+2026-07-30 17:58:23 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:58:24 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:58:24 - Game bet log inserted
+2026-07-30 17:58:24 - Connection closed
+2026-07-30 17:58:47 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"5418438762307596690","game_uid":"879","member_account":"99999227","serial_number":"390e2d1d-9f04-3402-a02b-21edb8aa6324","timestamp":"2026-07-30 12:28:47","win_amount":0.75}
+2026-07-30 17:58:47 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0.75
+2026-07-30 17:58:47 - Current Balance: 279.5 in table users
+2026-07-30 17:58:47 - Calculation: 279.5 - 5 = 274.5
+2026-07-30 17:58:47 - DB primary update successful
+2026-07-30 17:58:47 - Response sent: code=0, balance=275.25
+2026-07-30 17:58:47 - GGR | INR loss=4.25 → INR loss=4.25 (rate=1INR=1PKR)
+2026-07-30 17:58:47 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.13000000000000000444089209850062616169452667236328125}
+2026-07-30 17:58:47 - Game bet log inserted
+2026-07-30 17:58:47 - Connection closed
+2026-07-30 17:58:57 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"10516350201848083481","game_uid":"879","member_account":"99999227","serial_number":"e342a022-2a2a-3bd3-8cb2-b4d4f4a0a8f4","timestamp":"2026-07-30 12:28:56","win_amount":0}
+2026-07-30 17:58:57 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:58:57 - Current Balance: 275.25 in table users
+2026-07-30 17:58:57 - Calculation: 275.25 - 5 = 270.25
+2026-07-30 17:58:57 - DB primary update successful
+2026-07-30 17:58:57 - Response sent: code=0, balance=270.25
+2026-07-30 17:58:57 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:58:57 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:58:57 - Game bet log inserted
+2026-07-30 17:58:57 - Connection closed
+2026-07-30 17:59:03 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"8520723039234175000","game_uid":"879","member_account":"99999227","serial_number":"a50cfc2f-5477-30ad-a8b9-5aeec5ada54a","timestamp":"2026-07-30 12:29:03","win_amount":0}
+2026-07-30 17:59:03 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:59:03 - Current Balance: 270.25 in table users
+2026-07-30 17:59:03 - Calculation: 270.25 - 5 = 265.25
+2026-07-30 17:59:03 - DB primary update successful
+2026-07-30 17:59:03 - Response sent: code=0, balance=265.25
+2026-07-30 17:59:03 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:59:04 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:59:04 - Game bet log inserted
+2026-07-30 17:59:04 - Connection closed
+2026-07-30 17:59:11 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"7847535406455469250","game_uid":"879","member_account":"99999227","serial_number":"3352685c-340b-380c-94d9-73884fba7480","timestamp":"2026-07-30 12:29:11","win_amount":0}
+2026-07-30 17:59:11 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:59:11 - Current Balance: 265.25 in table users
+2026-07-30 17:59:11 - Calculation: 265.25 - 5 = 260.25
+2026-07-30 17:59:11 - DB primary update successful
+2026-07-30 17:59:11 - Response sent: code=0, balance=260.25
+2026-07-30 17:59:11 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:59:11 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:59:11 - Game bet log inserted
+2026-07-30 17:59:11 - Connection closed
+2026-07-30 17:59:18 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"11549515296600176779","game_uid":"879","member_account":"99999227","serial_number":"eaa6c3c5-60d7-3db6-bd42-c535b68e44eb","timestamp":"2026-07-30 12:29:18","win_amount":1.5}
+2026-07-30 17:59:18 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 1.5
+2026-07-30 17:59:18 - Current Balance: 260.25 in table users
+2026-07-30 17:59:18 - Calculation: 260.25 - 5 = 255.25
+2026-07-30 17:59:18 - DB primary update successful
+2026-07-30 17:59:18 - Response sent: code=0, balance=256.75
+2026-07-30 17:59:18 - GGR | INR loss=3.5 → INR loss=3.5 (rate=1INR=1PKR)
+2026-07-30 17:59:19 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1000000000000000055511151231257827021181583404541015625}
+2026-07-30 17:59:19 - Game bet log inserted
+2026-07-30 17:59:19 - Connection closed
+2026-07-30 17:59:35 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"13384893947790964512","game_uid":"879","member_account":"99999227","serial_number":"43a4dac0-a717-3c83-a15c-9bf05d109df3","timestamp":"2026-07-30 12:29:33","win_amount":0}
+2026-07-30 17:59:35 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:59:35 - Current Balance: 256.75 in table users
+2026-07-30 17:59:35 - Calculation: 256.75 - 5 = 251.75
+2026-07-30 17:59:35 - DB primary update successful
+2026-07-30 17:59:35 - Response sent: code=0, balance=251.75
+2026-07-30 17:59:35 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:59:35 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:59:35 - Game bet log inserted
+2026-07-30 17:59:35 - Connection closed
+2026-07-30 17:59:43 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"1994314859599573121","game_uid":"879","member_account":"99999227","serial_number":"a6cbc2f4-7782-3ad5-92b1-9b8af825debe","timestamp":"2026-07-30 12:29:43","win_amount":0}
+2026-07-30 17:59:43 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:59:43 - Current Balance: 251.75 in table users
+2026-07-30 17:59:43 - Calculation: 251.75 - 5 = 246.75
+2026-07-30 17:59:43 - DB primary update successful
+2026-07-30 17:59:43 - Response sent: code=0, balance=246.75
+2026-07-30 17:59:43 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:59:43 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:59:43 - Game bet log inserted
+2026-07-30 17:59:43 - Connection closed
+2026-07-30 17:59:58 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"5436478127668412204","game_uid":"879","member_account":"99999227","serial_number":"928a9325-7b20-3a7b-ab0a-6a8eb4d39e54","timestamp":"2026-07-30 12:29:57","win_amount":0}
+2026-07-30 17:59:58 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 17:59:58 - Current Balance: 246.75 in table users
+2026-07-30 17:59:58 - Calculation: 246.75 - 5 = 241.75
+2026-07-30 17:59:58 - DB primary update successful
+2026-07-30 17:59:58 - Response sent: code=0, balance=241.75
+2026-07-30 17:59:58 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 17:59:58 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 17:59:58 - Game bet log inserted
+2026-07-30 17:59:58 - Connection closed
+2026-07-30 18:00:08 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"12463573011740636626","game_uid":"879","member_account":"99999227","serial_number":"95ccf618-7874-39f0-89d6-28e7851c1bb8","timestamp":"2026-07-30 12:30:07","win_amount":10.5}
+2026-07-30 18:00:08 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 10.5
+2026-07-30 18:00:08 - Current Balance: 241.75 in table users
+2026-07-30 18:00:08 - Calculation: 241.75 - 5 = 236.75
+2026-07-30 18:00:08 - DB primary update successful
+2026-07-30 18:00:08 - Response sent: code=0, balance=247.25
+2026-07-30 18:00:08 - Game bet log inserted
+2026-07-30 18:00:08 - Connection closed
+2026-07-30 18:00:23 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"9851905105618747186","game_uid":"879","member_account":"99999227","serial_number":"8349d7a5-378e-32ac-93e4-f6f4d70653a2","timestamp":"2026-07-30 12:30:22","win_amount":0}
+2026-07-30 18:00:23 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 18:00:23 - Current Balance: 247.25 in table users
+2026-07-30 18:00:23 - Calculation: 247.25 - 5 = 242.25
+2026-07-30 18:00:23 - DB primary update successful
+2026-07-30 18:00:23 - Response sent: code=0, balance=242.25
+2026-07-30 18:00:23 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 18:00:23 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 18:00:23 - Game bet log inserted
+2026-07-30 18:00:23 - Connection closed
+2026-07-30 18:00:32 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"9540733234789824815","game_uid":"879","member_account":"99999227","serial_number":"2bfb1663-d585-3d67-863a-e5f3647aa7d5","timestamp":"2026-07-30 12:30:32","win_amount":0}
+2026-07-30 18:00:32 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 18:00:32 - Current Balance: 242.25 in table users
+2026-07-30 18:00:32 - Calculation: 242.25 - 5 = 237.25
+2026-07-30 18:00:32 - DB primary update successful
+2026-07-30 18:00:32 - Response sent: code=0, balance=237.25
+2026-07-30 18:00:32 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 18:00:32 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 18:00:32 - Game bet log inserted
+2026-07-30 18:00:32 - Connection closed
+2026-07-30 18:00:39 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14233252427002623967","game_uid":"879","member_account":"99999227","serial_number":"1572aafe-6ba4-3bd6-b412-0e641f3049eb","timestamp":"2026-07-30 12:30:39","win_amount":0}
+2026-07-30 18:00:39 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 18:00:39 - Current Balance: 237.25 in table users
+2026-07-30 18:00:39 - Calculation: 237.25 - 5 = 232.25
+2026-07-30 18:00:39 - DB primary update successful
+2026-07-30 18:00:39 - Response sent: code=0, balance=232.25
+2026-07-30 18:00:39 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 18:00:40 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 18:00:40 - Game bet log inserted
+2026-07-30 18:00:40 - Connection closed
+2026-07-30 18:00:49 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"14617096794927739387","game_uid":"879","member_account":"99999227","serial_number":"542f92dc-33dd-3709-9c26-a546d0b406cc","timestamp":"2026-07-30 12:30:49","win_amount":0}
+2026-07-30 18:00:49 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 18:00:49 - Current Balance: 232.25 in table users
+2026-07-30 18:00:49 - Calculation: 232.25 - 5 = 227.25
+2026-07-30 18:00:49 - DB primary update successful
+2026-07-30 18:00:49 - Response sent: code=0, balance=227.25
+2026-07-30 18:00:49 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 18:00:50 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 18:00:50 - Game bet log inserted
+2026-07-30 18:00:50 - Connection closed
+2026-07-30 18:00:56 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"17607209262897643235","game_uid":"879","member_account":"99999227","serial_number":"1a35673b-a951-327b-bd80-94bc4a2e61d6","timestamp":"2026-07-30 12:30:56","win_amount":0}
+2026-07-30 18:00:56 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-07-30 18:00:56 - Current Balance: 227.25 in table users
+2026-07-30 18:00:56 - Calculation: 227.25 - 5 = 222.25
+2026-07-30 18:00:56 - DB primary update successful
+2026-07-30 18:00:56 - Response sent: code=0, balance=222.25
+2026-07-30 18:00:56 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-07-30 18:00:56 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-07-30 18:00:56 - Game bet log inserted
+2026-07-30 18:00:56 - Connection closed
+2026-07-30 18:01:03 - CALLBACK RAW: {"bet_amount":5,"game_id":879,"game_name":"Super Ace","game_round":"3565918517057239259","game_uid":"879","member_account":"99999227","serial_number":"5bdc1424-63f9-3879-803c-52c59f2469a4","timestamp":"2026-07-30 12:31:03","win_amount":20}
+2026-07-30 18:01:03 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 20
+2026-07-30 18:01:03 - Current Balance: 222.25 in table users
+2026-07-30 18:01:03 - Calculation: 222.25 - 5 = 217.25
+2026-07-30 18:01:03 - DB primary update successful
+2026-07-30 18:01:03 - Response sent: code=0, balance=237.25
+2026-07-30 18:01:03 - Game bet log inserted
+2026-07-30 18:01:03 - Connection closed
+2026-08-01 07:42:25 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"17570529716197669443","game_uid":"581","member_account":"99999227","serial_number":"61bc94d6-a433-3efa-a562-f8bd213badc6","timestamp":"2026-08-01 02:12:22","win_amount":0}
+2026-08-01 07:42:25 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:25 - Current Balance: 237.25 in table users
+2026-08-01 07:42:25 - Calculation: 237.25 - 5 = 232.25
+2026-08-01 07:42:25 - DB primary update successful
+2026-08-01 07:42:25 - Response sent: code=0, balance=232.25
+2026-08-01 07:42:25 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:26 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:26 - Game bet log inserted
+2026-08-01 07:42:26 - Connection closed
+2026-08-01 07:42:29 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"6731636912422337678","game_uid":"581","member_account":"99999227","serial_number":"c39df21c-10ae-35c1-a92e-d131460f56b3","timestamp":"2026-08-01 02:12:29","win_amount":0}
+2026-08-01 07:42:29 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:29 - Current Balance: 232.25 in table users
+2026-08-01 07:42:29 - Calculation: 232.25 - 5 = 227.25
+2026-08-01 07:42:29 - DB primary update successful
+2026-08-01 07:42:29 - Response sent: code=0, balance=227.25
+2026-08-01 07:42:29 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:30 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:30 - Game bet log inserted
+2026-08-01 07:42:30 - Connection closed
+2026-08-01 07:42:33 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"67584115853311910","game_uid":"581","member_account":"99999227","serial_number":"c66d2802-4cad-36b3-a429-8ba720a2f28e","timestamp":"2026-08-01 02:12:33","win_amount":0}
+2026-08-01 07:42:33 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:33 - Current Balance: 227.25 in table users
+2026-08-01 07:42:33 - Calculation: 227.25 - 5 = 222.25
+2026-08-01 07:42:33 - DB primary update successful
+2026-08-01 07:42:33 - Response sent: code=0, balance=222.25
+2026-08-01 07:42:33 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:33 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:33 - Game bet log inserted
+2026-08-01 07:42:33 - Connection closed
+2026-08-01 07:42:37 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"18365088989701619224","game_uid":"581","member_account":"99999227","serial_number":"c04e7c13-87bc-31bc-b3da-c151a76b76f0","timestamp":"2026-08-01 02:12:37","win_amount":0}
+2026-08-01 07:42:37 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:37 - Current Balance: 222.25 in table users
+2026-08-01 07:42:37 - Calculation: 222.25 - 5 = 217.25
+2026-08-01 07:42:37 - DB primary update successful
+2026-08-01 07:42:37 - Response sent: code=0, balance=217.25
+2026-08-01 07:42:37 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:37 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:37 - Game bet log inserted
+2026-08-01 07:42:37 - Connection closed
+2026-08-01 07:42:40 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"5939406819666571340","game_uid":"581","member_account":"99999227","serial_number":"df4f3e33-31e9-3506-9330-fad4c104d530","timestamp":"2026-08-01 02:12:40","win_amount":0}
+2026-08-01 07:42:40 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:40 - Current Balance: 217.25 in table users
+2026-08-01 07:42:40 - Calculation: 217.25 - 5 = 212.25
+2026-08-01 07:42:40 - DB primary update successful
+2026-08-01 07:42:40 - Response sent: code=0, balance=212.25
+2026-08-01 07:42:40 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:40 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:40 - Game bet log inserted
+2026-08-01 07:42:40 - Connection closed
+2026-08-01 07:42:44 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"11495393725521736748","game_uid":"581","member_account":"99999227","serial_number":"72150ea8-4de6-34eb-91f3-7d767df07e96","timestamp":"2026-08-01 02:12:43","win_amount":0}
+2026-08-01 07:42:44 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:44 - Current Balance: 212.25 in table users
+2026-08-01 07:42:44 - Calculation: 212.25 - 5 = 207.25
+2026-08-01 07:42:44 - DB primary update successful
+2026-08-01 07:42:44 - Response sent: code=0, balance=207.25
+2026-08-01 07:42:44 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:44 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:44 - Game bet log inserted
+2026-08-01 07:42:44 - Connection closed
+2026-08-01 07:42:47 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"17256448442164982055","game_uid":"581","member_account":"99999227","serial_number":"d75fa932-9def-34f4-ab10-ec73682faccb","timestamp":"2026-08-01 02:12:47","win_amount":0}
+2026-08-01 07:42:47 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:47 - Current Balance: 207.25 in table users
+2026-08-01 07:42:47 - Calculation: 207.25 - 5 = 202.25
+2026-08-01 07:42:47 - DB primary update successful
+2026-08-01 07:42:47 - Response sent: code=0, balance=202.25
+2026-08-01 07:42:47 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:47 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:47 - Game bet log inserted
+2026-08-01 07:42:47 - Connection closed
+2026-08-01 07:42:53 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"17793691962100367083","game_uid":"581","member_account":"99999227","serial_number":"5f1bc10a-2658-3c5a-bdb9-dcdc742d0391","timestamp":"2026-08-01 02:12:53","win_amount":0}
+2026-08-01 07:42:53 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:42:53 - Current Balance: 202.25 in table users
+2026-08-01 07:42:53 - Calculation: 202.25 - 5 = 197.25
+2026-08-01 07:42:53 - DB primary update successful
+2026-08-01 07:42:53 - Response sent: code=0, balance=197.25
+2026-08-01 07:42:53 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:42:53 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:42:53 - Game bet log inserted
+2026-08-01 07:42:53 - Connection closed
+2026-08-01 07:42:57 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"16256211549108781011","game_uid":"581","member_account":"99999227","serial_number":"e935fdcc-4821-320e-9810-41f81b5e0e7c","timestamp":"2026-08-01 02:12:57","win_amount":27}
+2026-08-01 07:42:57 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 27
+2026-08-01 07:42:57 - Current Balance: 197.25 in table users
+2026-08-01 07:42:57 - Calculation: 197.25 - 5 = 192.25
+2026-08-01 07:42:57 - DB primary update successful
+2026-08-01 07:42:57 - Response sent: code=0, balance=219.25
+2026-08-01 07:42:57 - Game bet log inserted
+2026-08-01 07:42:57 - Connection closed
+2026-08-01 07:43:08 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"14140386757823708388","game_uid":"581","member_account":"99999227","serial_number":"41716840-d67f-3e15-9b11-e98a925e4922","timestamp":"2026-08-01 02:13:08","win_amount":0}
+2026-08-01 07:43:08 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:08 - Current Balance: 219.25 in table users
+2026-08-01 07:43:08 - Calculation: 219.25 - 5 = 214.25
+2026-08-01 07:43:08 - DB primary update successful
+2026-08-01 07:43:08 - Response sent: code=0, balance=214.25
+2026-08-01 07:43:08 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:08 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:08 - Game bet log inserted
+2026-08-01 07:43:08 - Connection closed
+2026-08-01 07:43:14 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"8244887634895059939","game_uid":"581","member_account":"99999227","serial_number":"bae4795c-55c6-374a-a78d-1a1befaed431","timestamp":"2026-08-01 02:13:14","win_amount":0}
+2026-08-01 07:43:14 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:14 - Current Balance: 214.25 in table users
+2026-08-01 07:43:14 - Calculation: 214.25 - 5 = 209.25
+2026-08-01 07:43:14 - DB primary update successful
+2026-08-01 07:43:14 - Response sent: code=0, balance=209.25
+2026-08-01 07:43:14 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:14 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:14 - Game bet log inserted
+2026-08-01 07:43:14 - Connection closed
+2026-08-01 07:43:18 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"14867735943918138367","game_uid":"581","member_account":"99999227","serial_number":"7d91c3cd-0e1d-3f50-a1d1-b7b602a911b2","timestamp":"2026-08-01 02:13:17","win_amount":0}
+2026-08-01 07:43:18 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:18 - Current Balance: 209.25 in table users
+2026-08-01 07:43:18 - Calculation: 209.25 - 5 = 204.25
+2026-08-01 07:43:18 - DB primary update successful
+2026-08-01 07:43:18 - Response sent: code=0, balance=204.25
+2026-08-01 07:43:18 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:18 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:18 - Game bet log inserted
+2026-08-01 07:43:18 - Connection closed
+2026-08-01 07:43:27 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"4718750676273804785","game_uid":"581","member_account":"99999227","serial_number":"0a0cabef-7ac1-3972-84b7-f795ad69ab61","timestamp":"2026-08-01 02:13:27","win_amount":0}
+2026-08-01 07:43:27 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:27 - Current Balance: 204.25 in table users
+2026-08-01 07:43:27 - Calculation: 204.25 - 5 = 199.25
+2026-08-01 07:43:27 - DB primary update successful
+2026-08-01 07:43:27 - Response sent: code=0, balance=199.25
+2026-08-01 07:43:27 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:27 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:27 - Game bet log inserted
+2026-08-01 07:43:27 - Connection closed
+2026-08-01 07:43:31 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"8274702952150415732","game_uid":"581","member_account":"99999227","serial_number":"8df04544-642f-3441-95f6-abe619e7fddd","timestamp":"2026-08-01 02:13:31","win_amount":0}
+2026-08-01 07:43:31 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:31 - Current Balance: 199.25 in table users
+2026-08-01 07:43:31 - Calculation: 199.25 - 5 = 194.25
+2026-08-01 07:43:31 - DB primary update successful
+2026-08-01 07:43:31 - Response sent: code=0, balance=194.25
+2026-08-01 07:43:31 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:31 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:31 - Game bet log inserted
+2026-08-01 07:43:31 - Connection closed
+2026-08-01 07:43:35 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"16209572860727537925","game_uid":"581","member_account":"99999227","serial_number":"86ce8b6d-8fa7-3c6f-bdae-b4a213702109","timestamp":"2026-08-01 02:13:35","win_amount":0}
+2026-08-01 07:43:35 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:35 - Current Balance: 194.25 in table users
+2026-08-01 07:43:35 - Calculation: 194.25 - 5 = 189.25
+2026-08-01 07:43:35 - DB primary update successful
+2026-08-01 07:43:35 - Response sent: code=0, balance=189.25
+2026-08-01 07:43:35 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:35 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:35 - Game bet log inserted
+2026-08-01 07:43:35 - Connection closed
+2026-08-01 07:43:38 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"18158716942625554081","game_uid":"581","member_account":"99999227","serial_number":"f62285f2-e95a-3937-be72-b30b707f0491","timestamp":"2026-08-01 02:13:38","win_amount":1}
+2026-08-01 07:43:38 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 1
+2026-08-01 07:43:38 - Current Balance: 189.25 in table users
+2026-08-01 07:43:38 - Calculation: 189.25 - 5 = 184.25
+2026-08-01 07:43:38 - DB primary update successful
+2026-08-01 07:43:38 - Response sent: code=0, balance=185.25
+2026-08-01 07:43:38 - GGR | INR loss=4 → INR loss=4 (rate=1INR=1PKR)
+2026-08-01 07:43:38 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.11999999999999999555910790149937383830547332763671875}
+2026-08-01 07:43:38 - Game bet log inserted
+2026-08-01 07:43:38 - Connection closed
+2026-08-01 07:43:43 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"5799504765154179967","game_uid":"581","member_account":"99999227","serial_number":"6704323a-7a4b-348b-a53a-2976401e3f79","timestamp":"2026-08-01 02:13:43","win_amount":0}
+2026-08-01 07:43:43 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:43 - Current Balance: 185.25 in table users
+2026-08-01 07:43:43 - Calculation: 185.25 - 5 = 180.25
+2026-08-01 07:43:43 - DB primary update successful
+2026-08-01 07:43:43 - Response sent: code=0, balance=180.25
+2026-08-01 07:43:43 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:43 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:43 - Game bet log inserted
+2026-08-01 07:43:43 - Connection closed
+2026-08-01 07:43:52 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"10847352244274149148","game_uid":"581","member_account":"99999227","serial_number":"c04d6287-8c52-3104-9281-f675a3cd82f8","timestamp":"2026-08-01 02:13:51","win_amount":0}
+2026-08-01 07:43:52 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:52 - Current Balance: 180.25 in table users
+2026-08-01 07:43:52 - Calculation: 180.25 - 5 = 175.25
+2026-08-01 07:43:52 - DB primary update successful
+2026-08-01 07:43:52 - Response sent: code=0, balance=175.25
+2026-08-01 07:43:52 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:52 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:52 - Game bet log inserted
+2026-08-01 07:43:52 - Connection closed
+2026-08-01 07:43:55 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"16600043322801535064","game_uid":"581","member_account":"99999227","serial_number":"bcc26d70-36ff-3101-bd89-6d0a0dab9ed9","timestamp":"2026-08-01 02:13:55","win_amount":0}
+2026-08-01 07:43:55 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:43:55 - Current Balance: 175.25 in table users
+2026-08-01 07:43:55 - Calculation: 175.25 - 5 = 170.25
+2026-08-01 07:43:55 - DB primary update successful
+2026-08-01 07:43:55 - Response sent: code=0, balance=170.25
+2026-08-01 07:43:55 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:43:56 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:43:56 - Game bet log inserted
+2026-08-01 07:43:56 - Connection closed
+2026-08-01 07:44:09 - CALLBACK RAW: {"bet_amount":5,"game_id":581,"game_name":"Super Ace Deluxe","game_round":"11640046488510412729","game_uid":"581","member_account":"99999227","serial_number":"4ec8b739-f938-3aba-b17d-c0fe197d3c6c","timestamp":"2026-08-01 02:14:09","win_amount":0}
+2026-08-01 07:44:09 - Extracted user_id: 227 | Action: bet | Bet: 5 | Win: 0
+2026-08-01 07:44:09 - Current Balance: 170.25 in table users
+2026-08-01 07:44:09 - Calculation: 170.25 - 5 = 165.25
+2026-08-01 07:44:09 - DB primary update successful
+2026-08-01 07:44:09 - Response sent: code=0, balance=165.25
+2026-08-01 07:44:09 - GGR | INR loss=5 → INR loss=5 (rate=1INR=1PKR)
+2026-08-01 07:44:10 - GGR DEDUCT | HTTP: 200 | Resp: {"ok":true,"deducted":0.1499999999999999944488848768742172978818416595458984375}
+2026-08-01 07:44:10 - Game bet log inserted
+2026-08-01 07:44:10 - Connection closed

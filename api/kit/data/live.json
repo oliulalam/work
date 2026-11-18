@@ -1,0 +1,297 @@
+{
+    "gameCustomTypeLists": [],
+    "gameLists": [
+        {
+            "gameCode": "e2b258c3076709d5bef791b5031b7bd2",
+            "gameNameEn": "Sexy",
+            "img": "https://kaki66.com/uploads/game_icons/sexyg.jpg",
+            "vendorId": 18,
+            "vendorCode": "Sexy",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+     
+      {
+            "gameCode": "e18b53fffb12388f9e3cbe9895ca82f1",
+            "gameNameEn": "Mega Wheel",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/5765/public",
+            "vendorId": 141,
+            "vendorCode": "PP Live",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+     
+     
+        
+        {
+            "gameCode": "042f275d795c467244dd0014618ccc76",
+            "gameNameEn": "Money Time",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/5806/public",
+            "vendorId": 18,
+            "vendorCode": "PP Live",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "831d834fbc4f2b343e7cd5fb58eb6300",
+            "gameNameEn": "Poker Lubby",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/6316/public",
+            "vendorId": 18,
+            "vendorCode": "PP Live",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "e58e145313cf8c3a41a2240c1579b735",
+            "gameNameEn": "Super Trunfo",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/7844/public",
+            "vendorId": 18,
+            "vendorCode": "PP Live",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "b60df57bbcd472a887a9c9cff2a0e19c",
+            "gameNameEn": "Mega Roulette",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/5764/public",
+            "vendorId": 18,
+            "vendorCode": "PP Live",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "9d81ffc87aa4deeffde20ec4a19b6dcd",
+            "gameNameEn": "Imaginelive Roulette",
+            "img": "https://cdn.platincasino.com/platincasino/i/s3/galaxsys/ImagineliveLobby.webp",
+            "vendorId": 58,
+            "vendorCode": "Imaginelive",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "72a6110a64237b02bf0a71052fed6bcb",
+            "gameNameEn": "Gamingsoft Casino",
+            "img": "https://apacaff.com/wp-content/uploads/2024/05/gamingsoft-450x338.jpg",
+            "vendorId": 18,
+            "vendorCode": "Gamingsoft",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "a1a01855da3f29d09a848e705ad76ea1",
+            "gameNameEn": "32 Cards Casino",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/474/public",
+            "vendorId": 18,
+            "vendorCode": "Evolution-Live Asia",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "89a12f80c6dc0aa7651400364e8f5e80",
+            "gameNameEn": "Sweet Bonanza",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/5154/public",
+            "vendorId": 18,
+            "vendorCode": "Evolution-Live Asia",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "a1a01855da3f29d09a848e705ad76ea1",
+            "gameNameEn": "Dream Catcher",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/6291/public",
+            "vendorId": 18,
+            "vendorCode": "Evolution-Live Asia",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "a1a01855da3f29d09a848e705ad76ea1",
+            "gameNameEn": "Lightning Roulette",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/6330/public",
+            "vendorId": 18,
+            "vendorCode": "Evolution-Live Asia",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "a1a01855da3f29d09a848e705ad76ea1",
+            "gameNameEn": "Korean speed Baccarat 3",
+            "img": "https://imagedelivery.net/nVyft9zNw2I0pNVtrnC1zA/5746/public",
+            "vendorId": 18,
+            "vendorCode": "PP Live",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20swordofares",
+            "gameNameEn": "Sword of Ares 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20trsbox",
+            "gameNameEn": "Treasure Box 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20trswild2",
+            "gameNameEn": "Treasure Wild 2",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20tweethouse",
+            "gameNameEn": "Tweet House 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20ultim5",
+            "gameNameEn": "Ultimate 5",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20underground",
+            "gameNameEn": "Underground 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20vegasmagic",
+            "gameNameEn": "Vegas Magic 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20wildboost",
+            "gameNameEn": "Wild Boost 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20wildparty",
+            "gameNameEn": "Wild Party 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20wildpix",
+            "gameNameEn": "Wild Pixies 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20wolfie",
+            "gameNameEn": "Wolfie 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20xmascarol",
+            "gameNameEn": "Christmas Carol 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs20yisunshin",
+            "gameNameEn": "Yi Sun Shin 20",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs243caishien",
+            "gameNameEn": "Caishen's Cash 243",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs243chargebull",
+            "gameNameEn": "Charging Bull 243",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs243ckemp",
+            "gameNameEn": "Chicken Emperor 243",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs243dancingpar",
+            "gameNameEn": "Dancing Party 243",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs243discolady",
+            "gameNameEn": "Disco Lady 243",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        },
+        {
+            "gameCode": "vs243empcaishen",
+            "gameNameEn": "Emperor Caishen 243",
+            "img": "https://ossimg.91admin123admin.com/91club/gamelogo/PG/1.png",
+            "vendorId": 18,
+            "vendorCode": "PRAGMATIC",
+            "imgUrl2": null,
+            "customGameType": 0
+        }
+    ]
+}

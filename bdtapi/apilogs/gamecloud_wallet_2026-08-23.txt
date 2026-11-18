@@ -1,0 +1,6 @@
+[2026-08-23 01:06:53] sync user=230 balance=3
+[2026-08-23 09:52:17] sync user=238 balance=50
+[2026-08-23 23:30:58] sync user=241 balance=50
+[2026-08-23 23:31:00] sync user=241 balance=50
+[2026-08-23 23:31:39] sync user=241 balance=50
+[2026-08-23 23:36:59] sync user=241 balance=6.4
